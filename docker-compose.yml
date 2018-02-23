@@ -1,0 +1,40 @@
+version: "3"
+
+services:
+  api:  #Node.js App
+    container_name: bb-api
+    build: 1.0
+    ports:
+      - "3000:3000" 
+      - "9229:9229" 
+    environment:
+      - Node_ENV=local
+      - ES_HOST=elastisearch
+      - PORT=3000
+    volumes:
+      - ./books:/usr/src/app/books
+
+  frontend:
+    container_name: bb-frontend
+    image:  nginx
+    volumes:
+      - ./public:/usr/share/nginx/html
+    ports:
+      - "8080:80"
+    
+  elastisearch:
+    container_name: bb-search
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.1.1
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    environment:
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - discovery.type=single-node
+    ports:
+      - 9300:9300
+      - 9200:9200
+
+volumes:
+  - ./transcript_database/files
+  esdata:
