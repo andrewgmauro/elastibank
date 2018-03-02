@@ -1,0 +1,229 @@
+﻿CASE: ROBERT LEE BROWN v. COMMONWEALTH OF VIRGINIA
+No. 2741-01-2
+DATE: FEBRUARY 26, 2002
+----------
+COURT OF APPEALS OF VIRGINIA
+
+
+ROBERT LEE BROWN 
+v. 
+COMMONWEALTH OF VIRGINIA
+
+Present:  Judges Elder, Bray and Annunziata
+Argued by teleconference
+
+
+
+	MEMORANDUM OPINION* BY
+	JUDGE LARRY G. ELDER
+								   
+
+
+	FROM THE CIRCUIT COURT OF HENRICO COUNTY
+Gary A. Hicks, Judge
+
+		Steven A. Witmer, Assistant Attorney General 
+(Randolph A. Beales, Attorney General, on 
+brief), for appellant.
+
+		Christopher A. Bain (Goodwin, Sutton & DuVal, 
+P.L.C., on brief), for appellee.
+
+
+	Robert Lee Brown (defendant) stands indicted for possession 
+of cocaine.  Pursuant to Code  19.2-398, the Commonwealth 
+appeals a pretrial ruling granting defendant's motion to 
+suppress all evidence resulting from a routine traffic stop 
+which he contended evolved into an unlawful seizure.  The trial 
+court apparently found that the questioning which led to 
+defendant's arrest constituted both an unreasonable seizure and 
+a custodial interrogation for which defendant had not been read 
+his Miranda rights.  Under the particular facts of this case, we 
+hold that the brief stop supported by probable cause and the 
+limited questioning which led to defendant's admitting he had 
+illegal drugs in his possession violated neither the Fourth nor 
+the Fifth Amendment.  Thus, we reverse the trial court's ruling 
+and remand for further proceedings consistent with this opinion.
+I.
+BACKGROUND
+	On March 28, 2001, while on routine patrol on the interstate 
+in Henrico County, State Trooper D.J. Corbett observed a vehicle 
+traveling 68 miles per hour in a 55-mile-per-hour zone.  Trooper 
+Corbett activated his blue lights, and the vehicle pulled to the 
+shoulder and stopped.  Trooper Corbett asked the driver, 
+defendant, for his license and registration.  Because the car was 
+rented, the rental agreement served as the registration.
+Defendant gave Trooper Corbett his license, and while 
+defendant was retrieving his rental agreement, Trooper Corbett 
+asked him why he was speeding.  Defendant responded that he was 
+late for court in New York.  Trooper Corbett asked defendant why 
+he was going to court, and defendant replied "that he had a 
+possession charge."  Suspecting defendant might have drugs in 
+his possession at that time, as well, Trooper Corbett then asked 
+defendant, "[W]ell, you don't have anything illegal on your 
+person now, do you?"  Defendant said he did, and when Trooper 
+Corbett asked him what it was, defendant responded that he had 
+some marijuana.  At the time defendant admitted having marijuana 
+in his possession, he was still looking for his rental 
+agreement.
+	Trooper Corbett then asked defendant "if he minded [Trooper 
+Corbett's] search[ing] his person."  Defendant responded, "No," 
+and said "it was in his left front pants pocket."  Trooper 
+Corbett then found a small glass vial containing a powdered 
+substance which he concluded was cocaine, and he placed defendant 
+under arrest for possessing cocaine.  The arrest occurred five to 
+ten minutes after Trooper Corbett first activated his blue lights 
+to effect the traffic stop.
+	Defendant moved to suppress the evidence.  In granting the 
+suppression motion, the trial court concluded that Trooper 
+Corbett's questions to defendant about "possession" were not 
+supported by reasonable suspicion and, thus, impermissibly 
+exceeded the scope of the stop.  It also ruled that by pursuing 
+this alternate investigation, Trooper Corbett turned the 
+encounter into a custodial interrogation. 
+II.
+ANALYSIS
+	On appeal of a ruling on a motion to suppress, we view the 
+evidence in the light most favorable to the prevailing party, 
+here the defendant, granting to the evidence all reasonable 
+inferences deducible therefrom.  Commonwealth v. Grimstead, 12 
+Va. App. 1066, 1067, 407 S.E.2d 47, 48 (1991).  "[W]e are bound 
+by the trial court's findings of historical fact unless 'plainly 
+wrong' or without evidence to support them," McGee v. 
+Commonwealth, 25 Va. App. 193, 198, 487 S.E.2d 259, 261 (1997) 
+(en banc), but we review de novo the trial court's application 
+of defined legal standards such as probable cause and reasonable 
+suspicion to the particular facts of the case, Ornelas v. United 
+States, 517 U.S. 690, 699, 116 S. Ct. 1657, 1663, 134 L. Ed. 2d 
+911 (1996).
+A.
+CUSTODIAL INTERROGATION UNDER THE FIFTH AMENDMENT
+	Although "Miranda warnings are required whenever a suspect 
+is subject to 'custodial interrogation,'" not every detention 
+"constitute[s] a custodial interrogation for purposes of 
+Miranda."  Cherry v. Commonwealth, 14 Va. App. 135, 140, 415 
+S.E.2d 242, 244 (1992) (quoting Miranda v. Arizona, 384 U.S. 
+436, 444, 86 S. Ct. 1602, 1612, 16 L. Ed. 2d 694 (1966)).
+	A routine, roadside traffic stop and 
+the usual questioning associated with such a 
+brief stop generally will not be considered 
+"custodial interrogation" because the 
+detention is usually of very short duration 
+and the attendant circumstances "are not 
+such that the motorist feels completely at 
+the mercy of police."  Such stops are 
+usually in public and only one or perhaps 
+two officers are usually present.  
+Consequently, Miranda warnings are not 
+required prior to the type [of] questioning 
+usually associated with such stops.
+
+Id. at 138-39, 415 S.E.2d at 243-44 (quoting Berkemer v. 
+McCarty, 468 U.S. 420, 437-38, 104 S. Ct. 3138, 3148-49, 82 
+L. Ed. 2d 317 (1984)) (citation omitted).  Although a stop based 
+on reasonable suspicion to conduct a narcotics investigation may 
+not be a "routine" traffic stop, it nevertheless does not become 
+a custodial interrogation simply because the subject is 
+narcotics.  Id.  A suspect is "'in custody' for purposes of 
+Miranda [only] if [he] has been arrested or if his freedom of 
+action has been curtailed to a degree associated with arrest."  
+United States v. Sullivan, 138 F.3d 126, 130 (4th Cir. 1998).
+	Here, Trooper Corbett had probable cause to stop defendant 
+for speeding.  The stop occurred on the interstate, in public 
+view, Trooper Corbett was the only officer at the scene, and the 
+stop was brief, lasting no more than five to ten minutes.  
+Trooper Corbett immediately requested defendant's driver's 
+license and registration and asked him why he was speeding, 
+routine actions in a traffic stop.  Defendant indicated he was 
+late for a court appearance.  When Corbett inquired about the 
+nature of the court appearance, defendant responded that it was 
+a possession charge.  Trooper Corbett's inquiry as to whether 
+defendant had any illegal substances in his possession at that 
+time, although unrelated to the reasons for an ordinary traffic 
+stop, did not convert the brief encounter into a formal arrest 
+or indicate to defendant that his freedom of movement was being 
+curtailed to the degree associated with a formal arrest.
+	Thus, although we defer to the trial court's findings of 
+fact, we hold as a matter of law that defendant was not subject 
+to a custodial interrogation when he admitted having marijuana 
+in his possession.
+B.
+QUESTIONING ABOUT DRUG POSSESSION UNDER THE FOURTH AMENDMENT
+	"The 'custody' that implicates the Miranda rule is 
+conceptually distinct from a seizure implicating the Fourth 
+Amendment. . . .  Even though a routine traffic stop does not 
+amount to a custodial detention of the motorist, it does 
+constitute a 'seizure' within the meaning of the Fourth 
+Amendment."  Sullivan, 138 F.3d at 131.
+	An officer may effect a traffic stop when, inter alia, he 
+has probable cause to believe a traffic violation has occurred.  
+See Dickerson v. Commonwealth, 35 Va. App. 172, 177, 543 S.E.2d 
+623, 626 (2001).  He may "request a driver's license, insurance 
+papers, vehicle registration, run a computer check thereon, and 
+issue a citation."  United States v. Shabazz, 993 F.2d 431, 437 
+(5th Cir. 1993).  Once the purpose of the stop has been 
+completed, the stop may not be extended absent consent or 
+additional information amounting to reasonable suspicion or 
+probable cause.  See Dickerson, 35 Va. App. at 178, 543 S.E.2d 
+at 626.  However, during the stop, the officer may question the 
+person on subjects not directly related to the reasons which 
+provided the basis for the stop, even if he lacks reasonable 
+suspicion as to the unrelated subjects, as long as "the 
+detention to that point continue[s] to be supported by the facts 
+that justified its initiation" and "the questioning [does] 
+nothing to extend the duration of the initial, valid seizure."  
+Shabazz, 993 F.2d at 437 (approving questioning about travel 
+plans and request for consent to search from driver stopped for 
+speeding while police awaited results of computer check of 
+driver's license); see also United States v. Childs, ___ F.3d 
+___, ___ (7th Cir. 2002) (en banc); State v. Hickman, 763 A.2d 
+330, 336-38 (N.J. Super. Ct. App. Div. 2000).  But see United 
+States v. Holt, 264 F.3d 1215, 1229-30 (10th Cir. 2001) (en 
+banc) (rejecting reasoning of Shabazz).
+Here, the evidence establishes that, at the time Trooper 
+Corbett asked defendant whether he had "anything illegal on 
+[his] person" and defendant responded that he was carrying 
+marijuana, defendant was searching for and had not yet found the 
+rental car agreement which served as the registration for the 
+vehicle.  Thus, the purpose of the stop had not yet been 
+achieved when defendant admitted he had marijuana in his 
+possession.  The evidence also established that the entire stop, 
+from the time Trooper Corbett activated his blue lights until he 
+found the cocaine in defendant's pocket, took no more than five 
+to ten minutes.  Thus, at the time defendant told Trooper 
+Corbett he had marijuana in his possession, which provided 
+probable cause to arrest defendant for possession of marijuana, 
+"the detention . . . continued to be supported by the facts that 
+justified its initiation" and "the questioning did nothing to 
+extend the duration of the initial, valid seizure."  Shabazz, 
+993 F.2d at 437.
+In short, under the facts of this case, Trooper Corbett's 
+seizure of the cocaine violated neither the Fourth nor the Fifth 
+Amendment.  The questioning which led to the discovery of the 
+cocaine occurred during a routine traffic stop supported by 
+probable cause, in which Trooper Corbett was entitled to obtain 
+defendant's license and registration.  The trooper's inquiry 
+regarding whether defendant had anything illegal in his 
+possession occurred before defendant had located his vehicle 
+registration and, thus, did not unduly prolong the stop.  
+Further, this questioning flowed logically from defendant's 
+response to the officer's inquiry about why he was speeding and 
+involved only a limited number of questions.  Finally, the stop 
+was of limited duration, lasting no more than five to ten 
+minutes.  Once defendant admitted he had marijuana in his 
+possession, Trooper Corbett had probable cause to arrest him for 
+that offense and to search him incident to arrest.  Pursuant to 
+that search, Trooper Corbett found what he believed to be 
+cocaine, giving him probable cause to arrest defendant for 
+possession of cocaine.  Thus, we reverse the trial court's 
+decision to grant the suppression motion, and we remand for 
+further proceedings consistent with this opinion.
+Reversed and remanded.
+
+* Pursuant to Code  17.1-413, this opinion is not 
+designated for publication. 
+ 
+
+%%%
+ 
+

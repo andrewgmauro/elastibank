@@ -1,0 +1,533 @@
+﻿CASE:DEPARTMENT OF THE AIR FORCE v. FEDERAL LABOR RELATIONS AUTHORITY
+No. 01-1373
+DATE: OCTOBER 10, 2002
+----------
+                  United States Court of Appeals
+
+               FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+       Argued October 10, 2002    Decided January 17, 2003 
+
+                           No. 01-1373
+
+        Department of the Air Force, 436th Airlift Wing, 
+                      Dover Air Force Base, 
+                            Petitioner
+
+                                v.
+
+               Federal Labor Relations Authority, 
+                            Respondent
+
+    American Federation of Government Employees, Local 1709, 
+                    Intervenor for Respondent
+
+        On Petition for Review and Cross-Application for 
+                 Enforcement of an Order of the 
+                Federal Labor Relations Authority
+
+     Sandra Wien Simon, Attorney, U.S. Department of Jus-
+tice, argued the cause for petitioner.  With her on the briefs 
+was William Kanter, Deputy Director.
+
+     David M. Smith, Solicitor, Federal Labor Relations Au-
+thority, argued the cause for respondent.  With him on the 
+brief were William R. Tobey, Deputy Solicitor, and James F. 
+Blandford, Attorney.
+
+     Kevin M. Grile argued the cause for intervenor.  With him 
+on the brief were Mark D. Roth and Charles A. Hobbie.
+
+     Before:  Sentelle, Rogers and Garland, Circuit Judges.
+
+     Opinion for the Court filed by Circuit Judge Sentelle.
+
+     Sentelle, Circuit Judge:  The Department of the Air 
+Force, 436th Airlift Wing, Dover Air Force Base ("Air 
+Force") petitions for review of an order from the Federal 
+Labor Relations Authority ("FLRA") concluding that the Air 
+Force committed an unfair labor practice by conducting a 
+formal discussion with a bargaining unit employee concerning 
+the mediation of a formal Equal Employment Opportunity 
+("EEO") grievance without affording the labor union of which 
+the employee is a member notice and an opportunity to be 
+present pursuant to 5 U.S.C. s 7114(a)(2)(A) (2000).  The 
+FLRA seeks enforcement of its order.  The Air Force argues 
+that an EEO complaint is not a "grievance" under section 
+7103(a)(9) and, thus, that it does not trigger the Union's 
+formal discussion rights under section 7114(a)(2)(A).  The Air 
+Force also argues that the FLRA's interpretation of section 
+7114(a)(2)(A) is impermissible, urging us to adopt the reason-
+ing of the Ninth Circuit in IRS, Fresno Service Center, 
+Fresno, Calif. v. FLRA, 706 F.2d 1019 (9th Cir. 1983).  Be-
+cause we agree with the FLRA that its interpretation is 
+permissible, we deny the Air Force's petition for review and 
+grant the FLRA's cross-application for enforcement of its 
+order.
+
+                                I
+
+     The 1972 amendments to Title VII of the Civil Rights Act 
+extend coverage of the Act to include the employment prac-
+tices of the federal government.  Pub. L. No. 92-261, s 11, 86 
+Stat. 111 (1972) (codified as amended at 42 U.S.C. s 2000e-16 
+(2000)).  The authority for enforcing the Civil Rights Act 
+
+resides with the Equal Employment Opportunity Commission 
+("EEOC").  42 U.S.C. s 2000e-4 (2000).
+
+     Under EEOC regulations, an employee is required to at-
+tempt to resolve his complaint on an informal basis (e.g., pre-
+complaint counseling) before filing a formal complaint.  Pur-
+suant to the federal sector EEO program, agencies are 
+responsible for investigating complaints filed against them by 
+their employees.  29 C.F.R. s 1614.108(a) (2002).  Mediation 
+is often available in appropriate cases to assist the parties in 
+resolving their disputes.  In this case, the Air Force had a 
+contract with Resolution Group to provide mediation services.  
+The contract provides that Resolution Group will provide its 
+services pursuant to the Alternative Dispute Resolution Act, 5 
+U.S.C. s 571 et seq. (2000) ("ADR Act").
+
+     EEOC regulations encourage agencies to settle EEO cases.  
+They are encouraged to "incorporate alternative dispute reso-
+lution [ADR] techniques into their investigative efforts" in 
+order to promote early resolution of disputes.  29 C.F.R. 
+s 1614.108(b).  They are instructed to make "reasonable ef-
+forts" to voluntarily settle disputes as early as possible.  29 
+C.F.R. s 1614.603.
+
+     EEOC regulations provide that when a complaint of dis-
+crimination is covered by a collective-bargaining agreement 
+("CBA") that permits such complaints to be raised in a 
+negotiated grievance procedure, the person filing the com-
+plaint "must elect to raise the matter under either part 1614 
+or the negotiated grievance procedure, but not both."  29 
+C.F.R. s 1614.301(a).  On the other hand, "[w]hen a person is 
+not covered by a [CBA] that permits allegations of discrimi-
+nation to be raised in a negotiated grievance procedure, 
+allegations of discrimination shall be processed as complaints 
+under [EEOC regulations part 1614]."  29 C.F.R. 
+s 1614.301(b).
+
+     Section 1614.109(e) provides that attendance at hearings is 
+limited to those with direct knowledge relating to the com-
+plaint.  Furthermore, "[h]earings are part of the investigative 
+process and are thus closed to the public."  29 C.F.R. 
+s 1614.109(e).
+
+     EEOC Management Directive 110 ("MD 110") is a docu-
+ment issued by the EEOC to provide federal agencies with 
+EEOC policies, procedures, and guidance relating to the 
+processing of employment discrimination complaints governed 
+by part 1614 of EEOC regulations.  EEOC regulations and 
+MD 110 require that all agencies establish an ADR program 
+to be utilized during the pre-complaint process as well as 
+during the formal complaint process.  29 C.F.R. 
+s 1614.102(b)(2);  MD 110, Ch. 3, s I.
+
+     MD 110 also provides that agencies must be mindful of the 
+information disclosure prohibitions imposed by the Privacy 
+Act, 5 U.S.C. s 552a (2000).  Pre- and post-complaint infor-
+mation is contained in a system of records that are subject to 
+the Privacy Act.  This information "cannot be disclosed to a 
+union unless the complaining party elects union representa-
+tion or gives his/her written consent."  MD 110, Ch. 3, 
+s II(A)(6).
+
+     Confidentiality is an essential component to the success of 
+agency ADR proceedings.  MD 110, Ch. 3, s VII(A)(3).
+
+     Parties who know that their ADR statements and infor-
+     mation are kept confidential will feel free to be frank and 
+     forthcoming during the proceeding, without fear that 
+     such information may later be used against them.  To 
+     maintain that degree of confidentiality, there must be 
+     explicit limits placed on the dissemination of ADR infor-
+     mation.
+     
+Id.  Agencies are encouraged to issue their own written 
+policies to protect the confidentiality of ADR proceedings.  
+Id.
+
+     The Federal Service Labor-Management Relations Act, 5 
+U.S.C. s 7101 et seq. (the "Act"), provides a general frame-
+work for regulating labor-management relations for the fed-
+eral government.  The Act provides that CBAs shall contain 
+procedures for the settlement of grievances.  5 U.S.C. 
+s 7121(a)(1).  However, the parties to a CBA can exclude any 
+subject from the coverage of the CBA and its grievance 
+procedures.  Id.
+
+     The Act regulates the manner in which CBAs are negotiat-
+ed as well as the manner in which a bargaining unit employee 
+may challenge adverse personnel actions.  Section 7114 of the 
+Act defines the right of representation of the employees in 
+the grievance process.  It provides that
+
+     [a]n exclusive representative of an appropriate unit in an 
+     agency shall be given the opportunity to be represented 
+     at -
+     
+     any formal discussion between one or more representa-
+     tives of the agency and one or more employees in the 
+     unit or their representatives concerning any grievance or 
+     any personnel policy or practices or other general condi-
+     tion of employment.   
+5 U.S.C. s 7114(a)(2).  Section 7103(a)(9) defines what consti-
+tutes a "grievance."
+
+     "[G]rievance" means any complaint -
+     
+     (A) by any employee concerning any matter relating to 
+     the employment of the employee;
+     
+     (B) by any labor organization concerning any matter 
+     relating to the employment of any employee;  or
+     
+     (C) by an employee, labor organization, or agency con-
+     cerning -
+     
+          (i) the effect or interpretation, or a claim of breach, of 
+          a [CBA];  or
+          
+          (ii) any claimed violation, misinterpretation, or misap-
+          plication of any law, rule, or regulation affecting condi-
+          tions of employment.       
+5 U.S.C. s 7103(a)(9).
+
+     The matters to be processed under the CBA's grievance 
+procedures are expressly limited by section 7121(d) of the 
+Act, which preserves the employee's right to proceed with a 
+discrimination claim through existing statutory schemes.  
+Section 7121(d), similarly to part 1614 of EEOC regulations, 
+provides for the aggrieved employee to elect his means of 
+seeking relief.  If an "aggrieved employee" is affected by a 
+prohibited personnel practice under 5 U.S.C. s 2302(b)(1) 
+
+(2000) (incorporating the Civil Rights Act) that also falls 
+within the coverage of the negotiated grievance procedure, 
+the employee "may raise the matter under a statutory proce-
+dure or the negotiated procedure, but not both."  5 U.S.C. 
+s 7121(d).  Section 7121(d) notes that selection of the negoti-
+ated grievance procedure does not preclude the aggrieved 
+employee from requesting EEOC review of a final decision in 
+a matter "involving a complaint of discrimination of the type 
+prohibited by any law administered by the [EEOC]."  5 
+U.S.C. s 7121(d).  Thus, section 7121(d) provides for alterna-
+tive avenues of relief, and the EEOC has final review authori-
+ty over any decision resulting from the grievance procedure 
+involving discrimination within the EEOC's jurisdiction.
+
+     Elizey Jones, Jr., a member of the bargaining unit of 
+employees at Dover AFB, filed a formal EEO complaint of 
+discrimination pursuant to part 1614 of the EEOC regulations 
+in November of 1999 in connection with a suspension that had 
+been imposed upon him.  Jones did not file a complaint 
+pursuant to the CBA grievance procedure because the CBA 
+explicitly excludes claims of discrimination from the grievance 
+procedure.  Labor-Management Contract between Dover Air 
+Force Base, Delaware and Local 1709, AFGE at Art. 22, s 3 
+("The negotiated Grievance procedures will not cover/pertain 
+to grievances or appeals concerning ... EEO complaints.").
+
+     Jones requested that the Air Force initiate mediation of his 
+complaint pursuant to EEOC regulations.  The Air Force 
+referred this request to the Resolution Group.  Kathy Frag-
+noli, owner of the Resolution Group, was assigned to mediate 
+the dispute.
+
+     Prior to the mediation, Jones and the agency representa-
+tive, Captain Rockenbach, signed a confidentiality agreement 
+in order to preserve the confidentiality of the mediation.  On 
+January 18, 2000, mediator Fragnoli, Jones, and Rockenbach 
+participated in a mediation proceeding for approximately six 
+hours.  About 20% of the time was spent in joint sessions, the 
+rest in individual caucuses.  The parties failed to reach a 
+settlement.  Jones' union, Local 1709 of the American Feder-
+
+ation of Government Employees, was neither notified of, nor 
+given the opportunity to attend, the mediation.
+
+     Local 1709 filed an unfair labor practice complaint with the 
+FLRA, and a hearing was held before Administrative Law 
+Judge Garvin Lee Oliver (the "ALJ").  The ALJ concluded 
+that the mediation proceedings constituted a formal discus-
+sion within the meaning of section 7114(a)(2)(A) of the Act 
+and that the Air Force violated that section by failing to 
+provide Local 1709 notice and an opportunity to be represent-
+ed at the mediation.  The ALJ found that the mediation 
+concerned a grievance within the meaning of section 
+7114(a)(2)(A), relying on an FLRA decision that formal EEO 
+complaints are grievances within section 7114(a)(2)(A) not-
+withstanding a negotiated grievance procedure that excludes 
+discrimination complaints.  See Luke Air Force Base, Ariz., 
+54 F.L.R.A. 716 (1998), rev'd, 208 F.3d 221 (9th Cir. 1999) 
+(Table).  The ALJ also concluded that the presence of a union 
+representative at the mediation of an EEO complaint would 
+not conflict with EEOC regulations or the ADR Act.
+
+     The Air Force filed exceptions to the decision of the ALJ.  
+The FLRA agreed with the ALJ that the Air Force violated 
+the Act by failing to provide Local 1709 with notice and an 
+opportunity to be heard.  The FLRA found that the media-
+tion concerned a grievance.  In doing so, the FLRA focused 
+on the language of section 7103(a)(9) which states that a 
+grievance is "any complaint ... by any employee concerning 
+any matter relating to the employment of the employee."  5 
+U.S.C. s 7103(a)(9) (emphasis added).  The FLRA found that 
+this broad definition included any employment-related com-
+plaint, regardless of the forum chosen.
+
+     The FLRA rejected the Ninth Circuit's determination that 
+the formal discussion right does not apply during EEOC 
+proceedings because those complaints are "discrete and sepa-
+rate from the grievance process to which 5 U.S.C. ss 7103 
+and 7114 are directed."  IRS Fresno, 706 F.2d at 1024.  The 
+FLRA also rejected the Air Force's argument that section 
+7121 provides a basis for limiting the definition of grievance.  
+The FLRA relied on this Court's decision in National Trea-
+
+sury Employees Union v. FLRA, 774 F.2d 1181 (D.C. Cir. 
+1985) ("NTEU"), in which this Court held that section 7121 
+provides that a grievance includes both those complaints filed 
+pursuant to a negotiated grievance procedure and those filed 
+pursuant to alternative statutory procedures.  Id. at 1187.  
+The FLRA, after reviewing the legislative history of the Act, 
+concluded that the term grievance should not be limited to 
+matters covered by a negotiated grievance procedure.  More-
+over, the FLRA held that to the extent the legislative history 
+supports a narrower definition of grievance, it does so only 
+with respect to section 7121, not the formal discussion right 
+provisions of section 7114.
+
+     The FLRA rejected the Air Force's arguments that unions 
+have no institutional interest in the processing of EEO com-
+plaints.  The FLRA stated that unions have an interest in 
+how such complaints are resolved and that their interest does 
+not depend on the forum in which the employee files his 
+complaint.  The FLRA, citing Department of Veterans Af-
+fairs v. FLRA, 3 F.3d 1386, 1390 (10th Cir. 1993), noted that 
+the resolution of one individual complaint may bear on the 
+rights of other bargaining unit employees.
+
+     The FLRA also rejected the Air Force's argument that the 
+exclusion of EEO disputes from the negotiated grievance 
+procedure amounts to a waiver of any rights Local 1709 has 
+with respect to such matters.  The FLRA remarked that 
+Local 1709 may have excluded these matters simply to avoid 
+some of the expenses related to processing EEO grievances.
+
+     The FLRA found no conflict between Local 1709's formal 
+discussion right and EEOC regulations or the ADR Act.  The 
+FLRA found no EEOC regulation precluding union attend-
+ance.  With respect to the ADR Act, the FLRA found that 
+Local 1709 was a party under the ADR Act because it was 
+"entitled as of right to be admitted," 5 U.S.C. s 551(3), 
+pursuant to its formal discussion rights under section 
+7114(a)(2)(A) of the Act.  In the alternative, the FLRA ruled 
+that the ADR Act contemplates the attendance and partic-
+ipation of "nonparty participants."  5 U.S.C. s 574(a)(1), (e).  
+Lastly, the FLRA dismissed the Air Force's remaining argu-
+
+ments as conjectural.  The Air Force had cited potential 
+problems with the FLRA's rule that the FLRA thought 
+purely hypothetical in the present case.
+
+     The Air Force petitioned for review here.
+
+                                II
+
+     Section 7103(a)(9) defines "grievance" as "any complaint 
+... by any employee concerning any matter relating to the 
+employment of the employee."  5 U.S.C. s 7103(a)(9).  Al-
+though the Air Force contends that the EEO proceeding 
+initiated by Jones is not a grievance within the meaning of 
+section 7103(a)(9), our decision in NTEU demonstrates other-
+wise.  See 774 F.2d at 1186-87 (holding that a grievance 
+includes both those complaints filed pursuant to a negotiated 
+grievance procedure and those filed pursuant to alternative 
+statutory procedures).  The Air Force suggests that NTEU is 
+distinguishable because it involved a Merit Systems Protec-
+tion Board ("MSPB") proceeding rather than an EEO pro-
+ceeding;  however, our analysis in NTEU relied upon the text, 
+structure, and legislative history of the Act and did not rest 
+on the type of grievance in question.  See 774 F.2d at 1185-
+88.  We find no reason to distinguish NTEU;  accordingly, we 
+will read the term "grievance" as we did in that case.
+
+     Because the present case involves a "grievance" as defined 
+in section 7103, Local 1709's section 7114 formal discussion 
+rights are triggered, and we turn to the issue of whether the 
+FLRA's construction of section 7114(a)(2)(A) passes Chevron 
+muster.  In interpreting an agency's enabling or organic 
+statute, we "employ[ ] traditional tools of statutory construc-
+tion" to determine "whether Congress has directly spoken to 
+the precise question at issue."  Chevron U.S.A. Inc. v. Natu-
+ral Res. Def. Council, 467 U.S. 837, 843 n.9, 842 (1984).  We 
+"must give effect to the unambiguously expressed intent of 
+Congress;"  if the statute is unambiguous on the question at 
+issue, our inquiry ends there.  Id. at 842-43 (Chevron step 
+one).  Where "the statute is silent or ambiguous with respect 
+to the specific issue, the question for the court is whether the 
+agency's answer is based on a permissible construction of the 
+
+statute."  Id. at 843 (Chevron step two).  The Supreme Court 
+has stated that the FLRA is entitled to "considerable defer-
+ence when it exercises its special function of applying the 
+general provisions of the [Act] to the complexities of federal 
+labor relations."  National Fed'n of Fed. Employees, Local 
+1309 v. Dep't of the Interior, 526 U.S. 86, 99 (1999) (quotation 
+omitted).
+
+     Section 7114(a)(2)(A) provides that a union has a right to be 
+represented at "any formal discussion between one or more 
+representatives of the agency and one or more employees in 
+the unit or their representatives concerning any grievance or 
+any personnel policy or practices or other general condition of 
+employment."  5 U.S.C. s 7114(a)(2)(A).  The FLRA has 
+construed this language as providing Local 1709 the right to 
+have a union representative present at the mediation of a 
+formal EEO complaint filed by Jones, one of Local 1709's 
+members.
+
+     The language of section 7114(a)(2)(A) is quite broad.  Be-
+cause it does not yield a clear and unambiguous interpreta-
+tion, we move past step one to step two of the Chevron 
+inquiry.  The FLRA's construction is a natural reading of the 
+broad statutory language.  In addition, the FLRA's construc-
+tion is supported by our decision in NTEU.  774 F.2d at 1189 
+(holding that section 7114(a)(2)(A) provides "that an exclusive 
+representative has the right to be present at any formal 
+discussion of a grievance between management and a bar-
+gaining unit employee").  Nevertheless, the Air Force argues 
+that the FLRA's construction is impermissible, urging the 
+Court to follow the Ninth Circuit's reading of section 
+7114(a)(2)(A) in IRS Fresno, 706 F.2d 1019.  In that case, the 
+Ninth Circuit held that a pre-complaint conciliation confer-
+ence was not a grievance, explaining that EEOC procedures 
+"are not controlled by [section] 7114(a)(2)(A) because they are 
+discrete and separate from the grievance process to which 
+[sections] 7103 and 7114 are directed."  IRS Fresno, 706 F.2d 
+at 1024.  The problem with this argument is that we previ-
+ously disagreed with the Ninth Circuit's narrow reading of 
+section 7114(a)(2)(A).  NTEU, 774 F.2d at 1188.  Further-
+more, as we pointed out in NTEU, IRS Fresno appears "to be 
+
+based primarily on its conclusion that the precomplaint con-
+ference did not constitute a 'formal' discussion" rather than 
+on its brief analysis of the grievance issue.  Id.
+
+     As it did with the grievance issue, the Air Force attempts 
+to distinguish NTEU on the grounds that EEO proceedings 
+utilized by Jones here are a different vehicle than MSPB 
+proceedings utilized in NTEU.  The Air Force notes that the 
+Ninth Circuit has treated EEO proceedings and MSPB pro-
+ceedings differently.  Compare IRS Fresno, 706 F.2d 1019 
+(finding no formal discussion right in EEO proceeding) with 
+Dep't of Veterans Affairs Med. Ctr. v. FLRA, 16 F.3d 1526 
+(9th Cir. 1994) (finding a formal discussion right in MSPB 
+proceeding).  However, the Ninth Circuit itself has noted that 
+our reasoning in NTEU, rejecting the IRS Fresno analysis, is 
+more persuasive than that court's own reasoning in IRS 
+Fresno.  Veterans Affairs Med. Ctr., 16 F.3d at 1534 n.4.
+
+     The Air Force also attempts to evade NTEU by emphasiz-
+ing the primacy of an aggrieved employee's rights in the 
+context of a discrimination claim.  The Air Force notes that 
+in NTEU we acknowledged in a footnote that "in the case of 
+grievances arising out of alleged discrimination ..., Congress 
+has explicitly decided that a conflict between the rights of 
+identifiable victims of discrimination and the interests of the 
+bargaining unit must be resolved in favor of the former."  774 
+F.2d at 1189 n.12.  However, the point we made in footnote 
+12 of NTEU is that "a direct conflict between the rights of an 
+exclusive representative under s 7114(a)(2)(A) and the rights 
+of an employee victim of discrimination should ... presum-
+ably be resolved in favor of the latter."  Id.  Such a direct 
+conflict is not present here.
+
+     The Air Force argues that there is a conflict between the 
+FLRA's construction of section 7114(a)(2)(A) and the confi-
+dentiality protections of both sections of the ADR Act (5 
+U.S.C. s 574(a) & (b)) and the Privacy Act, 5 U.S.C. s 552a.  
+This argument fails because neither of the statutes cited by 
+the Air Force prohibits union attendance at ADR proceed-
+ings.  The provisions of the ADR Act cited by the Air Force 
+concern only the confidentiality of communications made at 
+
+an ADR proceeding and do not address what persons or 
+parties may attend an ADR proceeding.  5 U.S.C. s 574.1  
+Similarly, the Privacy Act concerns the confidentiality of 
+records rather than what parties may attend an ADR pro-
+ceeding, 5 U.S.C. s 552a, and this case does not present a 
+situation where the presence of a union representative in an 
+ADR proceeding would result in the revelation of confidential 
+information in violation of the Privacy Act.  In other words, 
+neither the ADR Act nor the Privacy Act creates a conflict 
+(much less a direct conflict) with section 7114(a)(2)(A).
+
+     The Air Force also argues that the FLRA's construction of 
+section 7114(a)(2)(A) is impermissible because of EEOC regu-
+lation 29 C.F.R. s 1614.109(e), which provides that attendance 
+at agency hearings is "limited to persons determined by the 
+administrative judge to have direct knowledge relating to the 
+complaint."  However, as the Air Force acknowledged at oral 
+argument, this regulation says nothing about what happens at 
+ADR proceedings.
+
+     Left without a statute or regulation as a hook, the Air 
+Force attempts to hang its hat on an agency manual, MD 110.  
+Section VII of Chapter 3 of MD 110 addresses what it refers 
+to as ADR "core principles."  It states:  "Confidentiality must 
+be maintained by the parties, by any agency employees 
+involved in the ADR proceeding and in the implementation of 
+an ADR resolution...."  MD 110, Ch. 3, s VII(A)(3).  The 
+Air Force contends that union presence at ADR proceedings 
+would undermine the confidentiality of the process.  This 
+argument amounts to nothing more than the Air Force's 
+doubt that union representatives can keep confidential mat-
+ters confidential.  Union representatives are often in the 
+position of having to maintain confidentiality.  More impor-
+tantly, even assuming that an inconsistency between an agen-
+cy manual and a statute constitutes a conflict, the Air Force 
+
+__________
+     1 It is not entirely clear whether the ADR Act is applicable in this 
+case.  The ADR Act by its terms is voluntary and merely supple-
+ments, rather than limits, other available ADR techniques.  5 
+U.S.C. s 572(c).
+
+again fails to show a conflict with the FLRA's construction of 
+section 7114(a)(2)(A).
+
+     It is important to note one other reason why there is no 
+direct conflict in this case.  As the Air Force conceded, there 
+is no evidence that Jones (the employee) objected to union 
+presence at the mediation proceeding.  We do not foreclose 
+the possibility that an employee's objection to union presence 
+could create a "direct" conflict that should be resolved in 
+favor of the employee as described in footnote 12 of NTEU.  
+774 F.2d at 1189 n.12.  As there is no conflict present in the 
+case before us, the FLRA's construction is permissible.  Ac-
+cordingly, the Air Force committed an unfair labor practice in 
+failing to give Local 1709 notice of and the opportunity to be 
+present at the mediation.
+
+                               III
+
+     With support from our precedent in NTEU, 774 F.2d at 
+1186-87, we read section 7103(a)(9)'s broad definition of 
+"grievance" as encompassing both those complaints filed pur-
+suant to a negotiated grievance procedure and those filed 
+pursuant to alternative statutory procedures.  In addition, we 
+find permissible the FLRA's construction of section 
+7114(a)(2)(A) that provides Local 1709 the right to have a 
+union representative present at the mediation of a formal 
+EEO complaint filed by a bargaining unit employee.  For 
+these reasons, we deny the Air Force's petition for review 
+and grant the FLRA's cross-application for enforcement of its 
+order.
+
+
+%%%                                     

@@ -1,0 +1,550 @@
+﻿CASE: THE PEOPLE OF THE STATE OF ILLINOIS v. KERRY L. POPE
+No. 4-95-0021
+DATE: OCTOBER 12, 1996
+----------
+                              NO. 4-95-0021 
+
+                          IN THE APPELLATE COURT
+
+                                OF ILLINOIS
+
+                              FOURTH DISTRICT
+THE PEOPLE OF THE STATE OF ILLINOIS,    )    Appeal from
+          Plaintiff-Appellee,           )    Circuit Court of
+          v.                            )    Adams County
+KERRY L. POPE,                          )    No. 94CF182
+          Defendant-Appellant.          )    
+                                        )    Honorable
+                                        )    Dennis K. Cashman,
+                                        )    Judge Presiding.
+_________________________________________________________________
+
+          JUSTICE STEIGMANN delivered the opinion of the court:
+          A jury found defendant, Kerry L. Pope, guilty of one
+count of aggravated criminal sexual assault (720 ILCS 5/12-
+14(a)(2) (West 1992)) and one count of aggravated battery of a
+child (720 ILCS 5/12-4.3(a) (West 1992)), for which he was
+sentenced to consecutive terms of 60 years' and 30 years' impris-
+onment respectively.
+          Defendant appeals, arguing that (1) the trial court
+erred by admitting deoxyribonucleic acid (DNA) evidence because
+the polymerase chain reaction (PCR) amplification-based proce-
+dures for DNA identification are not generally accepted in the
+scientific community; and (2) the prosecutor's improper closing
+argument deprived him of a fair trial.  We affirm.      
+                               I. BACKGROUND
+          Prior to trial in August 1994, defendant sought a
+continuance to conduct a Frye hearing (see Frye v. United States,
+293 F. 1013 (D.C. Cir. 1923)) to determine the admissibility of
+DNA test results based on PCR analysis.  Because the Illinois appellate courts had not ruled on the admissibility of such
+evidence, the trial court granted the motion.  Before reviewing
+the evidence presented at the Frye hearing, we provide background
+information on both DNA structure and PCR analysis.  
+                   A. DNA Structure and Identification  
+           The following background information is taken from
+Thomas M. Fleming, Annotation, Admissibility of DNA Identifica-
+tion Evidence, 84 A.L.R.4th 313 (1991), unless otherwise noted.  
+The DNA molecule is a long, threadlike structure resembling a
+twisted ladder packed into the chromosomes in every nucleated
+cell.  Each side of the ladder is composed of a chain of sugars
+and phosphates, while the rungs attached to them consist of pairs
+of molecules called bases.  While most sections of this chain of
+bases are largely the same among humans, certain sections are
+variable.  Thus, a gene--the sequence of bases responsible for
+producing a particular protein--may be polymorphic, having two or
+more possible variations called alleles.  Because of poly-
+morphisms in human genetic structure, no two individuals (except
+for identical twins) have identical base sequences throughout
+their DNA.   
+          The PCR amplification method of DNA identification,
+first devised in 1985, is one of two kinds of DNA tests most
+commonly used for identification.  The other method is restric-
+tion fragment length polymorphism (RFLP) analysis, which our
+supreme court recently held to be generally accepted in the rele-
+vant scientific community.  People v. Miller, 173 Ill. 2d 167,
+188, 670 N.E.2d 721, 731 (1996).  By 1990, the PCR method was one
+of the most widely used techniques in medical and biological re-
+search.  People v. Lee, 212 Mich. App. 228, 264, 537 N.W.2d 233,
+250 (1995).  PCR-based techniques allow testing of DNA samples
+that have degraded as well as samples which are very small, such
+as a single strand of hair. 
+          In the PCR-based DQ-Alpha procedure, an analyst looks
+at one particular gene, the DQ-Alpha gene, which is genetically
+inherited and appears in varying forms in different people.  Lee,
+212 Mich. App. at 264-65, 537 N.W.2d at 250.  Six readily detect-
+able alleles are present in the DQ-Alpha locus, and they are
+identified with the following numbers:  1.1, 1.2, 1.3, 2, 3, and
+4.  These alleles are combined in pairs in each individual, and
+the six combinations result in 21 possible "genotypes," each of
+which appears in varying proportions within the population. 
+          In the PCR DQ-Alpha procedure, DNA is extracted from a
+sample, purified, and added to a buffer solution containing
+chemical primers (small pieces of DNA that recognize the four
+bases) and an enzyme called "TAQ polymerase."  The solution is
+then modified (denatured) by being placed in a thermal cycler
+which cycles it through several successive temperature plateaus. 
+During each cycle, the primer targets a specific gene and will
+bind to the genetically complementary portion of the DNA; fur-
+ther, TAQ polymerase works to copy the targeted gene.  After 30
+to 40 cycles, the DNA strand containing the targeted gene has
+been amplified billions of times. 
+          The amplified DNA is then flooded over a nylon membrane
+onto which have been dotted a number of "allele-specific" probes,
+each of which is designed to recognize one sequence of the
+targeted gene.  This may result in a color reaction and a visible
+dot on the membrane wherever a probe has identified one of the
+alleles.  A blue dot is a match; a blank is a nonmatch.  The
+amplified DNA may then be typed for the various DQ-Alpha geno-
+types.  This process is referred to as the reverse dot blot
+hybridization or the blue-dot procedure.
+          If the DQ-Alpha genotype of a suspect is different from
+that of the evidence sample, the suspect is excluded as a source
+of the evidence.  If the suspect and the evidence sample have the
+same genotype, then the suspect is included as a possible source. 
+The probability that some other, unrelated individual would also
+match the evidence sample is equal to the frequency of the
+genotype in the relevant population.  
+                         B. The Frye Hearing      
+          At the Frye hearing, the trial court deter-mined that
+Dr. Jenifer Ann Lindsey, a Federal Bureau of Investigation (FBI)
+special agent and a forensic serologist assigned to the DNA
+analysis unit, could testify as an expert in forensic serology
+and DNA analysis.  Dr. Lindsey explained that the FBI uses two
+techniques based on PCR analysis--namely, DQ-Alpha typing and
+polymarker typing.  The FBI has been using the DQ-Alpha typing
+technique since 1992 and the polymarker typing technique since
+August 1994 (after examining the polymarker technique "for well
+over a year" through validation and case studies).  
+          Dr. Lindsey testified in detail regarding the PCR DQ-
+Alpha typing procedure.  She specifically noted that FBI analysts
+perform 32 cycles in the thermal cycler to replicate the targeted
+gene.  Dr. Lindsey also testified regarding the PCR-based
+polymarker typing procedure.  She stated that in polymarker
+typing, an analyst simultaneously amplifies the DQ-Alpha gene as
+well as five additional gene regions.  Dr. Lindsey also explained
+the FBI's quality control measures (designed to prevent contami-
+nation) and control amplification procedures.  
+          Dr. Lindsey stated that she completed 50 case studies
+comparing polymarker typing results and RFLP results and found
+that in all 50 cases the ability to discriminate between two
+different people was the same for the polymarker and the RFLP
+procedures.  The case studies revealed that some people who were
+excluded as sources by RFLP testing were included as possible
+sources by DQ-Alpha typing.  DQ-Alpha typing and polymarker
+typing together provide a power of discrimination (the ability to
+differentiate between individuals based on the DNA test results)
+of over 99%.  Dr. Lindsey stated that DQ-Alpha typing is being
+used by many private laboratories, and polymarker typing was
+first put on the market in January 1994.  She also opined that
+both DQ-Alpha typing and polymarker typing are generally accepted
+in the scientific community.
+          Dr. Lindsey further testified regarding the FBI's
+method of calculating the statistical probability of a random
+match.  By using the product rule, the FBI estimates the statis-
+tical probability of a random match between the DNA sample taken
+from the crime scene and the defendant's DNA sample.  In making
+this estimate, the FBI compares the DNA samples to a previously
+constructed population database.  Because the PCR polymarker
+systems are two allele or three allele, the FBI may rely on a
+smaller database.  Thus, the PCR Caucasian database contains only
+145 individuals.  For the polymarker typing procedure, the FBI
+multiplies the various alleles' frequency rates times each other
+to determine the statistical probability of a random match.  
+          Regarding DQ-Alpha typing, Dr. Lindsey stated that the
+FBI tested 500 individuals from four different population groups
+("Caucasian," "Black," "Southwestern Hispanic," "Southeastern
+Hispanic") and determined their DQ-Alpha genotypes.  The FBI then
+added a database developed by Cetus Corporation (containing 237
+individuals) because it was statistically similar to the FBI
+database.  Dr. Lindsey stated that to determine the frequency of
+a particular DQ-Alpha genotype, the FBI uses the actual count
+method.  For example, if an individual had a DQ-Alpha genotype of
+2,2, an analyst would look to the database to determine how often
+that particular genotype occurred within the "Caucasian" popula-
+tion group (.020), then multiply by 100, and conclude that about
+2% of the time in the Caucasian race one would expect to find an
+individual with a 2,2 DQ-Alpha genotype. 
+          After hearing evidence and arguments from both parties,
+the trial court found that the PCR-based methods of DNA identi-
+fication (DQ-Alpha and polymarker) are "generally accepted as
+reliable."  Accordingly, the court held that the DNA results from
+both DQ-Alpha typing and polymarker typing and the FBI's method
+of calculating the statistical probability of a random match were
+admissible at trial.   
+                           C. Defendant's Trial
+          Given the arguments defendant raises on appeal, we
+discuss only the evidence particularly relevant to a consider-
+ation of his claims.    
+          B.H.'s stepfather, Chris McColez, testified that on May
+13, 1994, he, his wife (Retha), six-year-old B.H., and Retha's
+baby went to visit Retha's aunt.  After B.H.'s eight-year-old
+cousin, Mandy Snyder, and B.H. had been playing outside for a
+while, Mandy and a neighbor came inside, and Mandy told McColez a
+man had tried to grab her and that B.H. was missing.  McColez
+then went outside to look for B.H., crossed the nearby highway,
+and saw B.H. lying on the ground.  She had no pants on, and
+defendant stood over her, "fidgeting" with his pants.  Defendant
+swung a knife and stick at McColez and yelled for him to back off
+or defendant would kill him.  McColez then fell, and defendant
+ran away.  McColez testified that defendant was wearing a camou-
+flage jacket, long pants, and had a beard and a mustache.  Mandy
+testified that defendant was the man who tried to lure her into a
+park shortly before McColez found B.H.
+          James Saxberry, one of defendant's county jail cell-
+mates, testified that he asked defendant why he had assaulted
+B.H.  According to Saxberry, defendant became tearful and said he
+did not know why he did it.  Defendant told Saxberry that he
+picked up B.H., took her to the culvert, hit her, and placed his
+finger in her vagina and mouth and his penis in B.H.'s mouth.  On
+cross-examination, Saxberry admitted felony convictions for
+deceptive practices and forgery.  He also stated he was testi-
+fying as a condition of the sentence he received after pleading
+guilty to misdemeanor deceptive practices.
+          Dr. Maureen Swisher testified that she examined B.H.
+and found bruising and redness around B.H.'s head and neck.  She
+also opined that an injury to B.H.'s vaginal area was consistent
+with a finger being pushed into the hymen area.
+          Quincy police officer Neal Meyer testified that he
+arrested defendant, who was wearing cut-off blue jeans which
+appeared to have been cut off recently.  Inside the pickup truck
+in which defendant was sitting at the time of his arrest, Meyer
+found a camouflage shirt and knife.  The cutoff portions of blue
+jeans which were recovered from the area near where defendant was
+found sleeping in his pickup truck showed blood stains which were
+analyzed.  Salvia samples were also recovered from the culvert
+where B.H. was found.
+          Dr. Lindsey testified that the PCR-based test results
+in this case indicated that defendant is a potential source of
+the saliva samples taken from the culvert; while B.H. was not. 
+The likelihood that another individual could have been the source
+of the saliva samples is 1 out of 2 million in the "Black"
+population, 1 out of 4,100 in the "Caucasian" population, 1 out
+of 6,000 in the "Southeastern Hispanics" population, and 1 out of
+2,300 in the "Southwestern Hispanics" population.  (Defendant is
+Caucasian.)  Dr. Lindsey also stated that B.H. is a potential
+source of bloodstains found on the cut-off portion of defendant's
+jeans; while defendant was not.  The likelihood that another
+individual could have been the source of the bloodstains was 1 in
+24,000 in the "Black" population, 1 out of 1,600 in the "Cauca-
+sian" population, 1 out of 2,300 in "Southeastern Hispanics"
+population, and 1 out of 2,300 in "Southwestern Hispanics"
+population.
+          Defendant testified and denied committing the crimes. 
+Defendant stated that he drank several beers after work on May
+13, 1994, and sometime after 7 p.m., he walked to the culvert to
+urinate.  Once there he saw B.H. lying on the ground with her
+pants and underwear around her ankles.  When he leaned down to
+help B.H. and pick her up, her hair became entangled in his
+jacket button.  As defendant pulled her hair away from the
+button, McColez "jumped" into the culvert.  Defendant stated that
+he pulled out a knife because McColez frightened him.  Defendant
+acknowledged that he hid his camouflage jacket, took off his
+shirt, and cut off his jeans with a knife to change his appear-
+ance.  Defendant also admitted that he initially lied to the
+police regarding whether he cut off his jeans.  Defendant denied
+ever talking to Saxberry. 
+                               II. ANALYSIS
+                A. Admissibility of the DNA Identification 
+                     Evidence Based on the PCR Method
+
+          Defendant first argues that DNA evidence based on the
+PCR method of DNA identification is inadmissible because DQ-Alpha
+typing and polymarker typing are not generally accepted in the
+scientific community.  We disagree.
+          Illinois follows the Frye standard for the admission of
+novel scientific evidence.  Miller,  173 Ill. 2d at 187, 670
+N.E.2d at 731.  The Frye court explained the standard as follows:
+          "Just when a scientific principle or discov-
+          ery crosses the line between the experimental
+          and demonstrable stages is difficult to de-
+          fine.  Somewhere in this twilight zone the
+          evidential force of the principle must be
+          recognized, and while courts will go a long
+          way in admitting expert testimony deduced
+          from a well-recognized scientific principle
+          or discovery, the thing from which the deduc-
+          tion is made must be sufficiently established
+          to have gained general acceptance in the
+          particular field in which it belongs."  Frye,
+          293 F. at 1014.
+General acceptance in the scientific community does not require
+scientific unanimity.  People v. Dalcollo, 282 Ill. App. 3d 944,
+957, 669 N.E.2d 378, 387 (1996).  Further, the mere fact that a
+dispute exists will not preclude a trial court from finding that
+a procedure is generally accepted.  Dalcollo, 282 Ill. App. 3d at
+957, 669 N.E.2d at 387.  The determination whether the State has
+met the Frye standard lies within the trial court's discretion,
+and a reviewing court will not reverse absent an abuse of that
+discretion.  People v. Lipscomb, 215 Ill. App. 3d 413, 430, 574
+N.E.2d 1345, 1356 (1991); see also Miller, 173 Ill. 2d at 187,
+670 N.E.2d at 731. 
+          Initially, we note that the majority of defendant's
+contentions concern proper laboratory protocol and preventing
+contamination of DNA samples.  Relying in large part on a 1992
+report from the Committee on DNA Technology in Forensic Science
+(Committee), under the auspices of the National Academy of
+Sciences (National Research Council, DNA Technology in Forensic
+Science (1992)) (hereinafter NRC Report), defendant contends PCR
+analysis involves the following "technical problems":  (1)
+thermal cyclers can give varying results unless their performance
+is rigorously characterized for variation sensitivity; (2)
+amplification with "current" PCR technique may not be completed
+with sufficient "quantitative and qualitative fidelity"; (3)
+"[s]ome forensic samples contain factors that inhibit amplifica-
+tion"; and (4) evidence samples may be contaminated with other
+human DNA.  However, the mere potential for contamination or
+differential amplification does not render the PCR-based tech-
+niques generally unaccepted by the scientific community.  See
+State v. Russell, 125 Wash. 2d 24, 51, 882 P.2d 747, 767-68
+(1994).  Rather, such concerns bear on the question of whether a
+laboratory or analyst has complied with generally accepted stan-
+dards in a given case.  As this court most recently noted in
+People v. Johnson, 262 Ill. App. 3d 565, 569, 634 N.E.2d 1285,
+1288 (1994), quoting Lipscomb, 215 Ill. App. 3d at 432, 574
+N.E.2d at 1357, "'[a]ny question concerning the specific proce-
+dures used by the company or expert goes to the reliability of
+the evidence and is properly considered by the jury in deter-
+mining what weight to give to this evidence.'"  (Emphasis added.) 
+In addition, the NRC Report itself acknowledges the admissibility
+of DNA evidence (without distinguishing between PCR and RFLP
+methodology), as long as precautions suggested in the report are
+taken:
+               "As a general matter, so long as the
+          safeguards we discuss in this report are
+          followed, admissibility of DNA typing should
+          be encouraged.  There is no substantial dis-
+          pute about the underlying scientific princi-
+          ples.  However, the adequacy of laboratory
+          procedures and of the competence of the ex-
+          perts who testify should remain open to in-
+          quiry."  NRC Report at 146.         
+          In the present case, Dr. Lindsey, the sole witness at
+the Frye hearing, testified in detail regarding PCR-based tech-
+niques for DNA identification, including DQ-Alpha typing and
+polymarker typing.  She explained that PCR analysis had been used
+for several years in research and diagnostic labs, and she had
+conducted and supervised validation and case studies prior to
+using PCR analysis for forensic purposes.  In a study of 50
+cases, Dr. Lindsey found that polymarker typing resulted in the
+same individuals being excluded as with RFLP testing.  She also
+stated that while DQ-Alpha typing has a lower power of discrimi-
+nation than RFLP, DQ-Alpha typing and polymarker typing together
+provide a power of discrimination of over 99%.  She also stated
+that the FBI has instituted quality control measures to prevent
+contamination and control amplification procedures.  Dr. Lindsey
+acknowledged that TAQ polymerase may potentially create amplifi-
+cation errors; however, the potential for such error was low. 
+Further, she stated that any copying error would be insignificant
+due to the number of times the targeted gene is replicated.  She
+also stated that since the NRC Report was issued, two Committee
+members, Dr. Kaia Kazazian and Dr. George Sensabaugh, have
+expressed the view--either through affidavit or testimony--that
+PCR-based techniques, including DQ-Alpha typing, are generally
+accepted as reliable in the relevant scientific community. 
+          Upon the record before us, we conclude the trial court
+did not abuse its discretion by finding that the PCR-based
+procedures for DNA identification--namely, DQ-Alpha typing and
+polymarker typing, are "scientifically reliable and generally
+accepted" and admissible.  Accordingly, we hold that PCR-based
+methods of DQ-Alpha typing and polymarker typing for DNA identi-
+fication are now generally accepted in the relevant scientific
+communities involved, and trial courts need not conduct future
+Frye hearings on this issue.
+          In so holding, we specifically disagree with defen-
+dant's contention that copying errors caused by the enzyme TAQ
+polymerase destroy the general acceptance of PCR-based tech-
+niques.  Instead, we agree with the Michigan appellate court in
+Lee (212 Mich. App. at 277, 537 N.W.2d at 255), that any errors
+which may be caused by TAQ polymerase are not serious enough to
+undermine the general acceptance of PCR-based techniques for DNA
+identification as reliable.     
+          We also note that several other courts have held that
+PCR-based DNA test results are admissible.   In Russell (125
+Wash. 2d at 54 & n.7, 882 P.2d at 768 & n.7), the Supreme Court
+of Washington addressed this issue and held that this technique
+has been generally accepted by the scientific community.  In Lee
+(212 Mich. App. at 280-81, 537 N.W.2d at 257), the court also
+held that PCR-based DQ-Alpha typing is generally accepted as
+reliable under a version of the Frye standard.  See also State v.
+Hill, 895 P.2d 1238, 1244-47 (Kan. 1995); State v. Williams, 252
+N.J. 369, 599 A.2d 960 (1991).  Other states have also admitted
+PCR test results, but under standards other than Frye.  See
+Harmon v. State, 908 P.2d 434, 440-41 (Ala. App. 1995); State v.
+Moore, 268 Mont. 20, 48, 885 P.2d 457, 475 (1994); State v.
+Lyons, 124 Or. App. 598, 602-10, 863 P.2d 1303, 1306-11 (1993);
+State v. Moeller, 548 N.W.2d 465, 479-83 (1996 S.D. 60); Clarke
+v. State, 813 S.W.2d 654, 655 (Tex. Ct. App. 1991); Spencer v.
+Commonwealth, 240 Va. 78, 97-98, 393 S.E.2d 609, 621 (1990). 
+          We also find support for our holding in the extensive
+validation studies which have been conducted on PCR-based analy-
+sis for DNA identification.  As Dr. Lindsey testified, the FBI
+conducted validation and case studies to determine the reliabili-
+ty of DQ-Alpha typing and polymarker typing prior to using them
+for forensic purposes.  Further, the Russell court noted that
+Cetus Corporation (distributor of the DQ-Alpha test kit) had
+produced a bibliography listing over 1,000 articles on PCR
+analysis.  Russell, 125 Wash. 2d at 50, 882 P.2d at 766; see also
+N. Dimo-Simonin & C. Brandt-Casadevall, Evaluation and Usefulness
+of Reverse Dot Blot DNA-PolyMarker Typing in Forensic Case Work,
+81 Forensic Science International 61 (1996); C. Comey & B.
+Budowle, Validation Studies on the Analysis of the HLA DQ Alpha
+Locus Using the Polymerase Chain Reaction, 36 J. Forensic Sci.
+1633 (1991).  
+     B. Calculation of the Statistical Probability of a Random Match  
+          Defendant next argues that the trial court erred by
+admitting this evidence because the FBI's method of calculating
+the statistical probability of a random match, by use of the
+product rule, is not generally accepted in the scientific commu-
+nity.  We disagree.
+          In People v. Miles, 217 Ill. App. 3d 393, 405, 577
+N.E.2d 477, 485 (1991), this court discussed a defendant's
+challenge to the admission of probability statistics:
+          "This court [in Lipscomb] *** [held that] the
+          [RFLP] DNA identification procedure was ad-
+          missible, including 'the development of fre-
+          quencies, and procedure whereby the individu-
+          al frequencies are multiplied together to
+          determine the ultimate frequency of the pat-
+          tern.'  (Lipscomb (1991), 215 Ill. App. 3d at
+          432[, 574 N.E.2d at 1357].)  Implicitly, the
+          [Lipscomb] court held the process of generat-
+          ing probability statistics is an integral
+          part of the DNA identification process. 
+          Because the DNA identification process meets
+          the Frye test and is admissible, probability
+          statistics operated thereby are admissible."
+Therefore, because we have concluded that the PCR-based tech-
+niques of DQ-Alpha typing and polymarker typing for DNA identifi-
+cation are admissible under the Frye standard, we also conclude
+the FBI's method of calculating the statistical probability of a
+random match, including its use of a smaller database in
+polymarker typing, is admissible.  Thus, we hold that the trial
+court did not err by admitting the FBI's statistical probability
+evidence.   
+          We also note that the Supreme Court of Illinois in
+Miller recently wrote that "while there has been some controversy
+over the use of the product rule in calculating the frequency of
+a DNA match, that controversy appears to be dissipating."  
+Miller, 173 Ill. 2d at 188-89, 670 N.E.2d at 731-32.  In addi-
+tion, the Second District Appellate Court in Dalcollo recently
+provided a detailed discussion of the FBI's method of calculating
+the statistical probability of a random match as derived by the
+product rule.  That court concluded that recent developments
+"clearly debunk the notion that a 'bitter debate'--if ever there
+was one--is still raging in the scientific community," and held
+that the FBI's method is generally accepted in the scientific
+community.  Dalcollo, 282 Ill. App. 3d at 960, 669 N.E.2d at 388.
+                   C. The Prosecutor's Closing Argument
+          Defendant argues that the prosecutor made several
+improper remarks during closing argument that deprived him of a
+fair trial.  In evaluating this argument, we keep in mind that a
+prosecutor "is given great leeway in closing argument" (People v.
+Simms, 168 Ill. 2d 176, 197, 659 N.E.2d 922, 933 (1995)), and
+that while "there are limits to proper argument, *** forcefully
+arguing that the State has proven its case is not, in itself,
+improper" (Simms, 168 Ill. 2d at 196-97, 659 N.E.2d at 933). 
+Further, remarks made in closing will not merit reversal unless
+they result in substantial prejudice to the defendant.  People v.
+Peeples, 155 Ill. 2d 422, 482, 616 N.E.2d 294, 322 (1993).
+          First, defendant contends that the prosecutor expressed
+his personal beliefs regarding witnesses' credibility and invoked
+the integrity of the State's Attorney's office when he made the
+following comments:
+               "Now, the [d]efendant's story is, and
+          ladies and gentlemen, I would submit that it
+          is an insult to your intelligence.  His story
+          is that he is a trained CPR man.  ***  I came
+          upon this scene and immediately went to help,
+          except that I didn't know what to do, and I
+          forgot everything ***.
+                                   * * *
+               Now, Jim Saxberry testified.  And, isn't
+          it interesting.  Of course, his credibility
+          is challenged.  He has got felony convic-
+          tions.  We gave him a deal.  There is no
+          question about that.  I'd trade a bad check
+          writer for a baby molester any day.  Isn't it
+          interesting that his testimony as to what
+          [d]efendant told him just happens to exactly
+          fit with the evidence, with the physical
+          evidence ***."
+          Because defendant failed to object, he has waived this
+issue unless the prosecutor's remarks constitute plain error. 
+People v. Enoch, 122 Ill. 2d 176, 186, 522 N.E.2d 1124, 1130
+(1988); People v. Turner, 241 Ill. App. 3d 236, 242, 608 N.E.2d
+906, 911 (1993).  Not only do we conclude there is no plain
+error, we hold that the prosecutor's comments were not error at
+all.
+          It is improper for a prosecutor to personally vouch for
+a witness' credibility or express a personal opinion.  People v.
+Emerson, 122 Ill. 2d 411, 434, 522 N.E.2d 1109, 1118 (1987). 
+However, a prosecutor may comment on a witness' credibility
+(People v. Richardson, 123 Ill. 2d 322, 356, 528 N.E.2d 612, 625
+(1988)), and challenge a defendant's credibility and defense
+theory when such remarks are based on facts in evidence or
+reasonable inferences drawn therefrom.  People v. Hudson, 157
+Ill. 2d 401, 444, 626 N.E.2d 161, 179 (1993). 
+            In Emerson, 122 Ill. 2d at 434-35, 522 N.E.2d at
+1118, a defendant argued that the prosecutor improperly vouched
+for a witness' credibility by making the following comments:
+          "'And we know Robert Ray was telling you the
+          truth.  We could tell.  ***
+                                   * * *
+          We know Robert Ray was telling you the truth
+          about what happened because we heard another
+          witness in this case.  A witness that this
+          cold evil man who sits over there brought to
+          the witness stand.  ***  (Emphasis omit-
+          ted.)'"  
+The supreme court rejected the argument that the prosecutor
+improperly expressed his personal opinion concluding these
+remarks constituted fair comment on the evidence.  Emerson, 122
+Ill. 2d at 435, 522 N.E.2d at 1118.  Further, in People v. Baker,
+195 Ill. App. 3d 785, 787, 552 N.E.2d 421, 423 (1990), defendant
+argued the prosecutor improperly expressed his personal opinion
+when he made the following remarks:
+          "If ever there was a situation where a person
+          was detained, I think it was demonstrated by
+          the testimony ***.  *** I think it could be
+          reasonably inferred from the evidence[.]"
+This court in Baker rejected defendant's argument and concluded
+that "[w]hile it might be good practice for prosecutors to
+refrain in argument from using sentences beginning with, 'I
+believe' or 'I think,' we reject defendant's argument that any
+time a prosecutor does so error results."  Baker, 195 Ill. App.
+3d at 788, 552 N.E.2d at 423.   
+          Consistent with these decisions, we expressly reject
+the notion that a prosecutor improperly crosses the bounds of
+asserting his personal views regarding witnesses' credibility or
+defendant's theory of the case if the jury has to infer the
+prosecutor is doing so from his comments.  Thus, we hold that for
+a prosecutor's closing argument to be improper, he must explicit-
+ly state that he is asserting his personal views, stating for
+example, "this is my personal view."
+          In this case, the prosecutor's remarks were such that
+the jury would have to infer that he was giving his personal
+opinion regarding the defense theory or personally vouching for
+Saxberry's credibility.  Accordingly, we conclude that the
+prosecutor's remarks were not improper.  We also reject
+defendant's contention the prosecutor's comment invoked the
+integrity of the State's Attorney's office. 
+          Last, defendant claims that the prosecutor improperly
+argued that the State's witnesses were "heroes" for testifying
+where there was no evidence to support this characterization. 
+Again, because defendant failed to object to the argument when
+made, he has waived the issue unless it constitutes plain error. 
+Enoch, 122 Ill. 2d at 186, 522 N.E.2d at 1130; Turner, 241 Ill.
+App. 3d at 242, 608 N.E.2d at 911.  However, these remarks
+constitute no error at all.  At worst, they are a hyperbolic
+expression of the gratitude the community should feel toward
+witnesses whose involvement in the case may have saved this young
+victim from further harm at the hands of this vicious criminal.  
+                              III. CONCLUSION
+          For the reasons stated, we affirm the trial court's
+judgment.
+          Affirmed.
+          COOK, P.J., and GREEN, J., concur.
+
+
+
+%%%

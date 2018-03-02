@@ -22,21 +22,18 @@ async function checkConnection () {
     }
 }
 async function resetIndex () {
-    if (await client.indeces.exists({index})) {
-        await client.indeces.delete({index})
+    if (await client.indices.exists({index})) {
+        await client.indices.delete({index})
     }
-    await client.indeces.create({index})
+    
+    await client.indices.create({index})
     await putBookMapping()
 }
 
 async function putBookMapping() {
     const schema = {
         case: {type: 'keyword'},
-        ind:  {type: 'integer'},
-        date: {type: 'date'},
-        doc: {type: 'keyword'},
-        atty: {type: 'keyword'},
-        location: {type: 'keyword'},
+        caseNo: {type: 'keyword'},
         text: {type: 'text'}
     }
     return client.indices.putMapping({index, type, body:{properties: schema}})

@@ -1,0 +1,285 @@
+﻿CASE: KENNETH F. WINSTON v. COMMONWEALTH OF VIRGINIA
+No. 2886-01-1
+DATE: JULY 30, 2002
+----------
+COURT OF APPEALS OF VIRGINIA PRIVATE  
+
+
+Present:  Judges Frank, Humphreys and Agee
+Argued at Chesapeake, Virginia
+
+
+
+    MEMORANDUM OPINION* BY
+    JUDGE ROBERT P. FRANK
+
+ENNETH F. WINSTON 
+v. 
+COMMONWEALTH OF VIRGINIA
+                                                                       
+
+        FROM THE CIRCUIT COURT OF THE CITY OF HAMPTON
+Walter J. Ford, Judge
+
+                Charles E. Haden for appellant.
+
+                Kathleen B. Martin, Assistant Attorney 
+General (Jerry W. Kilgore, Attorney General, 
+on brief), for appellee.
+
+
+
+        Kenneth F. Winston (appellant) was convicted in a bench trial 
+of two counts of robbery, in violation of Code  18.2-58, and two 
+counts of use of a firearm in the commission of a robbery, in 
+violation of Code  18.2-53.1.  On appeal, he contends the trial 
+court erred in denying his motion to strike because the evidence 
+was not sufficient to convict.  Finding no error, we affirm the 
+convictions.
+
+ANALYSIS
+        Appellant contends the victims' identifications of him as the 
+robber were unreliable, citing the criteria in Neil v. Biggers, 
+409 U.S. 188 (1972), and, therefore, were insufficient as a matter 
+of law to convict him.  Although appellant does not challenge the 
+admissibility of the identifications,  the factors enunciated in 
+Biggers may be considered, along with other evidence, in 
+determining the sufficiency of identification evidence.  See 
+Smallwood v. Commonwealth, 14 Va. App. 527, 530, 418 S.E.2d 567, 
+568 (1992).  These factors include:
+the opportunity of the witness to view the 
+criminal at the time of the crime, the 
+witness' degree of attention, the accuracy 
+of the witness' prior description of the 
+criminal, the level of certainty 
+demonstrated by the witness at the 
+confrontation, and the length of time 
+between the crime and the confrontation.
+Biggers, 409 U.S. at 199-200.
+        "On appeal, 'we review the evidence in the light most 
+favorable to the Commonwealth, granting to it all reasonable 
+inferences fairly deducible therefrom.'"  Archer v. 
+Commonwealth, 26 Va. App. 1, 11, 492 S.E.2d 826, 831 (1997) 
+(quoting Martin v. Commonwealth, 4 Va. App. 438, 443, 358 S.E.2d 
+415, 418 (1987)).  When the sufficiency of the evidence is 
+challenged on appeal, we "look to that evidence which tends to 
+support the verdict and . . . permit the verdict to stand unless 
+plainly wrong."  Snyder v. Commonwealth, 202 Va. 1009, 1016, 121 
+S.E.2d 452, 457 (1961).  "The judgment of a trial court sitting 
+without a jury is entitled to the same weight as a jury verdict 
+and will not be set aside unless . . . plainly wrong or without 
+evidence to support it."  Martin, 4 Va. App. at 443, 358 S.E.2d 
+at 418.  The "credibility of a witness, the weight accorded the 
+testimony, and the inferences to be drawn from proven facts are 
+matters solely for the factfinder's determination."  Keyes v. 
+City of Virginia Beach, 16 Va. App. 198, 199, 428 S.E.2d 766, 
+767 (1993).  
+        "[W]hether an identification is reliable 'depends on the 
+totality of the circumstances.'"  Satcher v. Commonwealth, 244 
+Va. 220, 250, 421 S.E.2d 821, 839 (1992) (quoting Stovall v. 
+Denno, 388 U.S. 293, 302 (1967)).  A witness' degree of 
+attention and ability to observe weigh heavily in determining 
+the reliability of the identification.  Here, each victim had 
+the opportunity to view the robber.  Both victims were robbed 
+during daylight hours.  The victims stood close enough to the 
+perpetrator to hand him their wallets.  
+        The robbery of Edwin Kilgore took "less than half a 
+minute."  The robber wore a stocking cap, and his face was 
+exposed.  Shortly after the robbery, Kilgore described his 
+assailant as an African-American, between 180 and 190 pounds, 
+"probably six foot [sic]" tall, wearing dark clothes.  When 
+asked at trial, "How can you be certain that the person who 
+robbed you is [appellant]," Kilgore responded, "[W]ell, I will 
+never forget that face, I don't think.  It is a lasting 
+impression." 
+        Ashton Brown, the second victim, saw appellant before the 
+commission of the crime, noticing a "tall, large person" on a 
+small bicycle riding past his house twice.  At that time, 
+appellant was wearing a cap.  Brown testified that, although the 
+perpetrator wore a ski mask when he committed the robbery, his 
+eyes and nose were exposed.  The robber was on the same bicycle 
+that appellant rode just minutes earlier.  This robbery lasted 
+"less than five minutes."  
+        Brown described his assailant shortly after the incident, 
+saying he was dressed in a "heavy, bulky jacket" and weighed 220 
+to 230 pounds.  When confronted with appellant's assertion that 
+he weighed much less, Brown explained the robber wore a "bulky 
+outfit.  I thought he was filling that out, but evidently, he 
+wasn't."  At trial, appellant testified he weighed 170 pounds. 
+        We cannot say, as a matter of law, that the victims' 
+testimony was inherently incredible merely because they were 
+mistaken about appellant's precise height and weight.  The 
+differences between the victims' descriptions and the actual 
+appearance of appellant go to the weight of the evidence.  See 
+Satcher, 244 Va. at 249, 421 S.E.2d at 838-39.  The trial judge 
+was capable of "measur[ing] intelligently the weight of 
+identification testimony that ha[d] some questionable feature."  
+Manson v. Brathwaite, 432 U.S. 98, 116 (1977).
+        Each victim demonstrated a high level of certainty in 
+identifying appellant from the photo spread and in court.  
+Kilgore, approximately a week after the robbery, was shown a 
+photo spread.  He identified appellant within two or three 
+minutes.  Brown, who viewed the photo spread two or three days 
+after the robbery, "cut a piece of paper that would only show 
+his -- not the man's whole head but just [his eyes and nose].  
+And from that, I picked this individual out."  
+        Appellant argues, since Brown testified he was not "a 
+hundred percent certain that [appellant] was [the assailant]," 
+the evidence was insufficient.  Nevertheless, Brown confidently 
+and positively identified appellant in the photo spread and in 
+court.  Appellant presents no law, nor can we find any, that 
+requires one hundred percent certainty in the identification of 
+a perpetrator.  The standard for guilt is beyond a reasonable 
+doubt, not absolute certainty.  See Victor v. Nebraska, 511 U.S. 
+1, 12 (1994).  
+        Appellant also argues the length of time between the 
+robberies and the identifications from the photo spread makes 
+the identifications unreliable.  However, in McCary v. 
+Commonwealth, 228 Va. 219, 234, 321 S.E.2d 637, 645 (1984), the 
+Supreme Court found that, although fifteen months had elapsed 
+from the crime to the identification, "the mere passage of time 
+is insufficient to invalidate the identification."  We do not 
+believe the passage of a week makes these identifications 
+inherently unreliable.
+        Finally, appellant argues Brown's identification is 
+unreliable because "Brown's belief that God led him to identify 
+the right person is simply an unacceptable basis for making an 
+eyewitness identification."  This argument mischaracterizes 
+Brown's testimony.
+        When asked on cross-examination what made him "a hundred 
+percent" certain of his identification when he was not so 
+certain at the preliminary hearing, Brown explained:
+[F]ollowing the incident, I prayed and I 
+asked the Lord to apprehend the man that had 
+done this to me for his own safety as well 
+as the safety of someone else, because I 
+felt that if this continues, he is going to 
+meet someone who is going to either be hurt 
+or him [sic] be hurt.  When the officer came 
+and told me that they had apprehended a 
+gunman, I believed that was an answer to my 
+prayer.
+When asked again, "You still can't say with a hundred percent 
+certainty that [appellant] was the person that robbed you; isn't 
+that true," Brown answered:
+Because I only saw this, but I believe that 
+the God I serve answers prayer.  And I 
+didn't ask for it for a selfish reason, but 
+I didn't ask him to do it to get my money 
+back.  I didn't do it for - but for his own 
+safety and the safety of someone else.  And 
+that is the way I believe it happened.  And 
+that's why I'm confident. . . . I can tell 
+you today that I, as an individual cannot 
+say that as a hundred percent because I did 
+not see the person without the mask.  
+        This testimony does not suggest Brown identified appellant 
+"because God had told him this was the robber," as appellant 
+suggests.  Brown clearly identified appellant from a photo 
+spread based on his observations prior to and during the 
+robbery, not because of his religious beliefs.  Instead, Brown's 
+testimony made clear, while personally he was certain appellant 
+was the man who robbed him, his identification was not "a 
+hundred percent" certain because the assailant was wearing a 
+mask.  
+        All of the Biggers factors support the reliability of the 
+identifications.  Based on the totality of the circumstances, we 
+hold the identification testimony was reliable and sufficient to 
+support the trial court's findings.
+        Further, non-identification evidence in the record supports 
+the finding of guilt.  Detective Barger interviewed appellant 
+and asked him if he knew anything about "the guy on a bike" who 
+had committed the robberies.  Appellant replied, "With a gun?"  
+Appellant then stated that a friend told him about someone 
+committing robberies while riding a bike.  Appellant also told 
+Barger that his friend said "to be careful because the guy on 
+the bike looked exactly like [appellant]."  The trial court 
+could view this evidence as indicative of appellant's 
+involvement in the robberies because he knew a gun was used.  
+"In its role of judging witness credibility, the fact finder is 
+entitled to disbelieve the self-serving testimony of the accused 
+and to conclude that the accused is lying to conceal his guilt."  
+Marable v. Commonwealth, 27 Va. App. 505, 509-10, 500 S.E.2d 
+233, 235 (1998).
+        Additionally, the witnesses' identifications serve as 
+evidence for each robbery.  While other crimes evidence 
+generally is not admissible, appellant did not object to its use 
+here.  Other crimes evidence is admissible, as an exception to 
+the general prohibition, to prove identity "where the prior 
+criminal acts are so distinctive as to indicate a modus 
+operandi."  Sutphin v. Commonwealth, 1 Va. App. 241, 245-46, 337 
+S.E.2d 897, 899 (1985).  The distinction must be unusual, such 
+that the manner in which the crime is committed creates a 
+"signature" of the accused.  Henderson v. Commonwealth, 5 
+Va. App. 125, 128, 360 S.E.2d 876, 878 (1987).
+        Here, the similarities are numerous and unusual.  First, 
+both crimes occurred in the morning, in the driveway of a home 
+in the Wythe area of Hampton.  Both male victims were bent over, 
+working on their cars, when the robber approached.  The robber 
+used a gun in both crimes.  The robber asked for the victims' 
+wallets and money, nothing else.  He took nothing else.  
+Finally, and most unusually, the robber rode up to the scene on 
+a bicycle, left it on the ground as he approached the victims, 
+and then rode it away.  This evidence is sufficiently 
+distinctive to establish a modus operandi.  See, e.g., Yellardy 
+v. Commonwealth, 38 Va. App. 19, 24-25, 561 S.E.2d 739, 742 
+(2002) (finding evidence of two robberies relevant to the issue 
+of identity where the robber used "identical methods," including 
+using a rock as a weapon).
+        Appellant argues his alibi evidence was credible, but the 
+trial court was free to reject that testimony.  "When weighing 
+the evidence, the fact finder is not required to accept entirely 
+either the Commonwealth's or the defendant's account[, but 
+instead] . . . may reject that which it finds implausible, [and] 
+accept other parts which it finds to be believable."  Pugliese 
+v. Commonwealth, 16 Va. App. 82, 92, 428 S.E.2d 16, 24 (1993) 
+(citations omitted).  In resolving an identification/alibi 
+conflict, the trial court is the fact finder and, as such, 
+assesses the credibility of the witnesses, which we will not 
+disturb unless plainly wrong or without evidence to support it.  
+See Yates v. Commonwealth, 4 Va. App. 140, 143, 355 S.E.2d 14, 
+16 (1987).
+        Appellant invites us to rule that eyewitnesses' 
+identifications are "notoriously unreliable" and insufficient to 
+support a conviction, citing United States v. Wade, 388 U.S. 218 
+(1967).  We decline that invitation.  We first note appellant 
+has taken the quotation out of context.  Wade addressed the need 
+for counsel at a post-indictment lineup that used an unduly 
+suggestive procedure.  While initially the Supreme Court 
+suggested eyewitness identification is unreliable, the Court 
+then explained this concern applies in the specific context of 
+suggestive lineups.  They said, "A major factor contributing to 
+the high incidence of miscarriage of justice from mistaken 
+identification has been the degree of suggestion inherent in the 
+manner in which the prosecution presents the suspect to 
+witnesses for pretrial identification."  Id. at 228-29.  
+Further, appellant can point to no court that, as a matter of 
+law, refuses to allow any eyewitness testimony on identification 
+of a perpetrator.
+        The trial judge accepted the identification testimony of 
+Kilgore and Brown.  "The credibility of the witnesses and the 
+weight accorded the evidence are matters solely for the fact 
+finder who has the opportunity to see and hear that evidence as 
+it is presented."  Sandoval v. Commonwealth, 20 Va. App. 133, 
+138, 455 S.E.2d 730, 732 (1995).  Although in some circumstances 
+identification testimony can be unreliable and insufficient to 
+support a conviction, see Smallwood, 14 Va. App. at 530-33, 418 
+S.E.2d at 568-70, the testimony of the victims here was 
+competent and was not inherently incredible.  
+Conclusion
+        From the identification testimony, appellant's statements, 
+and other evidence, the trial judge could conclude beyond a 
+
+reasonable doubt that appellant committed the charged offenses.  
+We affirm the convictions.
+ Affirmed.  
+* Pursuant to Code  17.1-413, this opinion is not 
+designated for publication. 
+  Appellant does not contend the identification procedures 
+were unduly suggestive or that the process was improper.
+
+ 
+
+ 
+%%%
+

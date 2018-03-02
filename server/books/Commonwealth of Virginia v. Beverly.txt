@@ -1,0 +1,286 @@
+﻿CASE: EDWARD W. BEVERLY v. COMMONWEALTH OF VIRGINIA
+No. 0852-98-2
+DATE: JUNE 29, 1999
+----------
+COURT OF APPEALS OF VIRGINIA
+
+
+EDWARD W. BEVERLY 
+v. 
+COMMONWEALTH OF VIRGINIA
+
+Present:  Judges Coleman, Elder and Bumgardner
+Argued at Richmond, Virginia
+
+
+
+                        MEMORANDUM OPINION* BY JUDGE LARRY G. ELDER
+
+
+
+
+        FROM THE CIRCUIT COURT OF ORANGE COUNTY
+Lloyd C. Sullenberger, Judge
+
+                Roy D. Bradley (Bradley Law Firm, P.C., on 
+briefs), for appellant.
+
+                Eugene Murphy, Assistant Attorney General 
+(Mark L. Earley, Attorney General, on brief), 
+for appellee.
+
+
+
+        Edward Wayne Beverly (appellant) appeals from his jury 
+trial convictions for abduction with intent to defile, forcible 
+sodomy and first-degree murder.  On appeal, he contends the 
+trial court erroneously (1) admitted DNA evidence in violation 
+of Code  19.2-270.5; (2) excluded blood typing evidence; 
+(3) refused to appoint a handwriting expert and a fingerprint 
+expert to aid appellant's defense; and (4) admitted without 
+proper foundation Commonwealth's exhibits 2 through 9--a road 
+atlas and other documents allegedly found by a witness who had 
+died prior to trial.  For the reasons that follow, we hold that 
+the trial court committed no reversible error, and we affirm 
+appellant's convictions.
+1.  ADMISSIBILITY OF DNA EVIDENCE UNDER CODE  19.2-270.5
+        Appellant objects to the admission of the DNA tests for 
+which notice was filed on February 13, 1998 (the second DNA 
+notice), on the ground that no probability report accompanied 
+the December 1, 1997 certificate of analysis as required by Code 
+ 19.2-270.5.   He objects to admission of the DNA test for which 
+notice was filed on February 17, 1998 (the third DNA notice), on 
+the ground that the notice was filed less than twenty-one days 
+prior to trial and that no probability report accompanied the 
+certificate of analysis.  We reject both contentions.
+        The second DNA notice states specifically that "the 
+Commonwealth has attached the following written profiles, 
+reports, or statements concerning [the DNA evidence sought to be 
+admitted] to the copy of this notice sent to counsel for 
+
+[appellant]: . . . Division of Forensic Science Certificate of 
+Analysis dated December 1, 1997, F.S. Lab No N89-09248."  The 
+complete December 1, 1997 certificate of analysis, including 
+page 4's probability analysis, was provided to appellant on 
+February 6, 1998, as part of the Commonwealth's supplemental 
+answer to appellant's discovery.  Code  19.2-270.5 does not 
+require that copies of the profiles, statements or reports to be 
+introduced must be attached to the notice; it requires only that 
+they be "provide[d] or [made] available."  Because it is 
+undisputed that the Commonwealth made available the probability 
+calculations contained in the December 1, 1997 certificate of 
+analysis in a timely fashion, the requirements of the statute 
+were met, and the trial court did not err in admitting the 
+certificate into evidence.
+        The court also did not err in admitting into evidence the 
+certificate named in the third DNA notice.  That notice listed 
+only the FBI report dated July 22, 1993, a two-page report which 
+the Commonwealth previously timely had provided as an attachment 
+to both its first and second DNA notices.  Because the report 
+had already been timely filed under Code  19.2-270.5, the 
+Commonwealth was not required to file it again.  Therefore, the 
+Commonwealth's filing of the third DNA notice less than 
+twenty-one days before trial was irrelevant to the report's 
+admissibility.
+        We also reject appellant's argument that the July 22, 1993 
+report was inadmissible because it was not accompanied by a 
+statistical probability analysis.  That report was a two-page 
+analysis excluding Thomas Kidd as a potential contributor to the 
+DNA detected in the sperm fraction of the anal swabs taken from 
+the victim.  Where a suspect is excluded as a contributor, the 
+likelihood that a particular suspect was the contributor of the 
+sample found is zero, and no probability calculation is 
+necessary.  See National Research Council, The Evaluation of 
+Forensic DNA Evidence 51 (1996).
+        For these reasons, we hold that the trial court did not 
+abuse its discretion in admitting the challenged DNA evidence.
+2.  EXCLUSION OF BLOOD TYPING EVIDENCE
+        Appellant contends that blood typing results produced by 
+Nancy Avery indicating his blood is Type A when, in reality, 
+appellant's blood is Type O, show that the blood was tampered 
+with or inadvertently switched.  He argues that the trial court 
+abused its discretion in excluding this exculpatory evidence 
+while simultaneously admitting DNA evidence resulting from tests 
+performed on the same blood sample.  Again, we disagree.
+        We hold first that appellant may not object on appeal to 
+the admission of the DNA evidence due to alleged tampering with 
+the sample.  Appellant moved to suppress the DNA evidence on 
+this ground prior to trial, but during argument on that motion, 
+appellant withdrew his motion to suppress.  Therefore, appellant 
+did not preserve this issue for appeal, see Rule 5A:18, and we 
+consider only whether the court erroneously excluded the results 
+of Avery's blood typing test indicating that the blood tested 
+was Type A.
+        Second, we hold that the expert testimony regarding the 
+reliability of Avery's typing test on the dried blood removed 
+from the stoppers was conflicting at best and justified 
+exclusion of the blood type evidence.  See Spencer v. 
+Commonwealth, 240 Va. 78, 97-98, 393 S.E.2d 609, 621 (1990) 
+(holding that when scientific evidence is offered, "the court 
+must make a threshold finding of fact with respect to the 
+reliability of the scientific method offered" and that "[if 
+there is a conflict [in the evidence regarding reliability], and 
+the trial court's finding is supported by credible evidence, it 
+will not be disturbed on appeal").  Avery herself testified that 
+she had virtually no experience testing dried samples; she told 
+the officers who brought her the sample that she did not know 
+what test was appropriate for a dried sample and that she would 
+perform the only test she knew.  Deann Dabbs, who qualified as 
+an expert in forensic serology and had tested thousands of dried 
+blood samples during her career, testified that the method used 
+by Avery was unapproved and unreliable for testing dried 
+samples.  Finally, when Avery used this method to test other 
+dried samples of known type, her results were correct only 
+fifty-eight percent of the time.  Dabbs' testimony and Avery's 
+test results provide credible evidence supporting the trial 
+court's finding that the method Avery used "to type the blood 
+taken from the . . . test tube stoppers was unreliable and not 
+scientifically accepted."  Therefore, we hold that the trial 
+court did not abuse its discretion in refusing to admit the 
+evidence.
+3.  REFUSAL TO APPOINT FINGERPRINT AND HANDWRITING EXPERTS
+        The Commonwealth, upon request, is required to "provide 
+indigent defendants with `the basic tools of an adequate 
+defense,' and . . . in certain circumstances, these basic tools 
+may include the appointment of non-psychiatric experts."  Husske 
+v. Commonwealth, 252 Va. 203, 211, 476 S.E.2d 920, 925 (1996) 
+(citation omitted), cert. denied, 519 U.S. 1154, 117 S. Ct. 
+1092, 137 L. Ed. 2d 225 (1997).  "[A]n indigent defendant 
+seeking the appointment of an expert has the burden of showing a 
+particularized need therefor."  Barnabei v. Commonwealth, 252 
+Va. 161, 171, 477 S.E.2d 270, 276 (1996), cert. denied, 520 U.S. 
+1224, 117 S. Ct. 1724, 137 L. Ed. 2d 845 (1997).  A defendant 
+may not prevail in his pursuit of an expert merely because the 
+science involved is advanced or complicated, see Husske, 252 Va. 
+at 213, 476 S.E.2d at 926, or because he has a mere "hope or 
+suspicion that favorable evidence may be procured," see 
+Barnabei, 252 Va. at 171, 477 S.E.2d at 276.
+        We hold that the trial court did not abuse its discretion 
+in denying appellant's motion for appointment of a fingerprint 
+expert and a handwriting expert.  See Downing v. Commonwealth, 
+26 Va. App. 717, 723, 496 S.E.2d 164, 167 (1998).  The argument 
+advanced by appellant prior to trial indicated, at best, that 
+the Commonwealth intended to offer both fingerprint and 
+handwriting evidence.  The evidence introduced at trial linked 
+appellant to exhibits 6, the note proposing sex, and 10, the 
+list of ways to disguise oneself, by handwriting, and exhibit 7, 
+another note, by fingerprints.  However, exhibits 6 and 10 were 
+identified by Timothy Trent as having been in appellant's car; 
+appellant admitted that exhibit 10 was his; and exhibit 7 was 
+found with exhibit 6, which, as set out above, had been linked 
+to appellant by Timothy Trent.  We hold, therefore, that the 
+trial court did not abuse its discretion in holding that 
+appellant failed to demonstrate a particularized need for either 
+expert.
+4.  FOUNDATION FOR ADMISSION OF ATLAS AND OTHER DOCUMENTS
+        Appellant contends that the trial court erroneously 
+admitted the atlas and other items Thomas Kidd gave to Deputy 
+Dickson.  He asserts that, without Kidd's testimony, the 
+Commonwealth provided an insufficient foundation for admission 
+of the items.  In addition, he contends that Kidd's conduct in 
+giving the items to Deputy Dickson was a non-verbal assertion 
+constituting hearsay and should have been excluded.
+        We note first that appellant did not object to Deputy 
+Dickson's testimony at trial that Thomas Kidd gave him the atlas 
+and other items.  Further, in his pretrial motion, appellant 
+objected only to the admission of Kidd's statements to Dickson, 
+not to any testimony about Kidd's conduct.  Therefore, Rule 
+5A:18 bars our consideration of this issue on appeal.  We also 
+find no reason to invoke the good cause or ends of justice 
+exceptions to the rule.  In addition, appellant's assignment of 
+error on appeal asks only whether the trial court abused its 
+discretion in denying the motion to exclude the atlas and other 
+documents.  Because appellant did not raise the issue of the 
+admissibility of Kidd's conduct in his pretrial motion, no 
+appeal was granted on this issue.  Therefore, Rule 5A:12(c) also 
+bars our consideration of this issue on appeal.
+        "The admissibility of evidence is within the broad 
+discretion of the trial court, and a ruling will not be 
+disturbed on appeal in the absence of an abuse of discretion."  
+Blain v. Commonwealth, 7 Va. App. 10, 16, 371 S.E.2d 838, 842 
+(1988).  To establish the necessary foundation for the admission 
+of real evidence, the party offering it must show that it is 
+both relevant and authentic.  See 1 Charles E. Friend, The Law 
+of Evidence in Virginia 13-5, at 546 (4th ed. 1993).
+        Regarding relevancy, "`[a]ny fact, however remote, that 
+tends to establish the probability or improbability of a fact in 
+issue is admissible.'"  Wynn v. Commonwealth, 5 Va. App. 283, 
+291, 362 S.E.2d 193, 198 (1987) (citation omitted).  
+Authenticity of "a tangible, solid object [for which] no 
+chemical analysis is involved" may be established through 
+circumstantial evidence "that the item is what it purports to be 
+. . . and that its condition has not changed materially since 
+its initial discovery."  Friend, supra, at 546; see Wileman v. 
+Commonwealth, 24 Va. App. 642, 648, 484 S.E.2d 621, 624 (1997).  
+"`The court must determine if the circumstantial evidence is 
+sufficient to justify the document's admission; the jury will 
+then, as in all cases, make an independent decision as to 
+whether the document is genuine.'"  Duncan v. Commonwealth, 2 
+Va. App. 717, 726-27, 347 S.E.2d 539, 544 (1993) (citation 
+omitted).
+        The evidence in the record is sufficient to establish both 
+the relevance and the authenticity of Commonwealth's Exhibits 2 
+through 9, despite the inability of Thomas Kidd to testify at 
+trial about where he obtained the items.  The evidence 
+established that, on the morning of April 13, 1989, Joann and 
+Thomas Kidd were concerned about the victim.  Thomas Kidd went 
+to the victim's house, phoned Joann Kidd sounding "concerned," 
+and immediately returned home "upset."  After calling several 
+relatives to try to locate the victim, Joann and Thomas Kidd 
+reported the victim missing and gave to Officer Daniel Dickson 
+the atlas, Commonwealth's exhibit 2, with several other items, 
+Commonwealth's exhibits 3 through 9, tucked inside it.  Joann 
+Kidd and the victim's husband testified that they had never seen 
+the atlas or any of the other items prior to April 13, 1989, and 
+that, to their knowledge, neither they nor Thomas Kidd nor the 
+victim had any connection to the Knight's Inn or the Post Oak 
+Market and none had purchased the lottery tickets.  
+        Deputy Dickson testified that within hours of receiving the 
+atlas and other items from Thomas Kidd, he found at the victim's 
+nearby residence (1) a map page, Commonwealth's exhibit 12, 
+which had been torn out of the atlas he received from Thomas 
+Kidd, and (2) a list, Commonwealth's exhibit 10.  This 
+circumstantial evidence supported a finding that Thomas Kidd 
+found the atlas and other items, Commonwealth's exhibits 2 
+through 9, at the victim's residence and turned them over to 
+Deputy Dickson, thereby establishing their authenticity.
+        Other evidence--including appellant's statements to police, 
+the testimony of Timothy Trent and the owner of the Post Oak 
+Market, and the fingerprint and handwriting evidence--supported 
+a finding that the atlas and other items belonged to appellant.  
+The challenged exhibits were relevant in that they tended to 
+prove that appellant was both in Orange County and on the 
+victim's property about the time she disappeared.  Because the 
+circumstantial evidence supported a finding that Commonwealth's 
+exhibits 2 through 9 were both relevant and authentic, the trial 
+court did not abuse its discretion in admitting them into 
+evidence.
+        For these reasons, we hold that the trial court did not err 
+in admitting the contested DNA evidence, excluding the 
+challenged blood typing evidence, refusing to appoint a 
+fingerprint or handwriting expert, and admitting the atlas and 
+other items Thomas Kidd gave to Deputy Dickson.  Therefore, we 
+affirm appellant's convictions.
+                                                                                Affirmed.
+* Pursuant to Code  17.1-413, recodifying Code 
+ 17-116.010, this opinion is not designated for publication. 
+  On brief, appellant objected to the absence of a "profile" 
+rather than a "probability report."  However, his description of 
+what he sought makes clear his objection was to the absence of 
+evidence of the random-match probability, which we refer to 
+herein as a probability calculation or probability report.  See 
+National Research Council, The Evaluation of Forensic DNA 
+Evidence 2, 12-14, 25, 29-31, 217 (1996); see also Code 
+ 19.2-310.2 (in statute requiring certain convicted felons to 
+provide samples for DNA analysis, referring to "[DNA] analysis 
+to determine identification characteristics specific to the 
+person" as "the profile").  A probability calculation or 
+probability report indicating the "statistical probability of a 
+DNA match" constitutes a profile, report or statement within the 
+meaning of Code  19.2-270.5.  See Caprio v. Commonwealth, 254 
+Va. 507, 512, 493 S.E.2d 371, 373-74 (1997).
+ 
+
+%%%
+ 
+
