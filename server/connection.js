@@ -34,6 +34,7 @@ async function putBookMapping() {
     const schema = {
         case: {type: 'keyword'},
         caseNo: {type: 'keyword'},
+        location: {type: 'integer'},
         text: {type: 'text'}
     }
     return client.indices.putMapping({index, type, body:{properties: schema}})
