@@ -21,9 +21,9 @@ function parseBookFile (filePath) {
     const endOfBookIndex = book.match(/^%%%/m).index
 
     const paragraphs = book.slice(startOfBookIndex, endOfBookIndex)
-  //  .split(/\n\s+\n/g) // Split each paragraph into it's own array entry
-  //  .map(line => line.replace(/\r\n/g, ' ').trim()) // Remove paragraph line breaks and whitespace
-  //  .filter((line) => (line && line !== '')) // Remove empty lines
+        .split(/\n\s+\n/g) // Split each paragraph into it's own array entry
+        .map(line => line.replace(/\r\n/g, ' ').trim()) // Remove paragraph line breaks and whitespace
+        .filter((line) => (line && line !== '')) // Remove empty lines
 
     console.log(`Parsed ${paragraphs.length} Paragraphs\n`)
     return {title, caseNo, paragraphs}
@@ -46,13 +46,14 @@ async function insertBookData (title, caseNo, paragraphs) {
     if (i > 0 && i % 500 === 0) { 
         await esConnection.client.bulk({ body: bulkOps })
         bulkOps = []
-        console.log(`Indexed Paragraphs  ${i - 499}  - ${i}`)
+        console.log(`Indexed Paragraphs  ${i - 499} - ${i}`)
       }
     }
   
  
     await esConnection.client.bulk({ body: bulkOps })
     console.log(`Indexed Paragraphs  ${paragraphs.length - (bulkOps.length / 2)}  - ${paragraphs.length}\n\n\n`)
+
   }
 
 async function readAndInsertBooks () {
@@ -77,4 +78,4 @@ async function readAndInsertBooks () {
  
    
 
-  readAndInsertBooks()
+readAndInsertBooks()

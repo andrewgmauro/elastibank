@@ -46,30 +46,28 @@ DATE: MAY 7, 1998
                               (No. 95cr00088-02)
 
 
-     Stephen C. Leckar and Jonathan Zucker, appointed by the 
+Stephen C. Leckar and Jonathan Zucker, appointed by the 
 court, argued the causes and filed the joint briefs for appel-
 lants Harold Cunningham and Percy Barron.
 
-
-
-     Rachel Carlson Lieber, Assistant U.S. Attorney, argued the 
+Rachel Carlson Lieber, Assistant U.S. Attorney, argued the 
 cause for appellee, with whom Wilma A. Lewis, U.S. Attor-
 ney, John R. Fisher, and Kenneth L. Wainstein, Assistant 
 U.S. Attorneys, were on the brief.  Elizabeth Trosman, 
 Mary-Patrice Brown, and Thomas C. Black, Assistant U.S. 
 Attorneys, entered appearances.
 
-     Before:  Edwards, Chief Judge, Silberman, Circuit Judge, 
+Before:  Edwards, Chief Judge, Silberman, Circuit Judge, 
 and Buckley, Senior Circuit Judge.
 
-     Opinion for the Court filed by Chief Judge Edwards.
+Opinion for the Court filed by Chief Judge Edwards.
 
-     Edwards, Chief Judge:  Appellants raise numerous chal-
+Edwards, Chief Judge:  Appellants raise numerous chal-
 lenges to their convictions arising from a 68-count indictment 
 against them.  Only a few of the issues raised merit our 
 attention here.
 
-     We reject Appellant Harold Cunningham's claim that the 
+We reject Appellant Harold Cunningham's claim that the 
 District Court erred in permitting him to represent himself at 
 trial.  The District Court's findings that Cunningham's deci-
 sion to represent himself was knowing and voluntary met the 
@@ -89,14 +87,11 @@ itself to be manipulated into granting a continuance and
 appointing new counsel just to placate a defendant threaten-
 ing to represent himself.
 
-     Appellant Percy Barron argues that the inadvertent sub-
+Appellant Percy Barron argues that the inadvertent sub-
 mission of unadmitted evidence to the jury during its deliber-
 ations constitutes a violation of the Sixth Amendment, re-
 quiring a reversal of all the convictions against him.  The 
 Government responds that, although the alleged error was 
-
-
-
 constitutional, there was overwhelming, untainted evidence 
 sufficient to support Barron's convictions, so the error should 
 be deemed harmless.  Recent Supreme Court cases, as well 
@@ -115,7 +110,7 @@ However, applying the same standard, we decline to reverse
 the convictions of Barron that were unrelated to the Sun 
 Ray Market shootings.
 
-     In addition, we hold that several of Appellants' convictions 
+In addition, we hold that several of Appellants' convictions 
 should have been merged for sentencing purposes.  Each 
 Appellant's two convictions for armed robbery arising out of 
 the Sammy's Liquor Store incident should merge into one, 
@@ -129,19 +124,14 @@ into one, since the jury was never instructed that, to convict
 on each section 922(g) charge separately, it must find that the 
 weapons were separately acquired or stored.
 
-                                I. Background
-
-
+I. Background
 A. The Indictment
 
-     On April 13, 1995, Appellants Harold Cunningham and 
+On April 13, 1995, Appellants Harold Cunningham and 
 Percy Barron, together with codefendant Billy Richardson, 
 were charged, pursuant to both federal and District of Colum-
 bia law in a 68-count indictment, with a series of armed 
 robberies, assaults, and murders committed over a 139-day 
-
-
-
 period in the summer of 1993.  The indictment charged 
 Appellants with Racketeer Influenced and Corrupt Organiza-
 tion ("RICO") counts for operating and conspiring to operate 
@@ -166,9 +156,8 @@ except for the assault of Officer McDowell.  In addition,
 Appellants were charged with various gun possession of-
 fenses.
 
-     B.Cunningham's Election to Represent Himself
-
-     Robert Tucker, of the Federal Public Defender's office 
+B.Cunningham's Election to Represent Himself
+Robert Tucker, of the Federal Public Defender's office 
 ("FPD"), represented Cunningham from the time of Appel-
 lant's arraignment until early April 1996.  The record indi-
 cates that Cunningham became dissatisfied with Tucker's 
@@ -178,16 +167,13 @@ ham interpreted this article as insinuating that Tucker be-
 lieved Cunningham to be guilty of the charges alleged.  See 
 Tr. 4/26/96 at 7.
 
-     In an effort to placate Cunningham, the FPD replaced 
+In an effort to placate Cunningham, the FPD replaced 
 Tucker with Gregory Spencer.  Prior to his appointment, 
 Spencer had served as co-counsel to Tucker, first entering an 
 appearance on March 6, 1996.  At a status hearing on April 
 26, 1996, shortly before trial was then scheduled to begin, 
 Cunningham expressed concern that Spencer would simply be 
 picking up from where Tucker had left off, and stated that he 
-
-
-
 did not want to be represented by anyone from FPD.  Id. at 
 8.  In response to questioning by the court, Spencer con-
 firmed that he had fully examined Cunningham's file and 
@@ -198,7 +184,7 @@ be "handicapped, to some degree" by the fact that most of the
 initial case preparation had been completed before he became 
 involved in the case.  Id. at 9-10.
 
-     The court denied Cunningham's request for a change of 
+The court denied Cunningham's request for a change of 
 counsel, stating that it had "no reason to doubt the compe-
 ten[ce], the zealousness, the seriousness or the belief of Mr. 
 Spencer in the merits of his client's case."  Id. at 12-13.  The 
@@ -213,7 +199,7 @@ ously written, ... extensively researched, and raised every
 argument that I can imagine could have been raised."  Id. at 
 12.
 
-     At this point, Cunningham asserted that, if his request for 
+At this point, Cunningham asserted that, if his request for 
 new counsel were to be denied, he would rather represent 
 himself.  Id. at 13.  The trial judge warned Cunningham that 
 this was a risky decision, detailed for him some of the 
@@ -230,9 +216,6 @@ trial judge briefly addressed the issue at a May 6, 1996
 hearing, reiterating her faith in Spencer's ability to zealously 
 represent Cunningham, based upon his performance in the 
 case thus far and the time available for further preparation 
-
-
-
 prior to trial.  Tr. 5/6/96 at 26-27.  Finally, on May 21, 1996, 
 the court permitted Cunningham to represent himself, ap-
 pointing Spencer as stand-by counsel, making the resources 
@@ -246,12 +229,12 @@ active participation thus far, Cunningham had made a know-
 ing and intelligent waiver of his right to counsel.  Tr. 5/29/96 
 at 38-39.
 
-     C.Trial and Verdicts
+C.Trial and Verdicts
 
-     Trial commenced on June 3, 1996 and concluded on July 30, 
+Trial commenced on June 3, 1996 and concluded on July 30, 
 1996.
 
-     After several days of deliberations, the jury returned par-
+After several days of deliberations, the jury returned par-
 tial verdicts as to each defendant on August 9, 1996, and then 
 resumed deliberations.  On August 15, 1996, the jury re-
 turned verdicts on several of the remaining counts.  The jury 
@@ -271,14 +254,11 @@ them.  The court declared a mistrial as to the Anthony
 Johnson murder and RICO charges and entered judgments of 
 acquittal and conviction consistent with the jury's verdicts.
 
-     D.The Inadvertent Submission to the Jury of Unredacted 
-     911 Tapes
+D.The Inadvertent Submission to the Jury of Unredacted 
+911 Tapes
 
-     Appellants were charged with murdering Anthony Johnson 
+Appellants were charged with murdering Anthony Johnson 
 and assaulting Nefaertari McCree and Bernice Douglas dur-
-
-
-
 ing a shooting inside the Sun Ray Market on September 20, 
 1993 (counts 55-57).  Various gun possession changes also 
 arose from this incident (counts 58-61).  Romeo Williams was 
@@ -303,7 +283,7 @@ number, but that he broke off the chase and called 911 when
 he grew concerned that they may have realized that he was 
 following them.  See Tr. 6/26/96 p.m. at 40-43, 47-57.
 
-     Williams' credibility as a witness was seriously called into 
+Williams' credibility as a witness was seriously called into 
 question by Appellants' efforts to impeach him.  With 
 Williams testimony in doubt, the Government sought and was 
 granted leave by the trial judge to play Williams' 911 call in 
@@ -318,12 +298,9 @@ Williams' call was admitted into evidence, and a redacted tape
 recording containing only that call was supposed to go to the 
 jury.
 
-     The jury ultimately convicted Appellants of the assault and 
+The jury ultimately convicted Appellants of the assault and 
 weapon possession charges arising from the Sun Ray inci-
 dent, but was unable to reach a verdict on the Anthony 
-
-
-
 Johnson murder.  After the jury had rendered its verdicts 
 and the court had declared a mistrial as to the remaining 
 counts, the court permitted Government and defense counsel 
@@ -334,7 +311,7 @@ unadmitted 911 calls of eight other people as well as police
 radio transmissions related to the same event, in addition to 
 Williams' 911 call.
 
-     Upon learning of the jurors' exposure to this extrinsic 
+Upon learning of the jurors' exposure to this extrinsic 
 evidence, Barron moved for a new trial, pursuant to Fed. R. 
 Crim. P. Rule 33, on the ground that his Sixth Amendment 
 right to confront all witnesses against him had been violated 
@@ -357,23 +334,18 @@ against Barron, based on the modus operandi argued by the
 prosecution and ballistic evidence gathered from the Sun Ray 
 incident.
 
-     The Government conceded that the inadvertent submission 
+The Government conceded that the inadvertent submission 
 of the unredacted tapes to the jury was constitutional error, 
 but argued that this error was harmless and, therefore, did 
 not warrant reversal of any of Barron's convictions.  The 
 District Court held that the error did not constitute a struc-
 tural defect and was harmless and, accordingly, denied Bar-
 ron's motion.  See Memorandum Opinion and Order, United 
-
-
-
 States v. Barron, Crim. No. 95-88-02 (D.D.C. Feb. 20, 1997) 
 ("Mem.Op."). 
 
-                                 II. Analysis
-
-
-     On appeal, Appellants challenge their convictions on nu-
+II. Analysis
+On appeal, Appellants challenge their convictions on nu-
 merous grounds.  We have considered all of Appellants' 
 claims and find most of them to lack merit.  Only two of 
 Appellants' challenges to their convictions warrant discussion 
@@ -384,10 +356,9 @@ tapes renders his convictions invalid.  In addition, we address
 Appellants' claims that various of their convictions should 
 have been merged for sentencing purposes.
 
-     A.The District Court Did Not Err in Permitting Cunning-
-     ham to Represent Himself
+A.The District Court Did Not Err in Permitting Cunningham to Represent Himself
 
-     A criminal defendant has a constitutional right to represent 
+A criminal defendant has a constitutional right to represent 
 himself at trial.  See Faretta v. California, 422 U.S. 806 
 (1975).  To be valid, the defendant's election to waive his 
 right to counsel must be knowing, intelligent, and voluntary.  
@@ -398,7 +369,7 @@ that "it is undeniable that in most criminal prosecutions
 defendants could better defend with counsel's guidance than 
 by their own unskilled efforts."  Id. at 834.
 
-     To ensure that a choice for self-representation is knowing, 
+To ensure that a choice for self-representation is knowing, 
 intelligent, and voluntary, a court must apprise the defendant 
 of the "dangers and disadvantages" entailed by such a deci-
 sion "so that the record will establish that he knows what he 
@@ -409,13 +380,9 @@ to this requirement.  In Brown, a case with complexity and
 numerosity of counts similar to Cunningham's, several of the 
 defendants claimed on appeal that the trial court erred in 
 allowing them to represent themselves.  823 F.2d at 599.  
-
-
-
 This Court denied their claim, finding that the trial court had 
 engaged in a full discussion with the defendants regarding the 
 risks of self-representation.
-
      The record discloses that the trial court engaged in a full 
      discussion with the appellants regarding the dangers of 
      self-representation.  The judge informed the appellants 
@@ -435,7 +402,7 @@ discourse, the Brown court emphasized that "[n]either case
 law nor common sense" requires the court to address in detail 
 every possible difficulty a defendant might encounter.  Id.
 
-     The extensive colloquy between the District Court and 
+The extensive colloquy between the District Court and 
 Cunningham regarding his decision to represent himself 
 clearly meets the standard set forth in Brown.  This colloquy 
 took place over the course of several days.  On each occasion, 
@@ -444,7 +411,7 @@ and disadvantages of proceeding pro se and urged him to take
 more time to reconsider his decision.  See Gov't Br. at 17-20 
 (quoting relevant portions of transcript).
 
-     Cunningham argues on appeal that, given his IQ of 68, he 
+Cunningham argues on appeal that, given his IQ of 68, he 
 was unable to make an informed, knowing, and voluntary 
 decision to represent himself.  Throughout the pretrial pro-
 ceedings relating to Cunningham's self-representation, how-
@@ -453,9 +420,6 @@ to be a highly intelligent person.  See Gov't Br. 19-20 n.27
 and citations to transcript therein.  Although a reviewing 
 court decides de novo whether the record demonstrates a 
 knowing, intelligent waiver of a defendant's right to counsel, 
-
-
-
 "whether the defendant misunderstood what the court said, 
 despite defendant's unambiguous answers indicating compre-
 hension, is a pure question of fact which depends primarily on 
@@ -465,7 +429,7 @@ Charles, 72 F.3d 401, 404 (3d Cir. 1995).  Cunningham points
 to nothing in the record indicating that the trial court's 
 findings regarding his intelligence were clearly erroneous.
 
-     In addition, Cunningham argues that his decision to repre-
+In addition, Cunningham argues that his decision to repre-
 sent himself was not a voluntary decision because he was 
 faced with a "Hobson's Choice" between accepting appointed 
 counsel whom he felt was not prepared for trial and repre-
@@ -496,21 +460,17 @@ appointing new counsel just to placate a defendant threaten-
 ing to represent himself.  Accord United States v. Salemo, 61 
 F.3d 214, 221 (3d Cir. 1995).
 
-
-
-     B.Inadvertent Submission to the Jury of the Unredacted 
-     911 Tapes
-
-     1. Cunningham's Claims were not Preserved for Appeal
-
-     On appeal, Cunningham seeks to join Barron's appeal on 
+B.Inadvertent Submission to the Jury of the Unredacted 
+911 Tapes
+1. Cunningham's Claims were not Preserved for Appeal
+On appeal, Cunningham seeks to join Barron's appeal on 
 the issue of the inadvertent submission of the unredacted 911 
 tapes, arguing that this error influenced the jury's verdicts 
 against him as well as against Barron.  As an initial matter, 
 we find that Cunningham's claims pertaining to the 911 tapes 
 are not properly before this court.
 
-     Cunningham asserts that the District Court's standing 
+Cunningham asserts that the District Court's standing 
 order deemed Cunningham to have joined in Barron's motion 
 for a new trial and that, by sentencing Cunningham before 
 deciding that motion, the trial judge in effect denied the 
@@ -536,14 +496,11 @@ trial as applying to Barron alone and did not make any
 findings or judgment regarding the effect of the error on 
 Cunningham.  See Mem. Op. at 1-6.
 
-     Moreover, although Cunningham appealed his convictions 
+Moreover, although Cunningham appealed his convictions 
 prior to the District Court's denial of Barron's motion for a 
 new trial, he failed to file a separate notice of appeal after the 
 post-trial motion foundered.  Cunningham's reliance on Unit-
 ed States v. Baird, 29 F.3d 647 (D.C. Cir. 1994), in support of 
-
-
-
 his contention that a separate notice of appeal was unneces-
 sary, is misplaced.  In Baird, this court simply clarified that 
 the filing of a post-trial motion does not nullify a notice of 
@@ -558,9 +515,8 @@ denial of his post-trial motion in light of his failure to timely
 appeal from the denial of the motion, notwithstanding his 
 earlier-filed notice of appeal.  See id. at 655.
 
-     2. Standard of Review 
-
-     The inadvertent submission of the unredacted 911 tapes to 
+2. Standard of Review 
+The inadvertent submission of the unredacted 911 tapes to 
 the jury violated the Sixth Amendment Confrontation Clause, 
 in that it effectively provided to the jury testimony of eight 
 other witnesses without allowing the defendants to confront 
@@ -577,8 +533,7 @@ harmless error review where appellant claimed she was enti-
 tled to a new trial because a document that had not been 
 offered into evidence had been sent to the deliberating jury 
 inadvertently).
-
-     Barron contends that the inadvertent submission to the 
+Barron contends that the inadvertent submission to the 
 jury of the unredacted tapes is a structural error requiring 
 automatic reversal of his convictions, relying on United States 
 v. Noushfar, 78 F.3d 1442 (9th Cir. 1996).  We disagree.  The 
@@ -586,13 +541,10 @@ type of error at issue here can "be quantitatively assessed in
 the context of the evidence presented in order to determine 
 whether its admission was harmless beyond a reasonable 
 doubt," Arizona v. Fulminante, 499 U.S. 279, 307-08 (1991), 
-
-
-
 and is not one which affects "[t]he entire conduct of the trial 
 from beginning to end."  Id. at 309.
 
-     This holding is not inconsistent with those of the Ninth 
+This holding is not inconsistent with those of the Ninth 
 Circuit.  In Noushfar, the Ninth Circuit construed the trial 
 judge's provision to the deliberating jury of fourteen highly-
 incriminating taped conversations between defendants and 
@@ -621,7 +573,7 @@ ry issues that the court may clearly identify and analyze, and
 is similar to other commonly-recognized trial errors."  Id.  
 We agree with the Ninth Circuit's analysis in Eslaminia.
 
-     Under the applicable harmless error standard, a constitu-
+Under the applicable harmless error standard, a constitu-
 tional error is harmless and does not require reversal only if 
 the Government can show "beyond a reasonable doubt that 
 the error complained of did not contribute to the verdict 
@@ -630,9 +582,6 @@ Recent Supreme Court cases, as well as cases from this
 circuit, have clarified that harmless error review calls for an 
 inquiry as to whether the Government has shown beyond a 
 reasonable doubt that the error at issue did not have an effect 
-
-
-
 on the verdict, not merely whether, absent the error, a 
 reasonable jury could nevertheless have reached a guilty 
 verdict.  See Sullivan v. Louisiana, 508 U.S. 275, 279 (1993) 
@@ -659,7 +608,7 @@ having affected the verdict.  See O'Neal v. McAninch, 513
 U.S. 432, 435-36 (1995);  Smart, 98 F.3d at 1391-92;  United 
 States v. Pryce, 938 F.2d 1343, 1349-50 (D.C. Cir. 1991).
 
-     Resting appellate review of constitutional trial errors on a 
+Resting appellate review of constitutional trial errors on a 
 guilt-based inquiry into whether, even absent the error, a 
 reasonable jury might have nevertheless reached a guilty 
 verdict based upon the lawful evidence before it would be 
@@ -673,12 +622,9 @@ ter how inescapable the findings to support that verdict might
 be--would violate the jury-trial guarantee."  508 U.S. at 279.  
 See also Kotteakos, 328 U.S. at 763-64.
 
-
-
 3.Barron's Convictions Arising from the Sun Ray Mar-
-          ket Incident
-
-     Barron claims that allowing the jury to hear the unredacted 
+ket Incident
+Barron claims that allowing the jury to hear the unredacted 
 tape was not harmless error because the extrinsic evidence on 
 the 911 tapes corroborated and bolstered the testimony of 
 Romeo Williams who, Barron points out, was an unreliable 
@@ -695,7 +641,7 @@ of them, a young man closely resembling Barron, had carried
 a gun similar to the chrome-plated Iberia pistol fired at Sun 
 Ray.  See Unredacted Tape, R.M. 57-73.
 
-     The Government offers three arguments in response.  
+The Government offers three arguments in response.  
 First, the Government contends that the error was harmless 
 because the jurors may not have listened to the tape until 
 after they had rendered their verdicts on the Sun Ray 
@@ -705,7 +651,7 @@ who had participated in the jury debriefing session at which
 the error initially was discovered.  See Affidavit of Special 
 Agent Vincent Lisi, reprinted in Gov't Supp. Br., App. 2.
 
-     However, as the District Court noted, neither the state-
+However, as the District Court noted, neither the state-
 ments of the jurors at the post-trial debriefing session nor 
 that of Agent Lisi have been subject to cross-examination, 
 and thus the court declined to rely on them in ruling on the 
@@ -714,13 +660,10 @@ also decline to base our ruling on the Lisi Affidavit.  Instead,
 because the parties agree that the jurors were in possession 
 of the unredacted tape since the commencement of their 
 deliberations, we assume, absent any compelling evidence to 
-
-
-
 the contrary, that they listened to it prior to rendering their 
 verdicts on the Sun Ray charges.
 
-     Second, the Government argues that the error was harm-
+Second, the Government argues that the error was harm-
 less because Williams' testimony was sufficiently bolstered by 
 Williams' own 911 call--the portion of the 911 tapes that was 
 played in open court and properly made available during jury 
@@ -736,7 +679,7 @@ on the narrow issue relevant to whether Mr. Barron partici-
 pated in the Sun Ray Market incident was straightforward 
 and credible."  Mem. Op. at 4-5.
 
-     It is for the jury, not the court, to evaluate witness 
+It is for the jury, not the court, to evaluate witness 
 credibility.  The prosecution and the District Court acknowl-
 edge that Williams' general credibility was doubtful, but 
 endorse his testimony pertaining to the Sun Ray incident on 
@@ -752,15 +695,12 @@ than reject it, and that its acceptance of Williams' testimony
 did not, in turn, affect its verdicts convicting Barron on the 
 Sun Ray charges.
 
-     Finally, the Government argues that, even assuming that 
+Finally, the Government argues that, even assuming that 
 the jury would have rejected Williams' testimony absent the 
 error, the error must nevertheless be deemed harmless in 
 light of what it describes as overwhelming, untainted evidence 
 implicating Barron for the Sun Ray charges.  However, the 
 Government is unable to highlight any eyewitness testimony 
-
-
-
 implicating Barron for the Sun Ray shootings equivalent to 
 that of Williams and unidentified callers on the 911 tapes.  
 Rather, the Government highlights the following evidence 
@@ -785,7 +725,7 @@ ment also argues that Barron's defense--that it was merely
 coincidental that he was with Cunningham and in possession 
 of the Glock hours after the shooting--is highly suspect.
 
-     It is not inconceivable that the jury could have convicted 
+It is not inconceivable that the jury could have convicted 
 Barron on the Sun Ray counts even if it had never heard the 
 unredacted 911 tapes and rejected Williams' testimony.  
 However, even if we find the untainted evidence against 
@@ -793,7 +733,7 @@ Barron to be overwhelming, we could not find the error
 harmless for this reason.  Rather, we must determine wheth-
 er the error affected the jury's verdict.
 
-     Relying on our decision in Smart, the Government at-
+Relying on our decision in Smart, the Government at-
 tempts to equate the applicable effect-on-the-verdict inquiry 
 with an overwhelming evidence inquiry.  Although, in Smart, 
 we stated that if "the lawful evidence against the defendant is 
@@ -802,9 +742,6 @@ the error should be deemed harmless," 98 F.3d at 1391, we
 also emphasized that "the harmless error test we apply here 
 is not a mere sufficiency-of-the-evidence inquiry."  Id. In 
 deeming the error at issue in Smart harmless, we emphasized 
-
-
-
 that "[t]he totality of properly admitted evidence [against the 
 defendant] was weighty and not at all ambiguous," that 
 "[m]oreover, there was a virtual absence of exculpatory evi-
@@ -818,7 +755,7 @@ balanced that a conscientious judge is in grave doubt as to the
 harmlessness of an error," the judge cannot find the error to 
 be harmless.).
 
-     Thus, although "[o]f course, in deciding whether an error 
+Thus, although "[o]f course, in deciding whether an error 
 has had a substantial influence on the jury, a reviewing court 
 cannot help but look at the totality of lawful evidence present-
 ed at trial," Smart, 98 F.3d at 1391 (citing Kotteakos, 328 U.S. 
@@ -844,12 +781,9 @@ or where the error at issue may otherwise have tipped the
 scales towards a guilty verdict, the Government is unable to 
 make such a showing, and the verdict must be reversed.
 
-     We find that the evidence against Barron for the Sun Ray 
+We find that the evidence against Barron for the Sun Ray 
 shootings, absent Williams' testimony as bolstered by the 911 
 tapes, is not free from ambiguity.  As Barron argues, Romeo 
-
-
-
 Williams' eyewitness testimony was central to the Govern-
 ment's case against Barron for the Sun Ray charges.  Al-
 though the jury arguably could have found Barron guilty even 
@@ -868,13 +802,12 @@ incident;  Williams' testimony and other information on the
 911 tapes had no bearing on this charge.  Accordingly, we do 
 not reverse this conviction.
 
-     4. Barron's Remaining Convictions 
+4. Barron's Remaining Convictions 
 
-     Barron argues further that the erroneously admitted 911 
+Barron argues further that the erroneously admitted 911 
 tapes render all of his convictions invalid, not just those 
 arising from the Sun Ray incident.  We disagree.
-
-     The Government bears the burden of showing beyond a 
+The Government bears the burden of showing beyond a 
 reasonable doubt that the error at issue did not contribute to 
 the non-Sun Ray convictions.  See Chapman, 386 U.S. at 24.  
 In an effort to make this showing, the Government empha-
@@ -884,7 +817,7 @@ Ray charges.  In addition, the Government highlights eyewit-
 ness identifications and other evidence implicating Barron for 
 the other charges on which he was convicted.
 
-     Barron fails to argue that the untainted evidence implicat-
+Barron fails to argue that the untainted evidence implicat-
 ing him in the non-Sun Ray charges was ambiguous, nor does 
 he highlight any specific exculpatory evidence exonerating 
 him on the other charges.  Rather, Barron offers two theories 
@@ -892,9 +825,6 @@ linking the taint of the error at issue to all of the charges
 against him.  First, he argues that ballistics evidence links all 
 of the charges together, and, thus, if the jury were to find 
 Barron guilty for the Sun Ray shootings, the weapons used at 
-
-
-
 Sun Ray link him to the other incidents as well.  Second, he 
 argues that the prosecution's trial theory emphasized that 
 Cunningham and Barron were together engaged in a series of 
@@ -910,7 +840,7 @@ inadvertent admission of the unredacted tapes, the jury would
 have acquitted Barron of the Sun Ray shootings, the error 
 must be deemed to taint all of the convictions against Barron.
 
-     We are unable to find that the error affected the non-Sun 
+We are unable to find that the error affected the non-Sun 
 Ray verdicts, in light of the Government's showings and 
 Barron's failure to highlight any specific evidence conflicting 
 with the evidence against him or to otherwise argue that the 
@@ -924,7 +854,7 @@ the evidence had been ambiguous or conflicting, the harmless
 error standard would require reversal of even a relatively 
 minor error).
 
-     Barron's claim that the information contained in the 911 
+Barron's claim that the information contained in the 911 
 tapes indirectly tainted the jury's non-Sun Ray verdicts is 
 best construed as an argument that the error tipped the 
 balance towards guilty verdicts on the non-Sun Ray charges.  
@@ -937,9 +867,7 @@ as a whole in order to determine whether the error at issue
 influenced this jury to find Barron guilty of the non-Sun Ray 
 charges.
 
-
-
-     Although the prosecution apparently tried to use ballistics 
+Although the prosecution apparently tried to use ballistics 
 evidence and modus operandi arguments to tie the Appel-
 lants together and to each of the incidents alleged, the jury 
 did not appear to be swayed by these on-going enterprise 
@@ -963,18 +891,16 @@ balance towards guilty verdicts on the non-Sun Ray charges
 unpersuasive.  Accordingly, we decline to reverse Barron's 
 non-Sun Ray convictions.
 
-     C.Merger of Various Convictions for Sentencing Purposes
-
-     1. Merger of Various D.C. Offenses 
-
-     As the Government concedes, each Appellant's two convic-
+C.Merger of Various Convictions for Sentencing Purposes
+1. Merger of Various D.C. Offenses 
+As the Government concedes, each Appellant's two convic-
 tions for armed robbery arising out of the Sammy's Liquor 
 incident (counts 31-32) should merge into one, since Appel-
 lants robbed only the liquor store and not its employees.  See 
 United States v. Canty, 469 F.2d 114, 126-27 (D.C. Cir. 1972) 
 (four tellers, but only one bank, robbed;  only one conviction).
 
-     In addition, as the Government concedes, each Appellant's 
+In addition, as the Government concedes, each Appellant's 
 armed robbery convictions arising from the Fair Liquor 
 incident (counts 47-49) should merge with their felony mur-
 der convictions (counts 50-51), because the indictment speci-
@@ -982,18 +908,15 @@ fied the armed robberies as the predicate for the felony
 murder counts.  See Catlett v. United States, 545 A.2d 1202, 
 1219 (D.C. 1988).
 
-
-
-     2. Merger of Section 922(g) Charges
-
-     All eight of Cunningham's convictions under 18 U.S.C. 
+2. Merger of Section 922(g) Charges
+All eight of Cunningham's convictions under 18 U.S.C. 
 s 922(g) (counts 7, 17, 22, 26, 38, 54, 59, 67) should be merged 
 into one.  Contrary to the Government's suggestion, this is 
 not merely a sentencing issue.  Rather, the issue turns on 
 whether the jury found all of the elements necessary to 
 convict Cunningham for eight separate 922(g) charges.  
 
-     When a felon possesses multiple weapons, only one offense 
+When a felon possesses multiple weapons, only one offense 
 is committed, unless the weapons are stored or acquired at 
 different times or places.  In other words, where there is 
 more than one charge under section 922(g), separate acquisi-
@@ -1008,7 +931,7 @@ United States v. Valentine, 706 F.2d 282, 294 (10th Cir. 1983)
 and United States v. Frankenberry, 696 F.2d 239, 245 (3d Cir. 
 1982)).
 
-     Uncertainty as to the unit of prosecution intended by 
+Uncertainty as to the unit of prosecution intended by 
 Congress in section 922(g) exists because of the use of the 
 ambiguous word "any" in defining the crime.  18 U.S.C. 
 s 922(g) ("It shall be unlawful for [a convicted felon] . . . to 
@@ -1027,9 +950,6 @@ purpose of protitution . . . .") (emphasis added).  The Court
 explained that Congress "has no difficulty in expressing" its 
 will "when it has the will . . . of defining what it desires to 
 make the unit of prosecution and, more particularly, to make 
-
-
-
 each stick in a faggot a single criminal unit.  When Congress 
 leaves to the Judiciary the task of imputing to Congress an 
 undeclared will, the ambiguity should be decided in favor of 
@@ -1043,7 +963,7 @@ circuits have held section 922 to require a finding of seperate
 acquisition and storage in order to uphold multiple weapon 
 possessions convictions).
 
-     Whether the weapons were separately acquired or stored is 
+Whether the weapons were separately acquired or stored is 
 a question of fact for the jury, not a question of law for the 
 court.  See United States v. Gaudin, 515 U.S. 506 (1995) 
 (because materiality is an element of a violation of 18 U.S.C. 
@@ -1055,17 +975,15 @@ find that the weapons were separately acquired or stored in
 order to convict on each section 922(g) charge, and thus these 
 convictions must merge into one.
 
-                               III. Conclusion
-
-
-     For the reasons explained above, we reverse Barron's 
+III. Conclusion
+For the reasons explained above, we reverse Barron's 
 convictions on counts 56, 57, and 60.  Appellants raised 
 several other challenges to their convictions, all of which have 
 been considered by this court and found to lack merit.  
 Therefore, the District Court judgment is affirmed with re-
 gard to the remaining convictions.
 
-     However, as explained above, various of Appellants' convic-
+However, as explained above, various of Appellants' convic-
 tions should have been merged for sentencing purposes.  
 Accordingly, we remand to the sentencing court for resen-
 tencing consistent with this opinion.

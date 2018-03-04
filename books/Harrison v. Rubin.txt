@@ -53,7 +53,7 @@ Circuit Judges.
 
      Opinion for the Court filed by Circuit Judge Tatel.
 
-     Tatel, Circuit Judge:  Appealing the dismissal of her em-
+Tatel, Circuit Judge:  Appealing the dismissal of her em-
 ployment discrimination case, appellant argues that the dis-
 trict court abused its discretion in denying her motion to 
 amend her complaint to correct an erroneous statutory cita-
@@ -73,7 +73,7 @@ proceedings.
                                       I
 
 
-     Appellant Sepedra Harrison, an African-American female 
+Appellant Sepedra Harrison, an African-American female 
 employee of the Internal Revenue Service, began working in 
 1991 as a secretary for Michael Sincavage, the Chief of the 
 Office of Disclosure.  In 1992, she filed a complaint with the 
@@ -90,9 +90,7 @@ to the point of a breakdown."  Complaint p 19.  Yet nonmi-
 nority employees suffering similar health problems, she says, 
 were transferred immediately.
 
-
-
-     In informal and formal EEO complaints, Harrison alleged 
+In informal and formal EEO complaints, Harrison alleged 
 that during her detail to the Tax Check Unit, as well as after 
 her September 1993 transfer back to the Office of Disclosure, 
 Sincavage and others harassed her, threatened to discipline 
@@ -104,7 +102,7 @@ pre-complaint EEO counseling."  Dep't of the Treasury, Indi-
 vidual Complaint of Employment Discrimination (notice on 
 form).
 
-     Exactly how many formal and informal complaints Harri-
+Exactly how many formal and informal complaints Harri-
 son filed during this period and precisely what they alleged is 
 not at all clear.  Her affidavit and interrogatory answers 
 refer to a September 20 informal complaint, which became 
@@ -117,7 +115,7 @@ mentioned in her own affidavit and interrogatory answers).
 And Harrison's reply brief mentions for the first time a 
 November 15 informal complaint.
 
-     Because of the confusion about Harrison's administrative 
+Because of the confusion about Harrison's administrative 
 complaints, and because only the November 15 complaint was 
 included in the record, we asked the parties at oral argument 
 to give us copies of all relevant complaints.  In response, they 
@@ -129,13 +127,10 @@ referred to one, or a pre-November 15 formal complaint, even
 though the November 15 complaint alleges retaliation for 
 having filed an earlier formal complaint.
 
-     While Harrison's various complaints were being investigat-
+While Harrison's various complaints were being investigat-
 ed, the IRS and Harrison signed a settlement agreement 
 dated January 6, 1994.  Titled "Precomplaint Agreement in 
 the Discrimination Complaint of Sepedra E. Harrison," the 
-
-
-
 agreement does not indicate which complaints or incidents it 
 resolves.  It provides simply:  "It is hereby agreed by the 
 undersigned representative for the Internal Revenue Service 
@@ -157,7 +152,7 @@ from Michael Morgan-Gaide, Director, Regional Complaint
 Center, Department of the Treasury, to Gregory L. Lattimer, 
 Attorney for Sepedra Harrison (Sept. 11, 1995).
 
-     Harrison then filed suit in the United States District Court 
+Harrison then filed suit in the United States District Court 
 for the District of Columbia.  Count one of her complaint 
 alleged that the agency's delay in transferring her violated 
 the Americans with Disabilities Act, 42 U.S.C. s 12101 et seq. 
@@ -172,14 +167,12 @@ See 12/16/97 Tr. at 3-4 (quoting Harrison's statement that
 Sincavage reached across his desk and grabbed her wrist as 
 she was moving files from the office).
 
-     The IRS moved for dismissal or summary judgment, argu-
+The IRS moved for dismissal or summary judgment, argu-
 ing that the ADA does not apply to noncongressional federal 
 workers, that the settlement agreement covered all of Harri-
 son's Title VII retaliation and discrimination claims, and that 
 Harrison failed to state a cause of action based on the alleged 
-
-
-assault or to exhaust her administrative remedies for that 
+assault or to exhaust her administrative remedies for that 
 claim.  Harrison responded that she had mistakenly cited the 
 ADA and sought leave to amend the complaint to allege that 
 her disability discrimination claim actually arose under the 
@@ -194,7 +187,7 @@ also argued that the settlement agreement could not bar her
 claims regarding the alleged assault because the assault had 
 not occurred until after she signed the agreement.
 
-     The district court, finding it "too late in the process for 
+The district court, finding it "too late in the process for 
 Plaintiff to amend her complaint," granted the government's 
 motion to dismiss her ADA claim.  See Harrison v. Rubin, 
 No. 95-2256 (D.D.C. Dec. 19, 1997) ("District Court Order").  
@@ -203,9 +196,7 @@ barred by the settlement agreement, the court dismissed the
 remaining counts.  See id.  Harrison appeals both orders.
 
                                       II
-
-
-     Federal Rule of Civil Procedure 15(a) requires that leave to 
+Federal Rule of Civil Procedure 15(a) requires that leave to 
 file an amended complaint "shall be freely given when justice 
 so requires."  Explaining its denial of Harrison's motion to 
 amend, the district court stated:  "Two years have passed 
@@ -217,13 +208,10 @@ We review the denial of a motion to amend for abuse of
 discretion.  See Material Supply Int'l, Inc. v. Sunmatch 
 Indus. Co., 146 F.3d 983, 991 (D.C. Cir. 1998).
 
-     Harrison argues that where as here a plaintiff seeks to 
+Harrison argues that where as here a plaintiff seeks to 
 amend a complaint to add a new legal theory, the district 
 court may deny the motion only if the amendment would 
 prejudice the defendant.  According to the government, un-
-
-
-
 due delay is a permissible basis for denying any motion to 
 amend.  The government relies on Foman v. Davis, but that 
 case simply reversed a district court's unexplained denial of a 
@@ -247,7 +235,7 @@ theory," we explained, "a plaintiff is not bound by the legal
 theory on which he or she originally relied."  Id. at 53 n.11 
 (citations omitted).
 
-     Applying these standards, we conclude that the district 
+Applying these standards, we conclude that the district 
 court should have granted Harrison's motion to amend to 
 substitute the Rehabilitation Act for the ADA.  Harrison 
 sought to add no new factual allegations.  In opposing the 
@@ -259,15 +247,12 @@ Cal., 166 F.3d 1041, 1045 n.11 (9th Cir. 1999) ("There is no
 significant difference in analysis of the rights and obligations 
 created by the ADA and the Rehabilitation Act.").
 
-     The government nevertheless urges us to affirm the district 
+The government nevertheless urges us to affirm the district 
 court because in 1996 Harrison's lawyer, after obtaining a 
 delay to amend the complaint, told the court:  "I'm not 
 amending.  I'm not filing any other lawsuits.  We are going 
 forward on this case, and that's it."  4/2/97 Tr. at 4.  But as 
 we read the record, counsel's statement had nothing to do 
-
-
-
 with his later effort to amend Harrison's complaint to correct 
 the erroneous reference to the ADA.  When counsel assured 
 the court in 1996 that he was prepared to go forward without 
@@ -275,14 +260,12 @@ further amendments, he was referring only to his decision to
 add no other counts or allegations based on Harrison's other 
 EEO administrative complaints.  See id. at 2-4.
 
-     We reverse the district court's dismissal of Harrison's 
+We reverse the district court's dismissal of Harrison's 
 disability discrimination claim and remand for further pro-
 ceedings.
 
                                      III
-
-
-      Challenging the district court's dismissal of her Title VII 
+Challenging the district court's dismissal of her Title VII 
 claims, Harrison argues that the Precomplaint Agreement 
 settled only an informal complaint concerning certain retalia-
 tory acts by Sincavage from November 22 to November 30, 
@@ -298,21 +281,20 @@ rison also points out that the settlement agreement is titled
 term used to describe an informal complaint, not a formal 
 complaint.
 
-     The government originally disagreed with Harrison's posi-
+The government originally disagreed with Harrison's posi-
 tion.  It argued that the Precomplaint Agreement settled all 
 of Harrison's then-pending EEO administrative complaints, 
 including the November 22 formal complaint.  It was on the 
 basis of this argument that the district court dismissed Harri-
 son's Title VII claims.  See District Court Order at 2.
 
-     The government has now abandoned this position.  In a 
+The government has now abandoned this position.  In a 
 motion to remand filed just two days before oral argument, 
 the government advised us that it now agrees with Harrison 
 that "the parties entered into the Settlement Agreement in 
 order to settle the claims raised by Appellant in an informal 
 complaint pending before the agency" and thus "technically 
 settled only one of Appellant's two administrative com-
-
 plaints."  Appellee's Mot. to Remand at 2.  Although the 
 government does not tell us which informal complaint it 
 believes was settled, it apparently disagrees with Harrison's 
@@ -333,14 +315,14 @@ the two complaints concerned the same general "matters"--
 i.e., discrimination and retaliation--but not the same incidents 
 and dates.
 
-     We do agree with the government about one thing:  This 
+We do agree with the government about one thing:  This 
 issue requires remand.  In view of the government's change 
 in position, no one any longer defends the district court's 
 rationale for dismissing the Title VII counts.  Both parties 
 agree that the plain language of the settlement agreement is 
 ambiguous, and both now resort to extrinsic evidence.
 
-     Under these circumstances, we reverse the dismissal of 
+Under these circumstances, we reverse the dismissal of 
 Harrison's Title VII claims and remand to the district court 
 to determine whether, based on all the evidence, the Precom-
 plaint Agreement bars Harrison from pursuing claims based 
@@ -354,9 +336,6 @@ tive exhaustion have been served by pursuing administrative
 remedies for the underlying complaint, separate exhaustion of 
 administrative remedies for related post-complaint conduct is 
 not required);  Webb v. District of Columbia, 864 F. Supp. 
-
-
-
 175, 184 (D.D.C. 1994) ("[T]o force an employee to return to 
 the state agency and the EEOC every time he claims a new 
 instance of discrimination in order to have the courts consider 

@@ -83,9 +83,6 @@ Before: McKEE, RENDELL and BARRY, Circuit Judges ,
         Counsel for Appellant
        Delroy Josiah
 
-                                2
-
-
        Bruce Z. Marshack, Esq. [ARGUED]
        Office of United States Attorney
        1108 King Street, Suite 201
@@ -118,8 +115,8 @@ rulings and the sufficiency of the evidence of carjacking and
 gun possession. In addition, the defendants argue that the
 District Court erred by not conducting voir dire of a juror
 to determine bias, and by not granting a hearing in
-response to a charge of prosecutorial misconduct. 2 On the
-_________________________________________________________________
+response to a charge of prosecutorial misconduct.
+
 
 1. As will be discussed in more detail later in the opinion, "Pinkerton
 liability" is a theory of vicarious criminal liability set forth in Pinkerton v.
@@ -129,22 +126,15 @@ United States, 328 U.S. 640 (1946).
 very little discussion. First, they argue that the District Court had no
 jurisdiction because the crimes charged were not"of the same or similar
 character or part of, or based on, the same act or transaction or two or
-
-                                3
-
-
 issue involving Pinkerton liability, we find that the doctrine
 does exist in the Virgin Islands. With respect to this issue,
 and all other issues raised, we will affirm the rulings of the
 District Court.
 
 I. FACTS
-
 The trial involved defendants' conduct at three different
 residential locations in St. Croix:
-
 A. 338 Estate Mount Pleasant
-
 On the evening of September 22, 1998, a group of men
 invaded 338 Estate Mount Pleasant, the home of James
 Sorhaindo. Sorhaindo's friend, Reynoldson Ferrol, was also
@@ -164,8 +154,6 @@ crime occurred. Joseph testified that he lived in Building
 Four of the Paradise Project, and that he had been
 questioned regarding what he had seen around that same
 time. He stated that he had gone to the police station and
-_________________________________________________________________
-
 more acts or transactions connected together or constituting part of a
 common scheme or plan," which is required by statute in order to give
 the District Court concurrent jurisdiction over the territorial crimes. 48
@@ -179,10 +167,7 @@ issue, we would have to find that eyewitness identifications are
 inherently unreliable and cannot be admissible in court. We decline to
 do so.
 
-                                4
-
-
-told them what he had seen. However, he denied having
+He told them what he had seen. However, he denied having
 identified the defendants, instead expressing his"love" to
 the defendants in the courtroom and insisting that he had
 been forced to testify. A police officer, Lieutenant Secundino
@@ -194,7 +179,6 @@ the vicinity of 338 Estate Mount Pleasant around the time
 of the crime.
 
 B. 56 Estate Enfield Green
-
 In the early morning hours on September 23, 1998,
 Jackie Tredway and Thomas Barrows were outside
 Tredway's residence, 56 Estate Enfield Green, when they
@@ -221,16 +205,8 @@ these items were found in her van, which had been
 abandoned next to one of the crime scenes, while others
 were recovered either at the site of the third crime scene or
 at Lopez' house.
-_________________________________________________________________
-
-3. Tredway noted that because the incident occurred shortly after
-Hurricane Georges, her home was without power.
-
-                                5
-
 
 C. 66 Estate Enfield Green
-
 The most serious crimes occurred at the last location, 66
 Estate Enfield Green, the home of Concepcion Garcia Orta
 and her husband Orlando Orta. The couple was asleep in
@@ -256,7 +232,6 @@ they were prejudicial and should not be admitted based on
 Fed. R. Evid. 403.
 
 D. Searches of Defendants' Homes
-
 In a series of searches of the defendants' homes, the
 police uncovered a variety of incriminating items. In the
 home of Lopez, the police found a bag with Sorhaindo's
@@ -269,25 +244,12 @@ police discovered boots with a print matching that found at
 the Orta home, a watch later identified as Mr. Orta's, and
 slugs matching both those found at the Orta home and at
 Lopez' home.5 And in the residence that Navarro shared
-_________________________________________________________________
-
-4. At trial, Gregory Bennerson, a ballistics expert, testified that this type
-of slug was very unusual -- he had only seen that type of ammunition
-six to eight times during his sixteen year career.
-5. Josiah had a running commentary with police during the search, and
-said, "You should have come yesterday, everything was here yesterday.
-The big one was here yesterday."
-
-                                6
-
-
 with other family members, the police found a camouflage
 jacket with a gun in the pocket and camouflage pants and
 a t-shirt, clothing that matched the victims' descriptions of
 the assailants' clothing.6
 
 E. Crispin's Arrest
-
 On October 20, 1998, police officers were responding to
 a complaint near Paradise Project when they spotted a
 Nissan driven by Crispin. Once the officers were in pursuit,
@@ -311,7 +273,6 @@ expelled a cartridge onto the porch under the window of
 that home.
 
 II. PROCEDURAL HISTORY
-
 On April 6, 1999, defendants Crispin, Josiah, Lopez and
 Navarro were charged in a twenty-two count indictment. At
 their consolidated trial, victims Ferrol, Sorhaindo, Tredway,
@@ -321,14 +282,6 @@ Guadalupe and Joseph took the stand, as did Lieutenant
 Cruz, who testified regarding what Joseph had originally
 told the police. Another police officer, Jonathan Hitesman,
 testified regarding the collection of evidence at the Orta
-_________________________________________________________________
-
-6. There is no information in the record regarding a search of Crispin's
-home.
-
-                                7
-
-
 home, where items from Tredway's home, a knife with
 Navarro's fingerprint, a slug from Crispin's gun, and a shoe
 print matching Josiah's boot were found. In addition, the
@@ -373,17 +326,12 @@ S 1612, commonly known as the Organic Act:
        Virgin Islands which are of the same or similar
        character or part of, or based on, the same act or
        transaction or two or more acts or transactions
-
-                                8
-
-
        connected together or constituting part of a common
        scheme or plan . . . .
 
 Id. We have appellate jurisdiction under 28 U.S.C. S 1291.
 
 A. Pinkerton Liability
-
 In Pinkerton v. United States, 328 U.S. 640 (1946), the
 Supreme Court held that the criminal act of one
 conspirator in furtherance of the conspiracy is"attributable
@@ -412,21 +360,15 @@ jury:
        proof for Pinkerton Liability, the Government must
        prove the three essential elements beyond a reasonable
        doubt:
-
        1. That a conspiracy existed in that there was an
        agreement between individuals to align
        themselves with others in the criminal venture;
-
        2. That having so aligned themselves together, one
        or more of the others of them acted to commit
        the substantive offense; and
-
        3. That the substantive offense was committed in
        furtherance of the criminal venture in which the
        defendant had aligned himself with others.
-
-                                9
-
 
        It is not required that a conspiracy be charged in the
        indictment for Pinkerton liability to apply, as long as
@@ -463,23 +405,6 @@ all crimes, not just the federal offenses.
 
 The defendants argue that the Virgin Islands aiding and
 abetting statute, 14 V.I.C. S 11,7  sets forth the only ways a
-_________________________________________________________________
-
-7. The aiding and abetting statute, 14 V.I.C.S 11, provides:
-
-       (a) Whoever commits a crime or offense or aids, abets, counsels,
-       commands, induces or procures its commission, is punishable as a
-       principal.
-
-       (b) Whoever willfully causes an act to be done which if directly
-       performed by him or another person would be a crime or offense, is
-       punishable as a principal.
-
-Id.
-
-                                10
-
-
 defendant can be held criminally responsible for the acts of
 another.8 The government, however, contends that
 "[n]othing in the Virgin Islands Code prohibits the
@@ -490,7 +415,6 @@ therefore are confronted with an issue of first impression.
 
 Because we find that there is no case law governing this
 precise issue, we look to 1 V.I.C. S 4, which provides:
-
        The rules of the common law, as expressed in the
        restatements of the law approved by the American Law
        Institute, and to the extent not so expressed, as
@@ -515,20 +439,6 @@ Further, we can find no local law to the contrary. The
 aiding and abetting statute makes punishable certain acts
 one commits as a principal but does not speak to, or rule
 out, co-conspirator punishment for an offense. Also, we do
-_________________________________________________________________
-
-8. The defendants also rely on Gov't of the Virgin Islands v. Aquino, 378
-F.2d 540 (3d Cir. 1967), to support their argument concerning Pinkerton
-liability. However, this case is inapposite. Aquino did not address co-
-conspirator liability at all, making no mention of the application of
-Pinkerton liability in the Virgin Islands. Rather, it merely clarified that
-the effect of the Virgin Islands aiding and abetting statute, 14 V.I.C. S 11,
-was to abolish common law distinctions between accessories before and
-after the fact and principals in the first and second degree. Id. at 552-53.
-
-                                11
-
-
 not view the fact that the specific criminal offenses at issue
 punish the commission of the offense, without including
 accomplice or other liability, as reflecting a local law to the
@@ -540,8 +450,7 @@ Court did not err in instructing the jury that they could
 convict the defendants under the Pinkerton doctrine.
 
 B. Rule 403 Challenge to the Admissibility of
-       Photographs
-
+Photographs
 The defendants argue that the District Court erred in
 admitting photographs of Mrs. Orta's mutilated hand,
 instead of relying simply on her testimony and that of the
@@ -564,21 +473,6 @@ evidence in response to an objection under Rule 403."
 United States v. Balter, 91 F.3d 427, 442 (3d Cir. 1996). We
 have also stated: "If judicial restraint is ever desirable, it is
 when a Rule 403 analysis of a trial court is reviewed by an
-_________________________________________________________________
-
-9. Of course, if the legislature of the Virgin Islands does not believe that
-Pinkerton should apply to crimes charged under Virgin Islands statutes,
-it can simply enact a "local rule to the contrary."
-
-10. Rule 403 states: "Although relevant, evidence may be excluded if its
-probative value is substantially outweighed by the danger of unfair
-prejudice, confusion of the issues, or misleading the jury, or by
-considerations of undue delay, waste of time, or needless presentation of
-cumulative evidence."
-
-                                12
-
-
 appellate tribunal." United States v. Long , 574 F.2d 761,
 767 (3d Cir. 1978). We review for abuse of discretion.
 United States v. Driggs, 823 F.2d 52, 54 (3d Cir. 1987).
@@ -599,15 +493,13 @@ horrifying nature" that danger of inflaming jury outweighed
 its probative value).
 
 C. Rule 16 Challenge: Failure to Supply Written
-       Summary of Expert Testimony
-
+Summary of Expert Testimony
 The government called FBI fingerprint specialist Kenneth
 Getz to offer expert testimony that the fingerprint found at
 the Orta home was Navarro's. The defense objected to his
 testimony at trial on the ground that it did not receive the
 required information in advance pursuant to Fed. R. Crim.
 Pro. 16(a)(1)(E), which states:
-
        At the defendant's request, the government shall
        disclose to the defendant a written summary of
        testimony that the government intends to use under
@@ -617,16 +509,12 @@ Pro. 16(a)(1)(E), which states:
        describe the witnesses' opinions, the bases and the
        reasons for those opinions, and the witnesses'
        qualifications.
-
 Id. The District Court agreed with the government's
 argument that the defense's failure to raise the issue earlier
 and "trigger the resources of the court . . .[did] not sit well
 with [it]," and, because the defense did not fulfill its
 "obligation to ask for a Daubert hearing," it would admit the
 testimony.
-
-                                13
-
 
 Navarro asserts that by only producing in advance of trial
 a two-page Report of Examination regarding the expert's
@@ -673,9 +561,6 @@ on its face, the Rule does not require a district court to do
 anything -- Rule 16 merely states that the court"may" take
 such actions.
 
-                                14
-
-
 In determining whether we should second guess the
 District Court's view of what was "just," we will consider
 any harm caused by the government's violation. In United
@@ -709,8 +594,7 @@ Rule 16's language, we decline to grant the defendant the
 extreme remedy of a new trial.
 
 D. Admission of Testimony Pursuant to Fed. R. Evid.
-       801(d)(1)(C)
-
+801(d)(1)(C)
 Maha Joseph, a government witness, was subpoenaed to
 testify that he had told the police, on the day after the
 crime, that he had seen three of the defendants in the area
@@ -720,10 +604,6 @@ court. Once he was apprehended by the United States
 Marshal and brought to court to testify, he denied making
 any such statement to the police and was declared a hostile
 witness. The government then sought to impeach him
-
-                                15
-
-
 about the statement he had made to the police regarding
 the defendants.
 
@@ -750,29 +630,6 @@ nature but, rather, pertains to the selection of defendants
 from lineups or photo spreads. They also contend that
 testimony regarding when and where Joseph saw the
 defendants did not qualify as an identification. The
-_________________________________________________________________
-
-11. Defendants also assert that the District Court erred by not
-conducting a hearing in response to their claim that the government
-committed prosecutorial misconduct by calling Maha Joseph to the
-stand knowing that he would give unfavorable testimony. They argue
-that the government intentionally put Joseph on the stand in order to
-make Detective Cruz' hearsay statements admissible through
-impeachment, which constituted misconduct because impeachment
-"may not be permitted where employed as a mere subterfuge to get
-before the jury evidence not otherwise admissible." United States v.
-Webster, 734 F.2d 1191, 1192 (7th Cir. 1984). The District Court
-concluded that because Joseph "had not previously testified in any
-manner inconsistent with his statement" and there was no "indication he
-had told the Government he intended to recant his prior statement," any
-conclusion by the government regarding how Joseph would testify would
-have been nothing but "a guess." We see no basis in the record to
-conclude that the prosecution engaged in misconduct, and thus will not
-disturb the District Court's ruling.
-
-                                16
-
-
 government responds that an identification without the
 when and where would be nonsensical. It also argues that
 the Rule was designed to encompass exactly this type of
@@ -816,10 +673,6 @@ going to the weight of the evidence, which can be addressed
 on cross-examination, and should not affect the
 admissibility of the statement. In any event, certainly the
 trial judge did not abuse his discretion, nor was the error
-
-                                17
-
-
 prejudicial in light of the overwhelming evidence against the
 defendants. See Fed. R. Evid. 52(a) ("Any error, defect,
 irregularity or variance which does not affect substantial
@@ -836,7 +689,6 @@ regarding Joseph's identification. Even if the statement was
 arguably inadmissible, its admission was harmless.
 
 E. Admission of Clothing Seized From Navarro's Home
-
 Navarro challenges the admission into evidence of items
 seized from his home, including a camouflage t-shirt, jacket
 and pants, as well as a .380 pistol. He argues that the
@@ -860,17 +712,11 @@ probative value of the evidence are obvious, given the
 testimony that the assailants wore similar clothing to the
 items found in Navarro's home, and the fact that the
 firearm was found in the pocket of the jacket.
-
 We find no abuse of discretion here.
 
 F. Sufficiency of Evidence of Carjacking 
-
 The jury found the defendants guilty of carjacking based
 on the theft of Tredway's van during the course of the
-
-                                18
-
-
 robbery and assaults. The carjacking statute requires proof
 of five elements: (1) taking a motor vehicle (2) that had been
 transported, shipped, or received in interstate or foreign
@@ -915,10 +761,6 @@ controlled by United States v. Applewhaite, 195 F.3d 679,
 685 (3d Cir. 1999), where we held that the threatened or
 actual force at issue must be employed in furtherance of
 the taking of the car. The evidence here clearly establishes
-
-                                19
-
-
 that it was. The fifth and final element is easily satisfied by
 the circumstances under which the car was stolen-- the
 defendants insisted Tredway give them her keys in the
@@ -933,7 +775,6 @@ reject the defendants' challenge to the sufficiency of the
 evidence as to this offense.
 
 G. Sufficiency of Evidence of Gun Possession
-
 Crispin argues that the evidence was insufficient to
 support his conviction for gun possession. As we recounted
 above, Crispin was discovered by the police crouched down
@@ -945,7 +786,6 @@ crimes at issue in the instant case.
 
 Crispin argues that the government failed to prove that
 he possessed the gun as required by 14 V.I.C. S 2253(a):
-
        Whoever, unless otherwise authorized by law, has,
        possesses, bears, transports or carries either, actually
        or constructively, openly or concealed any firearm, . . .
@@ -963,9 +803,6 @@ found that the elements had been established beyond a
 reasonable doubt. Lake, 150 F.3d at 272. We review the
 evidence in the light most favorable to the government.
 Xavier, 2 F.3d at 1288.
-
-                                20
-
 
 We note that, here, the operative language of the Virgin
 Islands statute encompasses not only "possession," but
@@ -1011,10 +848,6 @@ possession under the former version of 2253(a), where we
 determined the firearm was under the control of the
 defendants. In McKie, the driver and two passengers of the
 car were found to have the firearms under their control, so
-
-                                21
-
-
 as to possess them where the guns were all in plain view
 inside the compact car. United States v. McKie , 112 F.3d
 626 (3d Cir. 1997). In Xavier, the driver was found to have
@@ -1058,11 +891,7 @@ reasonable doubt. Thus, we reject Crispin's claim that there
 is insufficient evidence to support his conviction for
 possession of a firearm.
 
-                                22
-
-
 H. Failure to Question Juror Regarding Possible Bias
-
 Navarro argues that the District Court erred by not
 questioning a juror to ascertain if she was biased against
 him. The juror in question sent the judge a note on the
@@ -1099,16 +928,6 @@ whom indicated that they had been exposed to any
 information that "had rendered [him or her] incapable of
 giving a fair trial." Id. at 135. We held that the failure to
 question the jurors individually was not an abuse of
-_________________________________________________________________
-
-12. While the actual transcript reads that the Court referenced "this
-particular defendant" rather than "this particular juror," the context of
-the Court's statement makes clear that it intended to speak of the juror
-rather than the defendant.
-
-                                23
-
-
 discretion, but we reversed on the grounds that"the trial
 judge erred when he failed to develop a record sufficient to
 permit evaluation of the potential prejudice to the
@@ -1145,19 +964,6 @@ District Court's denial of a motion to disqualify a juror
 (during jury selection) because he disclosed during voir dire
 that he had read an article regarding the case. Id. at 322.
 In affirming the District Court, we stated:
-_________________________________________________________________
-
-13. While not necessarily determinative, we do note that under the
-Federal Rules of Evidence, extraneous information is viewed as posing a
-unique threat to the deliberative process. Pursuant to Rule 606(b), a
-juror may not testify about the jury's deliberations, except in regards to
-"extraneous prejudicial information . . . improperly brought to the jury's
-attention or whether any outside influence was improperly brought to
-bear upon any juror."
-
-                                24
-
-
        In determining whether a particular juror should be
        excused for cause, our main concern is whether the
        juror holds a particular belief or opinion that will
@@ -1185,15 +991,10 @@ before ruling on Navarro's motion to strike was well within
 its discretion.
 
 IV. CONCLUSION
-
 For all the foregoing reasons, we will AFFIRM the District
 Court's Judgment and Conviction Orders.
 
-                                25
-
-
 McKEE, Circuit Judge, concurring.
-
 I join the opinion of my colleagues in all respects, but
 write separately to express my concern over the carjacking
 convictions under 18 U.S.C. S 2119. See  Maj. Op. at 18-19.
@@ -1207,7 +1008,6 @@ constitute the federal offense of "carjacking." In his
 thoughtful dissent in Lake, Chief Judge Becker explained
 why such an attenuated nexus ought not to establish the
 federal crime of carjacking. He explained:
-
        When the defendant took the car keys from his victim,
        . . . [the victim's] car was, in city terms, a block away
        up the hill, out of sight. Under these circumstances, I
@@ -1235,8 +1035,6 @@ Teste:
 
        Clerk of the United States Court of Appeals
        for the Third Circuit
-
-                                26
 
 
 %%%

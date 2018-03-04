@@ -12,7 +12,7 @@ COMMONWEALTH OF VIRGINIA
 
 Present:  Chief Judge Fitzpatrick, Judge Lemons and 
 
-          Senior Judge Duff
+  Senior Judge Duff
 
 Argued at Alexandria, Virginia
 
@@ -34,7 +34,7 @@ Argued at Alexandria, Virginia
 
 FROM THE CIRCUIT COURT OF THE CITY OF ALEXANDRIA
 
-        Alfred D. Swersky, Judge
+Alfred D. Swersky, Judge
 
 
 
@@ -46,7 +46,7 @@ Defender, on brief), for appellant.
 
 
 
-                Leah A. Darron, Assistant Attorney General 
+Leah A. Darron, Assistant Attorney General 
 
 (Mark L. Earley, Attorney General, on 
 
@@ -56,1130 +56,556 @@ brief), for appellee.
 
 
 
-        Reznick Currie (appellant) was convicted in a jury trial of 
-
+Reznick Currie (appellant) was convicted in a jury trial of 
 burglary, attempted rape, and assault and battery.  On appeal, 
-
 he contends the trial court erred in:  (1) excluding five 
-
 proffered categories of testimony by an eyewitness 
-
 identification expert; (2) denying him access to exculpatory 
-
 evidence; (3) excluding proffered pages of the complaining 
-
 witness' sworn preliminary hearing transcript; and (4) denying 
-
 his motion to strike the evidence because the Commonwealth 
-
 failed to establish that he was the perpetrator of the alleged 
-
 crimes.  For the following reasons, we affirm.
 
 
 
 I.  BACKGROUND
-
-        Under familiar principles of appellate review, we examine 
-
+Under familiar principles of appellate review, we examine 
 the evidence in the light most favorable to the Commonwealth, 
-
 the prevailing party below, granting to it all reasonable 
-
 inferences fairly deducible therefrom.  See Juares v. 
-
 Commonwealth, 26 Va. App. 154, 156, 493 S.E.2d 677, 678 (1997).  
-
 So viewed, the evidence established that on August 4, 1997, the 
-
 victim was in the bathroom of her ground-floor apartment when 
-
 she heard a noise in the living room.  As she exited the 
-
 bathroom, she saw a stranger standing in her living room with 
-
 his pants down and his penis exposed.  The man, whom the victim 
-
 later identified as appellant, grabbed her breast and she kicked 
-
 him.  The man produced a knife, grabbed the front of the 
-
 victim's pants and began to pull them down.  The victim pushed 
-
 the man, ran to her bedroom and telephoned for help.
 
-        The victim testified that her assailant was close enough to 
-
+The victim testified that her assailant was close enough to 
 grab her and that he was face-to-face with her.  When the police 
-
 arrived, she described the man's physical appearance, including 
-
 his having a missing upper tooth and various marks on his arms 
-
 and a rash on his neck.  He wore a long-sleeve shirt and gloves.  
-
 Based upon her description, Detective Robert Hickman produced a 
-
 composite sketch of the attacker.
-
-        A few days after the offense, the victim reviewed a 
-
+A few days after the offense, the victim reviewed a 
 photographic lineup and identified a photograph of appellant as 
-
 her assailant.  She stated, "I knew that it was him, that one."  
-
 The victim also identified shoes and pants that appeared similar 
-
 to those worn by her attacker.  At trial, the victim again 
-
 identified appellant as being her assailant.
-
-        Appellant argued at trial that the victim was wrong in her 
-
+Appellant argued at trial that the victim was wrong in her 
 identification and that he was not the perpetrator of the crime.  
-
 The jury found appellant guilty of the offenses charged.
 
 II.  EYEWITNESS IDENTIFICATION EXPERT
-
-        In his defense, appellant called Dr. Solomon Fulero, an 
-
+In his defense, appellant called Dr. Solomon Fulero, an 
 expert on eyewitness identification, who testified generally on 
-
 the theory of memory and on the issue of cross-racial 
-
 identification.  Pursuant to a pretrial ruling, Dr. Fulero was 
-
 not allowed to testify on the following five topics relating to 
-
 eyewitness identification:  (1) the correlation between 
-
 eyewitness certainty and accuracy; (2) the effect of viewing 
-
 time and stress on eyewitness accuracy; (3) the perpetrator's 
-
 display of a weapon and its effect on eyewitness accuracy; (4) 
-
 the effect that participating in preparing a composite sketch of 
-
 a subject has on the accuracy of subsequent identifications; and 
-
 (5) the concept of transference.  Concluding that these topics 
-
 were within the lay knowledge of the average juror and could be 
-
 adequately argued to the jury in closing arguments, the trial 
-
 court ruled as follows:
-
 The proffered testimony of Defendant's 
-
 expert regarding the theory of memory in the 
-
 field of psychology (acquisition, retention 
-
 and retrieval) as set forth in paragraph 2 
-
 of Defendant's memorandum, and the problems 
-
 in cross-racial identifications as set forth 
-
 in paragraph 5 of Defendant's memorandum, 
-
 will be admitted subject to the reliability 
-
 hearing, if any.  These are matters the 
-
 Court finds are not within the common 
-
 knowledge and experience of the average 
-
 juror and, hence, could be the subject of 
-
 expert testimony.
 
-
-
-*      *      *      *      *      *      *
-
-
+*******
 
 The remaining areas of expert testimony the 
-
 Court finds are within the common experience 
-
 and knowledge of the average juror and the 
-
 proffered testimony will not be allowed.  
-
 Further, Defendant's expert will not be 
-
 allowed to testify as to the specific 
-
 identification in this case as to its 
-
 reliability nor as to its validity.  Such 
-
 testimony would usurp the function of the 
-
 jury to determine the credibility of 
-
 witnesses.
 
-
-
 (Emphasis added).
-
-        On appeal, appellant contends that Dr. Fulero's proffered 
-
+On appeal, appellant contends that Dr. Fulero's proffered 
 testimony in the five excluded categories was "vital to [the] 
-
 jury's understanding of whether the identification made [was] 
-
 correct."  He argues that his expert should have been allowed to 
-
 explain to the jury the psychological and scientific principles 
-
 underlying the identification process.  We disagree.
-
-        Where the admissibility of expert testimony is challenged 
-
+Where the admissibility of expert testimony is challenged 
 on appeal, the standard of review is whether the trial court 
-
 abused its discretion.  See Archie v. Commonwealth, 14 Va. App. 
-
 684, 694, 420 S.E.2d 718, 723 (1992).  "Expert testimony is 
-
 appropriate to assist triers of fact in those areas where a 
-
 person of normal intelligence and experience cannot make a 
-
 competent decision."  Utz v. Commonwealth, 28 Va. App. 411, 423, 
-
 505 S.E.2d 380, 386 (1998).  "The expert testimony must be 
-
 relevant, and the trial judge must determine whether the subject 
-
 matter of the testimony is beyond a lay person's common 
-
 knowledge and whether it will assist the trier of fact in 
-
 understanding the evidence or in determining a fact in issue."  
-
 Id.
 
-        In Rodriquez v. Commonwealth, 20 Va. App. 122, 455 S.E.2d 
-
+In Rodriquez v. Commonwealth, 20 Va. App. 122, 455 S.E.2d 
 724 (1995), we addressed the issue of the admissibility of 
-
 expert testimony on the subject of eyewitness identification.  
-
 We noted as a preliminary matter that "[t]he refusal to admit 
-
 expert testimony on the subject of eyewitness testimony is a 
-
 matter within the [sound] discretion of the trial court."  Id. 
-
 at 127, 455 S.E.2d at 727.
 
-        In excluding expert commentary on 
-
+In excluding expert commentary on 
 eyewitness identifications, courts have 
-
 consistently found that this type of 
-
 testimony interferes with the jury's role as 
-
 fact finder and its duty to weigh the 
-
 credibility of witnesses.  [T]he 
-
 trustworthiness of eyewitness observations 
-
 is not generally beyond the common knowledge 
-
 and experience of the average juror and is, 
-
 therefore, not a proper subject for expert 
-
 testimony.  In addition, [t]he weaknesses of 
-
 identifications can be explored on 
-
 cross-examination and during counsel's final 
-
 arguments to the jury.  Another concern is 
-
 that this type of testimony frequently has 
-
 the potential of turning trials into battles 
-
 between experts over the value of eyewitness 
-
 identifications.
 
-
-
 Id. (citations and internal quotations omitted).  However, we 
-
 recognized that in some "narrow" circumstances, expert testimony 
-
 may be useful to the jury, including in the following areas: 
-
 "such problems as cross-racial identification, identification 
-
 after a long delay, identification after observation under 
-
 stress, and psychological phenomena as the feedback factor and 
-
 unconscious transference."  Id. (citations omitted). 
-
-        Nevertheless, we held that the decision whether to allow 
-
+Nevertheless, we held that the decision whether to allow 
 expert testimony concerning an eyewitness identification is a 
-
 decision left to the sound discretion of the trial court.  See 
-
 id. at 128, 455 S.E.2d at 727.  "By asking an expert to render 
-
 an opinion about the propriety of lineup procedures and the 
-
 reliability of eyewitness identifications, a defendant in effect 
-
 asks the expert to comment upon the credibility of the 
-
 identifying witness, an issue clearly within the jury's 
+province."
 
-province."  Id.
-
-        In the instant case, the trial judge permitted Dr. Fulero 
-
+Id.
+In the instant case, the trial judge permitted Dr. Fulero 
 to testify about the mechanical processes of memory and 
-
 cross-racial identification because these subjects were not 
-
 within the common knowledge and experience of the jurors.  
-
 However, the trial judge specifically found that the additional 
-
 five categories of testimony proffered by appellant were within 
-
 the common knowledge and experience of the jurors.
-
-        We find no error in the trial court's limiting testimony 
-
+We find no error in the trial court's limiting testimony 
 concerning the correlation between eyewitness certainty and 
-
 accuracy.  As we noted in Rodriguez, "the uncertain relationship 
-
 between eyewitness confidence and accuracy" was not the type of 
-
 "narrow" circumstances requiring expert testimony.  Id. at 129, 
-
 455 S.E.2d at 728.  Similarly, the trial court properly excluded 
-
 the proffered expert testimony about the unreliability of 
-
 subsequent identifications and the effect of short viewing time, 
-
 stress, and the display of a weapon.  See id. (holding that "the 
-
 unreliability of a subsequent identification" and "the 
-
 prevalence of misidentification in situations involving stress, 
-
 poor lighting, or delay" are topics "within the lay knowledge of 
-
 the jurors").
 
-        Additionally, appellant's counsel addressed in argument to 
-
+Additionally, appellant's counsel addressed in argument to 
 the jury the issues limited by the trial court, such as the 
-
 reliability of the victim's identification given the short 
-
 period of time of the assault, the fear and stress involved in 
-
 the situation and the effect of the attacker's display of a 
-
 weapon.  Counsel also challenged the reliability of the victim's 
-
 identification based upon the theory of transference.   Counsel 
-
 stated, "Did she pick out a familiar face that she had seen in 
-
 McCrory's that weekend?  You heard testimony that she was in 
-
 McCrory's as was [appellant].  Or was she just plain wrong?"
-
-        The jury was capable of evaluating whether the victim's 
-
+The jury was capable of evaluating whether the victim's 
 identifications of appellant were reliable or whether the 
-
 identifications were incorrect based on the suggested problems 
-
 associated with memory.  For these reasons, we hold that the 
-
 trial court did not abuse its discretion in excluding the 
-
 proffered expert testimony.
 
 III.  EXCULPATORY EVIDENCE
-
-        At the commencement of trial, appellant sought disclosure 
-
+At the commencement of trial, appellant sought disclosure 
 of a composite drawing of a purported suspect in a series of 
-
 sexual assaults in Northern Virginia and Maryland.  These 
-
 assaults occurred when appellant was in prison for an unrelated 
-
 conviction, and he asserted that this person might be 
-
 responsible for the instant crimes.  The Commonwealth denied 
-
 that similarities existed between those cases and the instant 
-
 case.  The composite drawing was placed in an envelope under 
-
 seal and submitted to the trial judge for an in camera review.  
-
 The trial court later refused to disclose the drawing to 
-
 appellant, stating:  "I have personally examined the composite 
-
 photo submitted by the Commonwealth this morning and likewise 
-
 rule that it is not exculpatory in this case." 
-
-        Appellant also sought undisclosed pages from the police 
-
+Appellant also sought undisclosed pages from the police 
 reports of Detectives Quinones and Ellman.  The Commonwealth's 
-
 Attorney indicated that he had given to appellant those portions 
-
 of the reports that contained any exculpatory information.  The 
-
 trial court reviewed the undisclosed pages in camera and 
-
 declined to provide the reports to appellant.
 
-        On appeal, appellant contends the composite drawing in the 
-
+On appeal, appellant contends the composite drawing in the 
 unrelated case and the undisclosed reports of the police 
-
 officers could be exculpatory in nature and, therefore, the 
-
 trial court erred in failing to require their disclosure.  
-
-        As a general rule, the accused is not entitled to obtain 
-
+As a general rule, the accused is not entitled to obtain 
 statements made by prospective Commonwealth witnesses to police 
-
 officers in connection with the investigation or prosecution of 
-
 a criminal case.  See Rule 3A:11(b)(2); see also Currie v. 
-
 Commonwealth, 10 Va. App. 204, 209, 391 S.E.2d 79, 82 (1990); 
-
 Taitano v. Commonwealth, 4 Va. App. 342, 349, 358 S.E.2d 590, 
-
 593 (1987).  In Brady v. Maryland, 373 U.S. 83 (1963), the 
-
 United States Supreme Court held that "suppression by the 
-
 prosecution of evidence favorable to an accused upon request 
-
 violates due process where the evidence is material either to 
-
 guilt or to punishment."  Id. at 87. 
-
 Under Brady, the Commonwealth is required to 
-
 deliver that evidence which is favorable to 
-
 the accused and which, if suppressed, would 
-
 deprive the accused of a fair trial.  The 
-
 nondisclosed evidence is considered 
-
 "material only if there is a reasonable 
-
 probability that, had the evidence been 
-
 disclosed to the defense, the result of the 
-
 proceeding would have been different."  The 
-
 Court is required to assess the reasonable 
-
 probability of a different result in light 
-
 of the totality of circumstances.
 
 
-
 Currie, 10 Va. App. at 209, 391 S.E.2d at 82 (citations 
-
 omitted).
-
-        In making a Brady challenge, "[a] defendant cannot 
-
+In making a Brady challenge, "[a] defendant cannot 
 simply allege the presence of favorable material and win 
-
 reversal of his conviction.  Rather, [he] must prove the 
-
 favorable character of evidence he claims has been 
-
 improperly suppressed.  Speculative allegations are not 
-
 adequate."  Hughes v. Commonwealth, 18 Va. App. 510, 526, 
-
 446 S.E.2d 451, 461 (1994) (citations omitted).  Where the 
-
 Commonwealth and the defendant dispute the exculpatory 
-
 nature of the evidentiary materials, the trial court may 
-
 conduct an in camera review of the material to resolve the 
-
 dispute.  See Bowman v. Commonwealth, 248 Va. 130, 135, 445 
-
 S.E.2d 110, 113 (1994).
 
-        In the instant case, the trial court properly conducted 
-
+In the instant case, the trial court properly conducted 
 an in camera review of the contested materials.  See id. 
-
 ("The trial court's determination of the question whether it 
-
 should undertake the review of the disputed material is a 
-
 discretionary matter.").  Regarding the composite drawing, 
-
 which was produced in an investigation of unrelated crimes, 
-
 the trial judge reviewed the composite drawing and held that 
-
 it was not exculpatory in nature.  The sealed evidence 
-
 provides no favorable information to the accused, and its 
-
 exclusion did not deprive him of a fair trial.  See Currie, 
-
 10 Va. App. at 209, 391 S.E.2d at 82.
-
-        We also agree with the trial court that the requested 
-
+We also agree with the trial court that the requested 
 police reports were not exculpatory in nature.  The 
-
 Commonwealth disclosed all but two pages of Detective 
-
 Quinones' report and an excised copy of Detective Ellman's 
-
 report.  The trial court conducted an in camera review of 
-
 the undisclosed reports.  We have reviewed the sealed 
-
 materials and conclude, as did the trial court, that they 
-
 are not exculpatory in nature.  Under the totality of the 
-
 circumstances, there is not a "reasonable probability of a 
-
 different result" had the materials been disclosed.  Currie, 
-
 10 Va. App. at 209, 391 S.E.2d at 82 (citations omitted).
-
-        Moreover, appellant concedes that he cannot identify 
-
+Moreover, appellant concedes that he cannot identify 
 specifically the ways in which the police reports are 
-
 exculpatory.  Rather, appellant alleges that the police 
-
 reports "may contain inconsistent statements from the 
-
 complaining witness.  They may contain information from 
-
 other witnesses contrary to their testimony at trial or 
-
 contrary to other witness' testimony at trial.  They may 
-
 contain leads that counsel could have used to find other 
-
 witnesses."  (Emphasis added).  Appellant has not alleged 
-
 what exculpatory evidence existed in Quinones' or Ellman's 
-
 reports and, as indicated in his arguments, he only hoped to 
-
 find some exculpatory evidence.  These types of speculative 
-
 allegations are inadequate to invoke the Brady mandate.  See 
-
 Hughes, 18 Va. App. at 526, 446 S.E.2d at 461.  Accordingly, 
-
 we conclude the trial court did not err in declining to 
-
 provide the requested materials to appellant.
 
 IV.  USE OF PRELIMINARY HEARING TRANSCRIPT
-
-        Appellant next contends the trial court erred in 
-
+Appellant next contends the trial court erred in 
 refusing to admit two portions of the preliminary hearing 
-
 transcript of the victim's testimony.  In the first 
-
 instance, defense counsel cross-examined the victim about 
-
 the length of the encounter with her assailant.  She 
-
 testified, "It was so fast, everything happened so quick, I 
-
 couldn't tell if it was 30 seconds or 30 minutes.  I wasn't 
-
 looking at my watch."  Defense counsel attempted to impeach 
-
 the victim with her prior testimony.
-
 Q.  [D]o you recall me asking you [at the 
-
 preliminary hearing] whether from the time 
-
 you saw your attacker to the time you ran 
-
 into your bedroom that 30 seconds or less 
-
 had gone by and you answering yes?
-
-
-
 A.  When I ran into my bedroom, well, I 
-
 don't understand the question.  It could be 
-
 that it was 30 seconds.  It could be that I 
-
 did answer yes, but everything was so fast 
-
 that I don't remember.
-
-
-
 Q.  But you could have answered me a couple 
-
 of months ago that it was 30 seconds or 
-
 less, you admit that?
-
-
-
 A.  No, no.  I couldn't tell you absolutely.
+(Emphasis added).
 
-
-
-(Emphasis added).  The preliminary hearing transcript, which 
-
+The preliminary hearing transcript, which 
 appellant sought to introduce as impeachment evidence, contained 
-
 the following colloquy:
-
 Q.  Okay.  Is it fair to say that from the 
-
 time you saw him until the time you ran into 
-
 the bedroom that 30 seconds or less had gone 
-
 by?
+A.  Yes.
+Q.  So it happened very quickly?
+A.  Yes.
 
-
-
-        A.  Yes.
-
-
-
-        Q.  So it happened very quickly?
-
-
-
-        A.  Yes.
-
-
-
-        In the second instance, appellant attempted to 
-
+In the second instance, appellant attempted to 
 introduce the preliminary hearing transcript regarding the 
-
 victim's testimony about her description of the assailant.  
-
 At trial, the victim testified as follows:
-
 Q.  The stuff on [appellant's] face you said 
-
 was like a rash?
-
-
-
-        A.  Something like a rash.
-
-
-
+A.  Something like a rash.
 Q.  In fact, earlier you described them to 
-
 me like chicken pox?
-
-
-
 A.  Something like that, something like 
-
 that.
-
-
-
 Q.  Those marks on his face were similar to 
-
 the marks that he had on his neck and arms, 
-
 is that right?
-
-
-
 A.  No.  It is just that when I pushed him 
-
 you could see like a mark in here that he 
-
 had.
-
-
-
 Q.  But the marks on his face were similar 
-
 to the marks you had seen on his arm?
-
-
-
 A.  No, the ones on the arm are different 
-
 because they were like lines.
-
-
-
 Q.  Again, do you remember testifying back 
-
 in September at this preliminary hearing in 
-
 this case?
-
-
-
-        A.  Yes.
-
-
-
+A.  Yes.
 Q.  And at that time throughout that hearing 
-
 you tried to be as truthful and honest as 
-
 possible?
-
-
-
-        A.  Yes.
-
-
-
+A.  Yes.
 Q.  And at that time do you recall me asking 
-
 you whether the thing you saw on his arms 
-
 was like dots, like spots and you said they 
-
 were spots just like you made?
-
-
-
 A.  I told you then that he had some lines 
-
 and . . . that they looked like some kind of 
-
 a rash and I didn't tell you that they 
-
 looked like spots.
 
-
-
-*      *      *      *      *       *      *
-
-
+***** **
 
 Q.  And do you remember me drawing circles 
-
 on a paper for you and asking you if those 
-
 were the marks he had on his arms?
-
-
-
-        A.  Yes.
-
-
-
+A.  Yes.
 Q.  And you said yes, those look like the 
-
 marks?
-
-
-
-        A.  Yes.
-
-
-
+A.  Yes.
 (Emphasis added).  At the preliminary hearing, the victim 
-
 testified as follows:
-
 Q.  Did you tell the police that [appellant 
-
 had] marks on his neck or arms?
-
-
-
 A.  Yes, you could see something there, but 
-
 it was the same thing as the chin and the 
-
 arms.
-
-
-
 Q.  The thing that you saw on the arms, was 
-
 it dots like this, spots?
-
-
-
 A.  They were like spots like you just made.
-
-
-
-        Q.  Like circular.
-
-
-
-        A.  Yes.
-
-
-
+Q.  Like circular.
+A.  Yes.
 Q.  Almost like chicken pox or something 
-
 like that.
+A.  Yes.
 
-
-
-        A.  Yes.
-
-
-
-        In both instances, appellant was allowed to question 
-
+In both instances, appellant was allowed to question 
 the victim about her preliminary hearing testimony.  
-
 However, the trial court refused to admit into evidence the 
-
 actual preliminary hearing transcript.
-
-        Appellant argues that the victim was evasive in her trial 
-
+Appellant argues that the victim was evasive in her trial 
 testimony and failed to acknowledge that she made the above 
-
 statements at the preliminary hearing.  He contends that since 
-
 the victim's trial testimony was inconsistent with her 
-
 preliminary hearing testimony, the transcript of the preliminary 
-
 hearing should have been admitted into evidence for impeachment 
-
 purposes or, in the alternative, under the past recollection 
-
 recorded exception to the hearsay rule.  We disagree.
-
-        "'If a witness gives testimony that is inconsistent with a 
-
+"'If a witness gives testimony that is inconsistent with a 
 prior statement, . . . opposing counsel may cross-examine the 
-
 witness as to the inconsistency.  In addition, all inconsistent 
-
 portions of that prior . . . statement are admissible for 
-
 impeachment purposes.'"  Waller v. Commonwealth, 22 Va. App. 53, 
-
 56, 467 S.E.2d 844, 846 (1996) (quoting Smith v. Commonwealth, 
-
 15 Va. App. 507, 511, 425 S.E.2d 95, 98 (1992)); see also Code 
-
- 19.2-268.1. 
-
-        "If a witness gives testimony that is inconsistent with a 
-
+  19.2-268.1. 
+"If a witness gives testimony that is inconsistent with a 
 prior statement, or testifies that he does not recall making the 
-
 prior statement, a sufficient foundation for impeachment has 
-
 been laid and opposing counsel may cross-examine the witness as 
-
 to the inconsistency."  Smith, 15 Va. App. at 511, 425 S.E.2d at 
-
 98.  However, if the witness admits making the statement, the 
-
 prior inconsistent statement may not be proved by extrinsic 
-
 evidence.  See Brown v. Peters, 202 Va. 382, 389, 117 S.E.2d 
-
 695, 699 (1961); Edwards v. Commonwealth, 19 Va. App. 568, 572, 
-
 454 S.E.2d 1, 3 (1995) ("If [the witnesses] admitted making the 
-
 prior inconsistent statements, appellant would have succeeded in 
-
 his impeachment.  If they denied the statements, their testimony 
-
 would have been subject to impeachment by other competent 
-
 evidence.").
-
-        In the instant case, the victim acknowledged her 
-
+In the instant case, the victim acknowledged her 
 preliminary hearing testimony.  In the first instance, she 
-
 admitted that "[i]t could be that it was 30 seconds.  It could 
-
 be that I did answer yes . . . ."  In the second instance, the 
-
 victim also admitted that she had previously described the marks 
-
 on her assailant's arms as being circular.  Having acknowledged 
-
 her prior testimony on both issues, even if the preliminary 
-
 hearing statements were inconsistent with her trial testimony, 
-
 the trial court correctly held that appellant was precluded from 
-
 introducing extrinsic evidence to impeach the victim.  See 
-
 Brown, 202 Va. at 389, 117 S.E.2d at 699.  Appellant was still 
-
 able to impeach the victim by questioning her about the prior 
-
 testimony, and the trial court did not err in refusing to admit 
-
-the preliminary hearing transcript. 
-
+the preliminary hearing transcript.
+ 
 V.  SUFFICIENCY OF EVIDENCE
-
-        Finally, appellant contends the evidence was insufficient 
-
+Finally, appellant contends the evidence was insufficient 
 to prove beyond a reasonable doubt that he was the perpetrator 
-
 of the crimes.  He argues that the victim's identification was 
-
 inconsistent with her identification at the preliminary hearing, 
-
 was "tainted" and "unreliable" because of fear induced by the 
-
 incident, and that comments by the police affected the validity 
-
 of the photo spread.  Additionally, he argues that the victim 
-
 did not get a proper view of the assailant's face and she 
-
 "probably" associated appellant with the true perpetrator 
-
 because appellant had been in the victim's neighborhood earlier 
-
 that week.
-
-        In determining the reliability of a witness' 
-
+In determining the reliability of a witness' 
 identification, we look to the factors enunciated in Neil v. 
-
 Biggers, 409 U.S. 188 (1972), as significant circumstances that 
-
 may be considered along with other evidence.  See Charity v. 
-
 Commonwealth, 24 Va. App. 258, 262-63, 482 S.E.2d 59, 61 (1997).  
-
 These factors include the following:
-
 the opportunity of the witness to view the 
-
 criminal at the time of the crime, the 
-
 witness' degree of attention, the accuracy 
-
 of the witness' prior description of the 
-
 criminal, the level of certainty 
-
 demonstrated by the witness at the 
-
 confrontation, and the length of time 
-
 between the crime and the confrontation.
-
-
-
 Biggers, 409 U.S. at 199-200.  "The fact finder, who has the 
-
 opportunity to see and hear the witnesses, has the sole 
-
 responsibility to determine the weight of the evidence, the 
-
 credibility of witnesses, and the inferences to be drawn from 
-
 proven facts."  Commonwealth v. Taylor, 256 Va. 514, 518, 506 
-
 S.E.2d 312, 314 (1998).
-
-        In the instant case, the evidence established that on the 
-
+In the instant case, the evidence established that on the 
 morning of August 7, 1997, the victim identified appellant as 
-
 her assailant from a six-photograph lineup shown to her by 
-
 Detective Ellman.  Viewed in the light most favorable to the 
-
 Commonwealth, the evidence also established that Ellman did not 
-
 tell the victim that her assailant would be one of the six 
-
 individuals in the lineup.  The authorities later showed the 
-
 victim an enlarged photograph of appellant's left arm, without 
-
 indicating that it was a photograph of appellant, and she 
-
 identified it as a picture of her assailant's arm.  She 
-
 unequivocally identified appellant at the preliminary hearing 
-
 and at trial as the perpetrator of the crimes.  Here, the 
-
 Commonwealth's evidence was competent, was not inherently 
-
 incredible and was sufficient to prove beyond a reasonable doubt 
-
 that appellant was, in fact, the perpetrator of the crimes.
 
-        For the foregoing reasons, we affirm appellant's 
-
+For the foregoing reasons, we affirm appellant's 
 convictions.
+  Affirmed.
 
-                                                                                        Affirmed.
-
-      Detective Irv Ellman testified that on the evening of the 
-
+Detective Irv Ellman testified that on the evening of the 
 offense, the victim described her assailant through an 
-
 interpreter as a thirty to thirty-five-year-old black male; 
-
 five-feet, ten-inches to five-feet, eleven-inches tall; 170 to 
-
 190 pounds, with an athletic or muscular build.  She described 
-
 him as having a noticeable defect in his chin and that he was 
-
 missing a tooth in his upper mouth.  He had thick lips, a wide 
-
 nose and smelled of alcohol.  His hair was short and he had dark 
-
 marks, bumps or scars on his skin.  She described his face as 
-
 thin.
 
-      According to Dr. Fulero's proffered testimony, the doctrine 
-
+According to Dr. Fulero's proffered testimony, the doctrine 
 of transference occurs "when a witness picks a person from a 
-
 line-up or photo spread based on the fact that they have seen 
-
 the person previously, not because the person is the suspect at 
-
 the scene of the crime."  We recognized in Rodriguez that the 
-
 theory of transference might be a topic appropriate for expert 
-
 testimony.  See Rodriguez, 20 Va. App. at 128, 455 S.E.2d at 
-
 727.  In the instant case, the trial judge allowed appellant's 
-
 counsel to argue this issue to the jury.
 
-
-
-      The composite drawing was appropriately kept under seal in 
-
+The composite drawing was appropriately kept under seal in 
 the record for our appellate review.
-
-      Code  19.2-268.1 provides in part:
-
-
+Code   19.2-268.1 provides in part:
 
 A witness in a criminal case may be 
-
 cross-examined as to previous statements 
-
 made by him in writing or reduced into 
-
 writing, . . . but if it is intended to 
-
 contradict such witness by the writing, his 
-
 attention must, before such contradictory 
-
 proof can be given, be called to the 
-
 particular occasion on which the writing is 
-
 supposed to have been made, and he may be 
-
 asked if he did not make a writing of the 
-
 purport of the one to be offered to 
-
 contradict him, and if he denies making it, 
-
 . . . it shall then be shown to him, and if 
-
 he admits its genuineness, he shall be 
-
 allowed to make his own explanation of it 
-
 . . . .
-
-      Appellant's argument that the preliminary hearing 
-
+Appellant's argument that the preliminary hearing 
 transcript should have been admitted under the "past 
-
 recollection recorded" exception to the hearsay rule is without 
-
 merit.  Under that rule, the "witness must lack a present 
-
 recollection of the event" and "must vouch for the accuracy of 
-
 the written memorandum."  Bailey v. Commonwealth, 20 Va. App. 
-
 236, 240-41, 456 S.E.2d 144, 146 (1995).  Here, neither of these 
-
 prongs was met, and the trial court properly excluded the 
-
 transcript.
-
- 
-
  
 
 %%%
+

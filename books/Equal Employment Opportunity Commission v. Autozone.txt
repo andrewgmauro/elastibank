@@ -49,89 +49,10 @@ AUTOZONE, INC.,
 
 
 
-                              TABLE OF CONTENTS
-
-TABLE OF AUTHORITIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
-
-ARGUMENT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    1
-
-CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
-
-CERTIFICATE OF COMPLIANCE		
-
-CERTIFICATE OF SERVICE
-
-
-                              TABLE OF AUTHORITIES
-
-                                     CASES
-
-Bristol Locknut Co. v. SPS Tech., Inc., 
-677 F.2d 1277 (9th Cir. 1982). . . . . . . . . . . . . . . . . . . . . . . . . . . 15
-
-EEOC v. Delight Wholesale Co., 
-973 F.2d 664 (8th Cir. 1992). . . . . . . . . . . . . . . . . . . . . . . . . . .  13
-
-EEOC v. Waffle House, Inc., 
-534 U.S. 279 (2002). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
-
-Franklin Prescriptions, Inc. v. New York Times Co., 
-424 F.3d 336 (3d Cir. 2005). . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
-
-General Telephone Co. v. EEOC, 
-446 U.S. 318, 331 (1980). . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
-
-International House of Pancakes, Inc. v. Twin City Fire Insurance Company, 
-19 Fed. Appx. 686 (9th Cir. 2001). . . . . . . . . . . . . . . . . . . . .  9, 11, 12
-
-McGinest v. GTE Service Corp., 
-360 F.3d 1103 (9th Cir. 2004). . . . . . . . . . . . . . . . . . . . . . . .   19, 20
-
-Paluck v. Gooding Rubber Co., 
-221 F.3d 1003 (7th Cir. 2000). . . . . . . . . . . . . . . . . . . . . . . . . . . 20
-
-Prendeville v. Singer, 
-155 Fed. Appx. 303 (9th Cir. 2005). . . . . . . . . . . . . . . . . . . . . . . .  11
-
-Smith v. Borough of Wilkinsburg, 
-147 F.3d 272 (3d Cir.1998). . . . . . . . . . . . . . . . . . . . . . . . . . .  5, 7
-
-Snake River Valley Elec. Ass'n v. PacifiCorp,
-357 F.3d 1042 (9th Cir. 2004). . . . . . . . . . . . . . . . . . . . . . . . . . . 10
-
-United States  v. Leal-Cruz, 
-431 F.3d 667 (9th  Cir. 2005). . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-
-Villiarimo v. Aloha Island Air, Inc.,
-281 F.3d 1054 (9th Cir. 2002). . . . . . . . . . . . . . . . . . . . . . . . . . . 19
-
- Voohries-Larson v. Cessna Aircraft Co., 
-241 F.3d 707 (9th Cir.2001). . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
-
-
-                           FEDERAL RULES AND OTHER AUTHORITY
-
-
-Fed. R. Civ. P. 51(a)(1). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-
-Fed. R. Civ. P. 51(c)(1). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-
-Fed. R. Civ. P. 51(c)(2)(A). . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 5
-
-Fed. R. Civ. P. 51(d)(1)(A). . . . . . . . . . . . . . . . . . . . . . . . . . .    3
-
-Fed. R. Civ. P. 51(d)(1)(B). . . . . . . . . . . . . . . . . . . . . . . . . . .3, 11
-
-Federal Civil Judicial Procedures and Rules (West 2010 ed.). . . . . . . . . . . .  4
-
-9A Charles A. Wright and Arthur R. Miller, Federal Practice and Procedure § 2553 
-(2d ed. 1995). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
-
-
  
                                         ARGUMENT
 
-     In its principal cross-appeal brief, the Equal Employment Opportunity 
+In its principal cross-appeal brief, the Equal Employment Opportunity 
 Commission ("EEOC" or "Commission") contended that the EEOC properly 
 objected on the record to the retaliation instruction that limited the adverse action 
 to whether Stacy Wing's promotion had been withdrawn. EEOC Br. at 2-3. The 
@@ -147,7 +68,8 @@ supported a finding that AutoZone retaliated against Wing by denying her a
 promotion for complaining about the harassment.  Id. at 55, 59-61.  Accordingly, 
 the EEOC urged this Court to reverse the trial court's judgment on the retaliation 
 claim and remand that claim for a new trial.
-     In response, AutoZone asserts that the district court's jury instruction on the 
+
+In response, AutoZone asserts that the district court's jury instruction on the 
 retaliation claim was correct for three reasons.  First, AutoZone asserts that the 
 EEOC waived any objection it had to the jury instruction on retaliation because the 
 Commission did not make a proper objection "during either of the two jury 
@@ -155,7 +77,8 @@ conferences held on the record."  AZ Resp. Br. at 23.  AutoZone notes that while
 both the EEOC and AutoZone objected to certain proposed jury instructions when 
 they were submitted to the district court prior to trial, the EEOC did not object 
 during the charge conference.  Id. at 21.  
-     Second, AutoZone asserts that, because Wing's EEOC charge alleged that 
+
+Second, AutoZone asserts that, because Wing's EEOC charge alleged that 
 she had been demoted from the PSM position and the EEOC's complaint alleged 
 that AutoZone had withdrawn Wing's promotion to the PSM position, neither the 
 EEOC nor Wing ever asserted that the retaliation claim was based on a failure to 
@@ -164,7 +87,8 @@ to the jury instruction, "it should not be permitted to assert a new claim on ap
 Id. at 23.   AutoZone further avers that the denial of a promotion claim was not at 
 issue in the case because, in the Pre-Trial Order, the EEOC stated that the only 
 basis for retaliation was the alleged withdrawal of Wing's promotion. Id.
-     Finally, AutoZone contends that, in any case, the jury instruction was 
+
+Finally, AutoZone contends that, in any case, the jury instruction was 
 appropriate because the EEOC cannot "point to any record evidence that would 
 support a failure to promote claim" since Wing was not qualified for the PSM 
 position, "an essential element of a failure to promote (or denial of a promotion) 
@@ -173,11 +97,12 @@ of any retaliatory intent on behalf of AutoZone" because "Wing testified that sh
 did not even begin her alleged training until after she complained about Mr. 
 Contreras in mid-2003," and there is evidence she received favorable treatment 
 after she complained. Id. at 26 (emphasis in original).
-     In making these arguments, which are simply incorrect, AutoZone ignores 
+
+In making these arguments, which are simply incorrect, AutoZone ignores 
 most of the points made in the Commission's opening brief.  Accordingly, the 
 Commission urges this Court to reverse the adverse judgment on the retaliation 
 claim and remand it for a new trial.
-     a. The Commission did properly object on the record to the jury instructions 
+a. The Commission did properly object on the record to the jury instructions 
 on the retaliation claim and therefore has not waived its objection. EEOC Br. at 2-
 3.  Rule 51(c) (1) states: "A party who objects to an instruction or the failure to 
 give an instruction must do so on the record, stating distinctly the matter objected 
@@ -193,7 +118,8 @@ has the authority to "review the failure to grant a timely request, despite a fa
 add an objection, when the court has made a definitive ruling on the record 
 rejecting the request."  Federal Civil Judicial Procedures and Rules 239 (West 
 2010 ed.).
-	At the district court's direction, ESSER at 2, and in compliance with Rule 51 
+
+At the district court's direction, ESSER at 2, and in compliance with Rule 51 
 (a)(1),<1> the EEOC submitted several months before the trial a proposed jury 
 instruction that clearly indicated the adverse action for the retaliation claim was 
 that "Defendant denied Ms. Wing a promotion to a Part Sales Manager position[.]"  
@@ -214,7 +140,8 @@ objection made at in camera charging conference under Rule 51 because "the
 district court was fully apprised of [the party's] position, and it would serve no 
 purpose to require counsel to have formally reasserted the objection after the 
 charge had been given to the jury"). 
-	The EEOC also effectively objected "on the record" to the exclusion of the 
+
+The EEOC also effectively objected "on the record" to the exclusion of the 
 denial of promotion claim. On the first day of the trial, the court inquired as to 
 whether there were any objections to the draft preliminary jury instructions which 
 included the denial of promotion claim.  ASER at 2; I-SER-30.  AutoZone 
@@ -230,7 +157,6 @@ THE COURT: I understand that. But was she told that she wasn't
 being promoted because someone else had said you are 
 promoted? Or did they say, we intend to promote you, and then 
 they said, we're not going to promote you?
-
 MR. LOPEZ: Well, I think -- I think at some point she was -- it 
 was represented to her that she would be promoted, and they did 
 not promote her.
@@ -241,7 +167,8 @@ either denied a promotion or had a promotion withdrawn such that the jury
 instructions should include both retaliatory acts.  Accordingly, the Commission 
 fulfilled its Rule 51 obligation to state on the record its objection to the jury 
 instruction requested by AutoZone and the grounds for the objection. 
-	Under these circumstances, it is immaterial that the EEOC was not the party 
+
+Under these circumstances, it is immaterial that the EEOC was not the party 
 to actually initiate an objection to the court's draft jury instructions.  Because the 
 draft jury instruction presented to the parties contained the language the EEOC 
 sought to be included, i.e. the denial of promotion claim, there was no basis for the 
@@ -253,7 +180,8 @@ sufficient to challenge the revised instructions that were ultimately docketed a
 which excluded the denial of promotion instruction.  A contrary view would not 
 only exalt form over substance but would result in a the unjust exclusion of  a 
 claim well founded in the evidence produced at trial.
-	Furthermore, for reasons based firmly in well settled rules of  practice, the 
+
+Furthermore, for reasons based firmly in well settled rules of  practice, the 
 Commission was not required to make any further objections in order to preserve 
 this point of error for appeal. By issuing  a retaliation instruction that excluded the 
 denial of promotion claim,  II-SER-102,  the district court made a "definitive ruling 
@@ -271,7 +199,8 @@ the record is clear that the district court was aware of the Commission's reques
 that the retaliation instruction include a denial of promotion as an adverse action 
 and that the court conveyed its rejection of that request by excluding that claim 
 from its docketed instruction.
-	Finally, AutoZone's argument that the EEOC lodged no objection during the 
+
+Finally, AutoZone's argument that the EEOC lodged no objection during the 
 final charge conference is disingenuous.  Prior to charging the jury, the district 
 court again invited the parties to critique the jury instructions.  Once again, the 
 draft jury instructions included the denial of promotion claim; hence, the 
@@ -283,7 +212,8 @@ that "[i]t should read either withdrawing and/or demoting in that paragraph, to 
 consistent with the preliminary instructions." II-SER-71.  When asked by the court 
 if it agreed with AutoZone's statement, the Commission said, "I think our position 
 is preserved." Id.<2>
-	Although  the Commission's response may seem vague, the Commission, as 
+
+Although  the Commission's response may seem vague, the Commission, as 
 already discussed, had already objected to the exclusion of the denial of promotion 
 claim from the instructions and repeatedly stated, during the summary judgment, 
 pre-trial, and trial proceedings, its position that the retaliatory acts in the case 
@@ -304,7 +234,8 @@ court of possible errors in the charge and affording the court and the parties a
 opportunity for correction before submission of the case to the jury.).  Therefore, 
 this Court should conclude that the objection was made and preserved on the 
 record.
-	Because the EEOC "preserved" its position regarding the inclusion of the 
+
+Because the EEOC "preserved" its position regarding the inclusion of the 
 denial of the promotion claim, International House of Pancakes, Inc. v. Twin City 
 Fire Insurance Company, 19 Fed. Appx. 686 (9th Cir. 2001), is distinguishable and 
 AutoZone's reliance on that case is misplaced.  AZ Resp. Br. at 22.  In that case, 
@@ -316,7 +247,8 @@ jury instructions included the instruction requested by the Commission. II-SER-7
 In addition, the Commission never stated that it was satisfied, but rather expressed 
 its objection to AutoZone's proposal that the denial of promotion claim be 
 excluded when it stated to the court that it "preserved" its position.  Id.  
-	This case is also unlike Snake River Valley Elec. Ass'n v. PacifiCorp,
+
+This case is also unlike Snake River Valley Elec. Ass'n v. PacifiCorp,
 357 F.3d 1042 (9th Cir. 2004).  In Snake River, the plaintiff participated in three 
 jury charge conferences, of which only the third was formal and on the record.  At 
 that conference, the plaintiff objected to an error in the instruction that was 
@@ -333,7 +265,8 @@ Commission expressed belief that it had preserved its position at the final char
 conference.  Prendeville v. Singer, 155 Fed. Appx. 303, 306 (9th Cir. 2005).  
 Accordingly, this Court should find that the Commission did not waive its right to 
 appeal the formulation of the instruction.
-	Alternatively, even if this Court agrees that "the EEOC did not make any 
+
+Alternatively, even if this Court agrees that "the EEOC did not make any 
 objection to the jury instruction during either of the two jury conferences held on 
 the record," AZ Resp. Br. at 23, the Commission has not waived its objection to the 
 retaliation instruction because its initial objections during the pretrial stages 
@@ -360,14 +293,15 @@ to the given instruction does not rise to the level of an affirmative relinquish
 or abandonment of Leal-Cruz's right to challenge the instruction on appeal." Id. at 
 669-70.  Therefore, the Commission is entitled to have its objection to the 
 retaliation instruction reviewed in this appeal. 
-	b. AutoZone's contention that district court properly instructed the jury 
+b. AutoZone's contention that district court properly instructed the jury 
 because a denial of promotion claim was never before the court is specious. AZ 
 Resp. Br. at 20. The denial of promotion claim has always been at issue in this 
 case.  The record establishes that the EEOC has advanced the denial of promotion 
 claim, explicitly and implicitly, throughout this litigation. See EEOC Br. at 56-59.  
 However, AutoZone, throughout this litigation, and even now on appeal, has 
 continued to misconstrue the Commission's retaliation claim. 
-	 AutoZone asserts that the "scope of this lawsuit is governed by the 
+	
+AutoZone asserts that the "scope of this lawsuit is governed by the 
 allegations Ms. Wing made in her charge" and because Ms. Wing's charge to the 
 EEOC only alleged she was demoted in retaliation for her complaints, the 
 Commission's suit is accordingly limited.  AZ Resp. Br. at 24.  This argument lacks 
@@ -390,7 +324,8 @@ substance of Wing's EEOC charge because they rest on similar facts concerning
 the PSM position, involve the same actors, and are tied to her complaint of sexual 
 harassment.  Accordingly, the Commission has the authority to sue based on the 
 failure to promote claims.
-	Next, AutoZone argues that the denial of promotion claim was not properly 
+
+Next, AutoZone argues that the denial of promotion claim was not properly 
 before the district court because "[i]n the complaint, the EEOC alleged that 
 AutoZone withdrew its promotion of Ms. Wing to a PSM position."  AZ Resp. Br. 
 at 24.  As it did throughout the litigation, AutoZone again on appeal 
@@ -405,7 +340,8 @@ judgment stage, in addition to asserting facts in support of the denial of promo
 claim, I-SER-35, the Commission also asserted that AutoZone had retaliated by 
 denying Wing a day off and scheduling her for four consecutive day shifts.  Id. at 
 34.  
-     Further, even though AutoZone correctly argues that, in the Pre-Trial Order, 
+    
+Further, even though AutoZone correctly argues that, in the Pre-Trial Order, 
 the EEOC mentioned only the withdrawal of promotion claim in its description of 
 the retaliation claim, AZ Resp. Br. at 24; ASER at 195, 207, especially in this 
 context, such inartful drafting should not thoroughly doom an entire claim. While 
@@ -433,7 +369,8 @@ Wing regarding the three occasions she was told she would not receive the PSM
 promotion because she had complained, EEOC Br. at 58; See III-SER-335, 340-42, 
 354, the Commission reiterated the facts supporting the denial of a promotion 
 theory.
-      In response to AutoZone's Rule 50 motion for judgment as a matter of law, 
+     
+In response to AutoZone's Rule 50 motion for judgment as a matter of law, 
 the EEOC countered by pointing to testimonial evidence that Wing asked 
 Contreras if she would be promoted and he said no because she told on him in 
 June.  II-SER-87.  The Commission also pointed to the denial of promotion by 
@@ -446,14 +383,14 @@ environment claim and the adverse employment action for the retaliation claim
 were the same and were argued vigorously, it is clear that the Commission never 
 abandoned its position regarding the promotion denial theory, but rather kept it a 
 central issue in the case.
-	The Commission similarly made clear there were two separate adverse 
+
+The Commission similarly made clear there were two separate adverse 
 actions - denial of promotion and withdrawal of promotion -- when AutoZone 
 renewed its Rule 50 motion following the closure of its case-in-chief.  Once again, 
 AutoZone argued that there was no evidence that Wing was demoted or had a 
 promotion withdrawn because there is no evidence that she ever held the position 
 of PSM. ESSER-38-42, 52-53.  In rebuttal, the Commission emphasized the denial 
 of the promotion theory.  Specifically, the Commission noted:  
-
 They keep referring to the withdrawal of the PSM code as if that were 
 the only act of alleged retaliation. It is not. Miss Wing testified that 
 there was retaliation prior to December 2003 by Mr. Contreras when 
@@ -461,23 +398,23 @@ he told her, I am not going -- you are never going to get promoted to a
 PSM because you told on me. That is an adverse employment action. 
 
 II-SER-72.  The Commission added:
-
 Miss Wing has testified that Mr. Brown told her, you're not going to 
 be promoted to PSM because you went outside the company, went to 
 an outside agency and filed a charge of discrimination. That is an 
 adverse employment action. 
 
 ESSER-48.  
-     On this record, this Court should conclude that the Commission kept the 
+On this record, this Court should conclude that the Commission kept the 
 denial of promotion claim before the district court and that AutoZone's argument 
 that the only adverse employment action advanced by the EEOC was the "alleged 
 demotion/withdrawal of a promotion from a PSM position," is unfounded.  AZ 
 Resp. Br. at 25.
-     c. AutoZone argues that, even if its procedural objections are without merit, 
+c. AutoZone argues that, even if its procedural objections are without merit, 
 this Court should not find error with the jury instruction because "[t]he EEOC 
 cannot point to any record evidence that would support a failure to promote claim."  
 AZ Resp. Br. at 25.  AutoZone's argument is untenable.
-     The district court rejected AutoZone's argument that no evidence supported 
+    
+The district court rejected AutoZone's argument that no evidence supported 
 the retaliation claim when it denied its Rule 50(a) motion at the close of the 
 Commission's case-in-chief.  I-SER-22, 28.  This is because the record contained 
 Wing's testimony that she had been told on three separate occasions by 
@@ -487,7 +424,8 @@ harassment.  See III-SER-335, 340-42, 354.  Wing's testimony, if credited, was
 sufficient to support, not only a jury instruction, but a favorable finding on the 
 denial of a promotion theory.  Thus, AutoZone's argument that there is no 
 evidence in the record to support the denial of promotion claim simply must fail.
-     AutoZone argues next that there was no error in the jury instruction on 
+    
+AutoZone argues next that there was no error in the jury instruction on 
 retaliation because "Wing was not qualified for the PSM position during her 
 employment - an essential element of a failure to promote (or denial of a 
 promotion) claim."  AZ Resp. Br. at 25.   According to AutoZone, the evidence is 
@@ -496,7 +434,8 @@ unable to identify any of the managers she shadowed during her training, she
 admitted that she did not perform certain PSM duties during her training, and she 
 never completed training under the second store manager.  Id. at 25-26.  This 
 argument is flawed.  
-     To send a retaliation claim to a jury, the plaintiff need only present sufficient 
+    
+To send a retaliation claim to a jury, the plaintiff need only present sufficient 
 evidence (1) that the employee opposed an unlawful employment practice; (2) that 
 she suffered an adverse employment action; and (3) that the adverse employment 
 action was caused by her opposition to the unlawful employment practice. 
@@ -517,7 +456,8 @@ where an adverse employment action follows on the heels of protected activity . 
 that she would not receive the promotion because of her discrimination complaints 
 bolsters a finding of retaliatory intent.   Hence, a reasonable jury could have 
 decided that a retaliatory motive was at work. 
-     In addition, AutoZone's argument that a plaintiff asserting a retaliatory 
+    
+In addition, AutoZone's argument that a plaintiff asserting a retaliatory 
 denial of  promotion claim must prove, presumably as part of the prima facie case, 
 qualification for the job denied is a classic red herring.  AutoZone cites no 
 authority for this assertion.  In this Circuit, to establish a prima facie case of 
@@ -525,7 +465,8 @@ retaliation in a denial of a promotion context, the plaintiff must show that Win
 . . . acted to protect  [her] Title VII rights; 2) that an adverse employment action 
 was thereafter taken against [her]; and 3) that a causal link existed between the two 
 events." McGinest, 360 F.3d at 1124.  
-     Further, AutoZone's contention that it is undisputed that there is no evidence 
+    
+Further, AutoZone's contention that it is undisputed that there is no evidence 
 that Wing was qualified for the job is baseless.  The record here contains evidence 
 from which a finding could be made that Wing was qualified for the PSM position.  
 First, given that AutoZone has no structure or set criteria for promotion to this 
@@ -536,7 +477,8 @@ especially rigorous and most good employees would qualify.  Furthermore,
 contrary to AutoZone's assertion that it is undisputed that Wing is not qualified, 
 AZ Resp. Br. at 25, the evidence here is sufficient to allow a jury to believe that 
 Wing was qualified for the promotion to PSM.  
-     The record is undisputed that Wing received PSM training. According to 
+    
+The record is undisputed that Wing received PSM training. According to 
 district manager Brian Goddard, the PSM training process occurs as follows: "If 
 the store manager thinks the employee is promotable, then Goddard tells the store 
 manager to get them trained up and ready to go.  There's no formal training.  They 
@@ -544,7 +486,8 @@ would shadow the manager.  They would take the extra effort that they needed to
 do.  Then, Goddard and the manager would talk and say, is he or she ready?   
 Goddard would sit down and talk with them a few minutes and try figure out where 
 they are."  ESSER-39.
-     Following this procedure, the record shows that Goddard directed store 
+    
+Following this procedure, the record shows that Goddard directed store 
 manager Jose Contreras to train Wing to become a PSM.  III-SER-332-33, 357-58.  
 Wing testified that she completed the training guide that Contreras had given her 
 and that she shadowed some managers.  Id. at 333-34, 353-54.  As a PSM, Josh 
@@ -556,7 +499,8 @@ as PSMs." ESSER-18.  He said he checked with his immediate predecessor,
 Derrick Edwards, and "he said that he was training them, but they were not in fact 
 PSMs, he was just training them." Id. at 19.  Indeed, Brown continued to train 
 Wing to be a PSM.  Id.
-     Lastly, Wing was given PSM responsibilities and had a password typically 
+    
+Lastly, Wing was given PSM responsibilities and had a password typically 
 possessed by a PSM.  III-SER-336-37.  Barajas, an AutoZone employee who was a 
 non-managerial employee like Wing during this period, testified that he and Wing 
 were given a manager's password because there were no PSMs at Store 2737.  II-
@@ -572,7 +516,8 @@ could conclude that given Wing's training, her completion of the training guide,
 and the PSM tasks she was performing, she was at a minimum within the pool of 
 individuals from which AutoZone might likely select PSMs and was therefore 
 sufficiently qualified for purposes of the Commission's retaliation claim. 
-	That Wing admitted she did not perform certain PSM tasks or possess the 
+
+That Wing admitted she did not perform certain PSM tasks or possess the 
 knowledge that certain duties were required of a PSM is far from fatal to the 
 Commission's retaliation claim. The record indicates that there was no uniform 
 approach to training employees to become a PSM.  Hector Barajas testified that he 
@@ -591,7 +536,8 @@ else if they were having a hard time and kind of together try to figure out what
 problem was. Just learn the ropes, you can say." Id.  Interim store manager Derrick 
 Edwards said he started off as a register, which is a part-time sales associate, and 
 "kind of worked his way up to PSM."  Id. at 29. 
-     Relatedly, store manager Brown testified that "[a]ll store managers train the 
+    
+Relatedly, store manager Brown testified that "[a]ll store managers train the 
 Parts Sales Managers" and the length of the training process depended on the 
 person.  ESSER-14-15.  Brown also was not sure if there were written training 
 requirements.  Id. at 15.  He recalled that at one time there was a binder you could 
@@ -612,7 +558,7 @@ uniformity in the training undermines AutoZone's argument that Wing was not
 qualified for the PSM job and further could have permitted the jury to conclude 
 that her alleged lack of qualification was not the actual reason for her non-
 promotion.  
-     d.  Lastly, AutoZone argues that the Commission's cross-appeal should not 
+d.  Lastly, AutoZone argues that the Commission's cross-appeal should not 
 prevail because "there is no record evidence of retaliatory intent on behalf of 
 AutoZone."  AZ Resp. Br. at 26.  AutoZone argues that evidence that Wing's 
 training for the PSM position commenced after she complained about being 
@@ -621,12 +567,14 @@ received another promotion to a commercial specialist position indicate that "th
 EEOC has not produced any evidence that AutoZone failed to promote Ms. Wing 
 to a PSM position, let alone did so in retaliation for her complaint of harassment."  
 Id.  AutoZone's argument lacks merit.
-     First, contrary to AutoZone's contention, the trial record contained evidence 
+    
+First, contrary to AutoZone's contention, the trial record contained evidence 
 upon which a jury could easily find retaliatory intent.  Wing testified that managers 
 Contreras, Brown, and Scott Schmitt told her she would not get the PSM 
 promotion because she had complained about sexual harassment.  III-SER-335, 
 340-42.  
-     Second, AutoZone's argument that the Commission cannot establish a 
+    
+Second, AutoZone's argument that the Commission cannot establish a 
 retaliatory motive because Wing was offered PSM training after she complained 
 makes no sense.  The claim at issue is not the denial of training but rather the 
 denial of a promotion, and the evidence is clear that Wing was not given a 
@@ -638,7 +586,8 @@ denying her the PSM promotion, and record evidence indicated that they were
 aware of her sexual harassment complaints.  III-SER-335, 342; ESSER-37.  
 Accordingly, the fact that the training opportunity was offered after she 
 complained is largely irrelevant to the retaliation claim.
-     Third, the record contained undisputed evidence that Wing worked for 
+    
+Third, the record contained undisputed evidence that Wing worked for 
 AutoZone for three years and was never promoted to PSM despite the fact that she 
 had taken and completed PSM training twice and served in the position 
 temporarily.  II-SER-86; III-SER-335-36.   In contrast, Josh Arias was promoted 
@@ -653,14 +602,16 @@ credentials or training experience Wing had, suggests that it was Wing's complai
 of sexual harassment that motivated AutoZone's decision not to promote her.  
 Hence, the Commission presented sufficient evidence of retaliatory intent, which 
 under a proper instruction, might have resulted in a finding of liability.  
-     AutoZone's argument that it could not have retaliated against Wing because 
+    
+AutoZone's argument that it could not have retaliated against Wing because 
 it made her full-time and promoted her to a commercial specialist job is similarly 
 unavailing.  The fact that AutoZone officially placed Wing in full-time status and 
 ultimately promoted her to a commercial specialist has no bearing on whether the 
 company denied her promotion to the PSM job because of her protected conduct.  
 III-SER-332; ESSER-27.   And there was no evidence that the commercialist 
 specialist was at the same pay or status level as a PSM. ESSER-26. 
-     On the whole, none of AutoZone's arguments justify the exclusion of the 
+    
+On the whole, none of AutoZone's arguments justify the exclusion of the 
 denial of a promotion claim from the retaliation instruction.  The Commission was 
 entitled to have a jury instruction tailored to the retaliation evidence and theories it 
 presented at trial.  By excluding the denial of promotion claim from the jury 
@@ -674,8 +625,7 @@ proffered by AutoZone, reverse the retaliation judgment in favor of AutoZone, an
 remand for a new trial on the retaliation claim.
 
                                  CONCLUSION
-
-     The Commission proposed a jury instruction on the denial claim that was 
+The Commission proposed a jury instruction on the denial claim that was 
 supported by the evidence presented at trial and the court's improper restriction of 
 the adverse action instruction to a withdrawal of a promotion substantially 
 impacted the outcome of the case.  Accordingly, the EEOC urges this Court to 
